@@ -1,0 +1,15 @@
+# dados baixados do DATASUS - reproduzíveis via src/loadData.py
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
