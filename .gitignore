@@ -20,4 +20,4 @@ site/node_modules/
 site/dist/
 site/.observablehq/
 site/src/.observablehq/
-site/src/data/*.csv
+

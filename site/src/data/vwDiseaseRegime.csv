@@ -1,0 +1,6 @@
+﻿diseaseCode,diseaseName,admissions,shortStay,shortStayPct,careRegime
+E851,Polineuropatia Amiloidotica Familiar,29,25,86.2,Tratamento (predominio de dia unico)
+G120,Atrofia Muscular Espinhal,720,496,68.9,Tratamento (predominio de dia unico)
+G122,Esclerose Lateral Amiotrofica,1309,123,9.4,Internacao clinica
+G35,Esclerose Multipla,8396,6164,73.4,Tratamento (predominio de dia unico)
+G700,Miastenia Gravis,1136,180,15.8,Internacao clinica

@@ -1,5 +1,10 @@
+// O site e publicado em gabrielamclemente.github.io/neuro-rare-sus/, ou seja,
+// dentro de um subcaminho. Sem "base" o Framework gera links absolutos (/style.css)
+// que apontariam para a raiz do dominio e dariam 404 em producao — embora
+// funcionassem no preview local, onde a raiz e o proprio site.
 export default {
   root: "src",
+  base: "/neuro-rare-sus/",
   title: "NeuroRare SUS",
   pages: [
     {name: "Panorama", path: "/"},
@@ -12,4 +17,3 @@ export default {
   toc: true,
   search: false
 };
- 

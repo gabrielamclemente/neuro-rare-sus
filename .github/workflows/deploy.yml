@@ -1,0 +1,62 @@
+# Build do site (Observable Framework) e publicacao no GitHub Pages.
+# Dispara a cada push na main que toque em site/, e tambem sob demanda.
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - ".github/workflows/deploy.yml"
+  workflow_dispatch:
+
+# Permissoes minimas: ler o repo, escrever no Pages, e o id-token que o
+# deploy-pages usa para provar que veio deste workflow.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Se dois pushes acontecerem seguidos, deixa o mais recente terminar.
+# cancel-in-progress: false para nunca interromper um deploy ja no meio.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      # npm ci, nao npm install: instala exatamente o que esta no lock file.
+      # Build reproduzivel — o site que sai daqui e o mesmo que voce viu local.
+      - name: Instalar dependencias
+        working-directory: site
+        run: npm ci
+
+      - name: Build
+        working-directory: site
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

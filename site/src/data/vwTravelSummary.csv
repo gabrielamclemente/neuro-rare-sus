@@ -1,0 +1,16 @@
+﻿diseaseCode,diseaseName,travelType,admissions,pct
+E851,Polineuropatia Amiloidotica Familiar,Mesmo municipio,16,55.2
+E851,Polineuropatia Amiloidotica Familiar,Outra UF,5,17.2
+E851,Polineuropatia Amiloidotica Familiar,"Outro municipio, mesma UF",8,27.6
+G120,Atrofia Muscular Espinhal,Mesmo municipio,362,50.3
+G120,Atrofia Muscular Espinhal,Outra UF,20,2.8
+G120,Atrofia Muscular Espinhal,"Outro municipio, mesma UF",338,46.9
+G122,Esclerose Lateral Amiotrofica,Mesmo municipio,750,57.3
+G122,Esclerose Lateral Amiotrofica,Outra UF,9,0.7
+G122,Esclerose Lateral Amiotrofica,"Outro municipio, mesma UF",550,42.0
+G35,Esclerose Multipla,Mesmo municipio,4320,51.5
+G35,Esclerose Multipla,Outra UF,48,0.6
+G35,Esclerose Multipla,"Outro municipio, mesma UF",4028,48.0
+G700,Miastenia Gravis,Mesmo municipio,612,53.9
+G700,Miastenia Gravis,Outra UF,15,1.3
+G700,Miastenia Gravis,"Outro municipio, mesma UF",509,44.8

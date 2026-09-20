@@ -1,0 +1,970 @@
+﻿diseaseCode,diseaseName,municipalityHospital,admissions,rankInDisease,pctOfDisease,cumulativePct
+E851,Polineuropatia Amiloidotica Familiar,261160,20,1,68.97,68.97
+E851,Polineuropatia Amiloidotica Familiar,352900,3,2,10.34,79.31
+E851,Polineuropatia Amiloidotica Familiar,310620,1,3,3.45,82.76
+E851,Polineuropatia Amiloidotica Familiar,314560,1,4,3.45,86.21
+E851,Polineuropatia Amiloidotica Familiar,315780,1,5,3.45,89.66
+E851,Polineuropatia Amiloidotica Familiar,330455,1,6,3.45,93.1
+E851,Polineuropatia Amiloidotica Familiar,352470,1,7,3.45,96.55
+E851,Polineuropatia Amiloidotica Familiar,412720,1,8,3.45,100.0
+G120,Atrofia Muscular Espinhal,261160,312,1,43.33,43.33
+G120,Atrofia Muscular Espinhal,530010,41,2,5.69,49.03
+G120,Atrofia Muscular Espinhal,420540,38,3,5.28,54.31
+G120,Atrofia Muscular Espinhal,330455,30,4,4.17,58.47
+G120,Atrofia Muscular Espinhal,130260,27,5,3.75,62.22
+G120,Atrofia Muscular Espinhal,420890,24,6,3.33,65.56
+G120,Atrofia Muscular Espinhal,353060,22,7,3.06,68.61
+G120,Atrofia Muscular Espinhal,150140,21,8,2.92,71.53
+G120,Atrofia Muscular Espinhal,292740,12,9,1.67,73.19
+G120,Atrofia Muscular Espinhal,310620,12,10,1.67,74.86
+G120,Atrofia Muscular Espinhal,410690,10,11,1.39,76.25
+G120,Atrofia Muscular Espinhal,354340,9,12,1.25,77.5
+G120,Atrofia Muscular Espinhal,354890,9,13,1.25,78.75
+G120,Atrofia Muscular Espinhal,500270,9,14,1.25,80.0
+G120,Atrofia Muscular Espinhal,510340,9,15,1.25,81.25
+G120,Atrofia Muscular Espinhal,520870,9,16,1.25,82.5
+G120,Atrofia Muscular Espinhal,221100,8,17,1.11,83.61
+G120,Atrofia Muscular Espinhal,150680,7,18,0.97,84.58
+G120,Atrofia Muscular Espinhal,220840,7,19,0.97,85.56
+G120,Atrofia Muscular Espinhal,230440,7,20,0.97,86.53
+G120,Atrofia Muscular Espinhal,280030,7,21,0.97,87.5
+G120,Atrofia Muscular Espinhal,320120,7,22,0.97,88.47
+G120,Atrofia Muscular Espinhal,352530,7,23,0.97,89.44
+G120,Atrofia Muscular Espinhal,210530,6,24,0.83,90.28
+G120,Atrofia Muscular Espinhal,220350,6,25,0.83,91.11
+G120,Atrofia Muscular Espinhal,420430,5,26,0.69,91.81
+G120,Atrofia Muscular Espinhal,431490,5,27,0.69,92.5
+G120,Atrofia Muscular Espinhal,330240,4,28,0.56,93.06
+G120,Atrofia Muscular Espinhal,355030,4,29,0.56,93.61
+G120,Atrofia Muscular Espinhal,110004,3,30,0.42,94.03
+G120,Atrofia Muscular Espinhal,120040,3,31,0.42,94.44
+G120,Atrofia Muscular Espinhal,330390,3,32,0.42,94.86
+G120,Atrofia Muscular Espinhal,353870,3,33,0.42,95.28
+G120,Atrofia Muscular Espinhal,110020,2,34,0.28,95.56
+G120,Atrofia Muscular Espinhal,230420,2,35,0.28,95.83
+G120,Atrofia Muscular Espinhal,240810,2,36,0.28,96.11
+G120,Atrofia Muscular Espinhal,250750,2,37,0.28,96.39
+G120,Atrofia Muscular Espinhal,270430,2,38,0.28,96.67
+G120,Atrofia Muscular Espinhal,330630,2,39,0.28,96.94
+G120,Atrofia Muscular Espinhal,350950,2,40,0.28,97.22
+G120,Atrofia Muscular Espinhal,352340,2,41,0.28,97.5
+G120,Atrofia Muscular Espinhal,420910,2,42,0.28,97.78
+G120,Atrofia Muscular Espinhal,211130,1,43,0.14,97.92
+G120,Atrofia Muscular Espinhal,260410,1,44,0.14,98.06
+G120,Atrofia Muscular Espinhal,261110,1,45,0.14,98.19
+G120,Atrofia Muscular Espinhal,291080,1,46,0.14,98.33
+G120,Atrofia Muscular Espinhal,293330,1,47,0.14,98.47
+G120,Atrofia Muscular Espinhal,313670,1,48,0.14,98.61
+G120,Atrofia Muscular Espinhal,330100,1,49,0.14,98.75
+G120,Atrofia Muscular Espinhal,330330,1,50,0.14,98.89
+G120,Atrofia Muscular Espinhal,350550,1,51,0.14,99.03
+G120,Atrofia Muscular Espinhal,351110,1,52,0.14,99.17
+G120,Atrofia Muscular Espinhal,352590,1,53,0.14,99.31
+G120,Atrofia Muscular Espinhal,410420,1,54,0.14,99.44
+G120,Atrofia Muscular Espinhal,412810,1,55,0.14,99.58
+G120,Atrofia Muscular Espinhal,430790,1,56,0.14,99.72
+G120,Atrofia Muscular Espinhal,431690,1,57,0.14,99.86
+G120,Atrofia Muscular Espinhal,431840,1,58,0.14,100.0
+G122,Esclerose Lateral Amiotrofica,310620,135,1,10.31,10.31
+G122,Esclerose Lateral Amiotrofica,355030,82,2,6.26,16.58
+G122,Esclerose Lateral Amiotrofica,261160,54,3,4.13,20.7
+G122,Esclerose Lateral Amiotrofica,354340,43,4,3.28,23.99
+G122,Esclerose Lateral Amiotrofica,292740,41,5,3.13,27.12
+G122,Esclerose Lateral Amiotrofica,330455,37,6,2.83,29.95
+G122,Esclerose Lateral Amiotrofica,431490,36,7,2.75,32.7
+G122,Esclerose Lateral Amiotrofica,211130,34,8,2.6,35.29
+G122,Esclerose Lateral Amiotrofica,240810,30,9,2.29,37.59
+G122,Esclerose Lateral Amiotrofica,150140,27,10,2.06,39.65
+G122,Esclerose Lateral Amiotrofica,230440,27,11,2.06,41.71
+G122,Esclerose Lateral Amiotrofica,316990,27,12,2.06,43.77
+G122,Esclerose Lateral Amiotrofica,520870,27,13,2.06,45.84
+G122,Esclerose Lateral Amiotrofica,330390,24,14,1.83,47.67
+G122,Esclerose Lateral Amiotrofica,313670,22,15,1.68,49.35
+G122,Esclerose Lateral Amiotrofica,430660,20,16,1.53,50.88
+G122,Esclerose Lateral Amiotrofica,130260,17,17,1.3,52.18
+G122,Esclerose Lateral Amiotrofica,350950,16,18,1.22,53.4
+G122,Esclerose Lateral Amiotrofica,352390,15,19,1.15,54.55
+G122,Esclerose Lateral Amiotrofica,410690,13,20,0.99,55.54
+G122,Esclerose Lateral Amiotrofica,430890,13,21,0.99,56.53
+G122,Esclerose Lateral Amiotrofica,500270,13,22,0.99,57.52
+G122,Esclerose Lateral Amiotrofica,411370,12,23,0.92,58.44
+G122,Esclerose Lateral Amiotrofica,530010,12,24,0.92,59.36
+G122,Esclerose Lateral Amiotrofica,314790,11,25,0.84,60.2
+G122,Esclerose Lateral Amiotrofica,351110,11,26,0.84,61.04
+G122,Esclerose Lateral Amiotrofica,354980,11,27,0.84,61.88
+G122,Esclerose Lateral Amiotrofica,353060,10,28,0.76,62.64
+G122,Esclerose Lateral Amiotrofica,355220,10,29,0.76,63.41
+G122,Esclerose Lateral Amiotrofica,280030,9,30,0.69,64.09
+G122,Esclerose Lateral Amiotrofica,320130,9,31,0.69,64.78
+G122,Esclerose Lateral Amiotrofica,420540,9,32,0.69,65.47
+G122,Esclerose Lateral Amiotrofica,421160,9,33,0.69,66.16
+G122,Esclerose Lateral Amiotrofica,421650,8,34,0.61,66.77
+G122,Esclerose Lateral Amiotrofica,430020,8,35,0.61,67.38
+G122,Esclerose Lateral Amiotrofica,310560,7,36,0.53,67.91
+G122,Esclerose Lateral Amiotrofica,320060,7,37,0.53,68.45
+G122,Esclerose Lateral Amiotrofica,354870,7,38,0.53,68.98
+G122,Esclerose Lateral Amiotrofica,420910,7,39,0.53,69.52
+G122,Esclerose Lateral Amiotrofica,351870,6,40,0.46,69.98
+G122,Esclerose Lateral Amiotrofica,421870,6,41,0.46,70.44
+G122,Esclerose Lateral Amiotrofica,221100,5,42,0.38,70.82
+G122,Esclerose Lateral Amiotrofica,250750,5,43,0.38,71.2
+G122,Esclerose Lateral Amiotrofica,251370,5,44,0.38,71.58
+G122,Esclerose Lateral Amiotrofica,261390,5,45,0.38,71.96
+G122,Esclerose Lateral Amiotrofica,320500,5,46,0.38,72.35
+G122,Esclerose Lateral Amiotrofica,330220,5,47,0.38,72.73
+G122,Esclerose Lateral Amiotrofica,330630,5,48,0.38,73.11
+G122,Esclerose Lateral Amiotrofica,351620,5,49,0.38,73.49
+G122,Esclerose Lateral Amiotrofica,352050,5,50,0.38,73.87
+G122,Esclerose Lateral Amiotrofica,352230,5,51,0.38,74.26
+G122,Esclerose Lateral Amiotrofica,354140,5,52,0.38,74.64
+G122,Esclerose Lateral Amiotrofica,354890,5,53,0.38,75.02
+G122,Esclerose Lateral Amiotrofica,410420,5,54,0.38,75.4
+G122,Esclerose Lateral Amiotrofica,430460,5,55,0.38,75.78
+G122,Esclerose Lateral Amiotrofica,431560,5,56,0.38,76.17
+G122,Esclerose Lateral Amiotrofica,231290,4,57,0.31,76.47
+G122,Esclerose Lateral Amiotrofica,270430,4,58,0.31,76.78
+G122,Esclerose Lateral Amiotrofica,314980,4,59,0.31,77.08
+G122,Esclerose Lateral Amiotrofica,315250,4,60,0.31,77.39
+G122,Esclerose Lateral Amiotrofica,350600,4,61,0.31,77.69
+G122,Esclerose Lateral Amiotrofica,352800,4,62,0.31,78.0
+G122,Esclerose Lateral Amiotrofica,353470,4,63,0.31,78.3
+G122,Esclerose Lateral Amiotrofica,430900,4,64,0.31,78.61
+G122,Esclerose Lateral Amiotrofica,431410,4,65,0.31,78.92
+G122,Esclerose Lateral Amiotrofica,120040,3,66,0.23,79.14
+G122,Esclerose Lateral Amiotrofica,150220,3,67,0.23,79.37
+G122,Esclerose Lateral Amiotrofica,170210,3,68,0.23,79.6
+G122,Esclerose Lateral Amiotrofica,210530,3,69,0.23,79.83
+G122,Esclerose Lateral Amiotrofica,310160,3,70,0.23,80.06
+G122,Esclerose Lateral Amiotrofica,311800,3,71,0.23,80.29
+G122,Esclerose Lateral Amiotrofica,317020,3,72,0.23,80.52
+G122,Esclerose Lateral Amiotrofica,320120,3,73,0.23,80.75
+G122,Esclerose Lateral Amiotrofica,330350,3,74,0.23,80.98
+G122,Esclerose Lateral Amiotrofica,350750,3,75,0.23,81.21
+G122,Esclerose Lateral Amiotrofica,352190,3,76,0.23,81.44
+G122,Esclerose Lateral Amiotrofica,352590,3,77,0.23,81.67
+G122,Esclerose Lateral Amiotrofica,352900,3,78,0.23,81.89
+G122,Esclerose Lateral Amiotrofica,354760,3,79,0.23,82.12
+G122,Esclerose Lateral Amiotrofica,354780,3,80,0.23,82.35
+G122,Esclerose Lateral Amiotrofica,354990,3,81,0.23,82.58
+G122,Esclerose Lateral Amiotrofica,430390,3,82,0.23,82.81
+G122,Esclerose Lateral Amiotrofica,430920,3,83,0.23,83.04
+G122,Esclerose Lateral Amiotrofica,500830,3,84,0.23,83.27
+G122,Esclerose Lateral Amiotrofica,510340,3,85,0.23,83.5
+G122,Esclerose Lateral Amiotrofica,521850,3,86,0.23,83.73
+G122,Esclerose Lateral Amiotrofica,130250,2,87,0.15,83.88
+G122,Esclerose Lateral Amiotrofica,150060,2,88,0.15,84.03
+G122,Esclerose Lateral Amiotrofica,170950,2,89,0.15,84.19
+G122,Esclerose Lateral Amiotrofica,172100,2,90,0.15,84.34
+G122,Esclerose Lateral Amiotrofica,210160,2,91,0.15,84.49
+G122,Esclerose Lateral Amiotrofica,210467,2,92,0.15,84.64
+G122,Esclerose Lateral Amiotrofica,231140,2,93,0.15,84.8
+G122,Esclerose Lateral Amiotrofica,240830,2,94,0.15,84.95
+G122,Esclerose Lateral Amiotrofica,291470,2,95,0.15,85.1
+G122,Esclerose Lateral Amiotrofica,310670,2,96,0.15,85.26
+G122,Esclerose Lateral Amiotrofica,312770,2,97,0.15,85.41
+G122,Esclerose Lateral Amiotrofica,314330,2,98,0.15,85.56
+G122,Esclerose Lateral Amiotrofica,314590,2,99,0.15,85.71
+G122,Esclerose Lateral Amiotrofica,315210,2,100,0.15,85.87
+G122,Esclerose Lateral Amiotrofica,320150,2,101,0.15,86.02
+G122,Esclerose Lateral Amiotrofica,320320,2,102,0.15,86.17
+G122,Esclerose Lateral Amiotrofica,330025,2,103,0.15,86.33
+G122,Esclerose Lateral Amiotrofica,330040,2,104,0.15,86.48
+G122,Esclerose Lateral Amiotrofica,330330,2,105,0.15,86.63
+G122,Esclerose Lateral Amiotrofica,330340,2,106,0.15,86.78
+G122,Esclerose Lateral Amiotrofica,330420,2,107,0.15,86.94
+G122,Esclerose Lateral Amiotrofica,350170,2,108,0.15,87.09
+G122,Esclerose Lateral Amiotrofica,352720,2,109,0.15,87.24
+G122,Esclerose Lateral Amiotrofica,353010,2,110,0.15,87.39
+G122,Esclerose Lateral Amiotrofica,353140,2,111,0.15,87.55
+G122,Esclerose Lateral Amiotrofica,353440,2,112,0.15,87.7
+G122,Esclerose Lateral Amiotrofica,353650,2,113,0.15,87.85
+G122,Esclerose Lateral Amiotrofica,354880,2,114,0.15,88.01
+G122,Esclerose Lateral Amiotrofica,411960,2,115,0.15,88.16
+G122,Esclerose Lateral Amiotrofica,411990,2,116,0.15,88.31
+G122,Esclerose Lateral Amiotrofica,412810,2,117,0.15,88.46
+G122,Esclerose Lateral Amiotrofica,420200,2,118,0.15,88.62
+G122,Esclerose Lateral Amiotrofica,420820,2,119,0.15,88.77
+G122,Esclerose Lateral Amiotrofica,420930,2,120,0.15,88.92
+G122,Esclerose Lateral Amiotrofica,430510,2,121,0.15,89.08
+G122,Esclerose Lateral Amiotrofica,431720,2,122,0.15,89.23
+G122,Esclerose Lateral Amiotrofica,521450,2,123,0.15,89.38
+G122,Esclerose Lateral Amiotrofica,110002,1,124,0.08,89.46
+G122,Esclerose Lateral Amiotrofica,110013,1,125,0.08,89.53
+G122,Esclerose Lateral Amiotrofica,110020,1,126,0.08,89.61
+G122,Esclerose Lateral Amiotrofica,110030,1,127,0.08,89.69
+G122,Esclerose Lateral Amiotrofica,120010,1,128,0.08,89.76
+G122,Esclerose Lateral Amiotrofica,120020,1,129,0.08,89.84
+G122,Esclerose Lateral Amiotrofica,130340,1,130,0.08,89.92
+G122,Esclerose Lateral Amiotrofica,140010,1,131,0.08,89.99
+G122,Esclerose Lateral Amiotrofica,150240,1,132,0.08,90.07
+G122,Esclerose Lateral Amiotrofica,150680,1,133,0.08,90.15
+G122,Esclerose Lateral Amiotrofica,150747,1,134,0.08,90.22
+G122,Esclerose Lateral Amiotrofica,150795,1,135,0.08,90.3
+G122,Esclerose Lateral Amiotrofica,150800,1,136,0.08,90.37
+G122,Esclerose Lateral Amiotrofica,160030,1,137,0.08,90.45
+G122,Esclerose Lateral Amiotrofica,171610,1,138,0.08,90.53
+G122,Esclerose Lateral Amiotrofica,210300,1,139,0.08,90.6
+G122,Esclerose Lateral Amiotrofica,210350,1,140,0.08,90.68
+G122,Esclerose Lateral Amiotrofica,210480,1,141,0.08,90.76
+G122,Esclerose Lateral Amiotrofica,210860,1,142,0.08,90.83
+G122,Esclerose Lateral Amiotrofica,210910,1,143,0.08,90.91
+G122,Esclerose Lateral Amiotrofica,220190,1,144,0.08,90.99
+G122,Esclerose Lateral Amiotrofica,220770,1,145,0.08,91.06
+G122,Esclerose Lateral Amiotrofica,230190,1,146,0.08,91.14
+G122,Esclerose Lateral Amiotrofica,230730,1,147,0.08,91.21
+G122,Esclerose Lateral Amiotrofica,230810,1,148,0.08,91.29
+G122,Esclerose Lateral Amiotrofica,231170,1,149,0.08,91.37
+G122,Esclerose Lateral Amiotrofica,240800,1,150,0.08,91.44
+G122,Esclerose Lateral Amiotrofica,250400,1,151,0.08,91.52
+G122,Esclerose Lateral Amiotrofica,251130,1,152,0.08,91.6
+G122,Esclerose Lateral Amiotrofica,260120,1,153,0.08,91.67
+G122,Esclerose Lateral Amiotrofica,260410,1,154,0.08,91.75
+G122,Esclerose Lateral Amiotrofica,260940,1,155,0.08,91.83
+G122,Esclerose Lateral Amiotrofica,270140,1,156,0.08,91.9
+G122,Esclerose Lateral Amiotrofica,270630,1,157,0.08,91.98
+G122,Esclerose Lateral Amiotrofica,290320,1,158,0.08,92.06
+G122,Esclerose Lateral Amiotrofica,290420,1,159,0.08,92.13
+G122,Esclerose Lateral Amiotrofica,291080,1,160,0.08,92.21
+G122,Esclerose Lateral Amiotrofica,291880,1,161,0.08,92.28
+G122,Esclerose Lateral Amiotrofica,292340,1,162,0.08,92.36
+G122,Esclerose Lateral Amiotrofica,292520,1,163,0.08,92.44
+G122,Esclerose Lateral Amiotrofica,292870,1,164,0.08,92.51
+G122,Esclerose Lateral Amiotrofica,310200,1,165,0.08,92.59
+G122,Esclerose Lateral Amiotrofica,310350,1,166,0.08,92.67
+G122,Esclerose Lateral Amiotrofica,310420,1,167,0.08,92.74
+G122,Esclerose Lateral Amiotrofica,310710,1,168,0.08,92.82
+G122,Esclerose Lateral Amiotrofica,311070,1,169,0.08,92.9
+G122,Esclerose Lateral Amiotrofica,312160,1,170,0.08,92.97
+G122,Esclerose Lateral Amiotrofica,313130,1,171,0.08,93.05
+G122,Esclerose Lateral Amiotrofica,313510,1,172,0.08,93.12
+G122,Esclerose Lateral Amiotrofica,313840,1,173,0.08,93.2
+G122,Esclerose Lateral Amiotrofica,313900,1,174,0.08,93.28
+G122,Esclerose Lateral Amiotrofica,314500,1,175,0.08,93.35
+G122,Esclerose Lateral Amiotrofica,314560,1,176,0.08,93.43
+G122,Esclerose Lateral Amiotrofica,314700,1,177,0.08,93.51
+G122,Esclerose Lateral Amiotrofica,316210,1,178,0.08,93.58
+G122,Esclerose Lateral Amiotrofica,316940,1,179,0.08,93.66
+G122,Esclerose Lateral Amiotrofica,317010,1,180,0.08,93.74
+G122,Esclerose Lateral Amiotrofica,320010,1,181,0.08,93.81
+G122,Esclerose Lateral Amiotrofica,320506,1,182,0.08,93.89
+G122,Esclerose Lateral Amiotrofica,320530,1,183,0.08,93.96
+G122,Esclerose Lateral Amiotrofica,330010,1,184,0.08,94.04
+G122,Esclerose Lateral Amiotrofica,330030,1,185,0.08,94.12
+G122,Esclerose Lateral Amiotrofica,330060,1,186,0.08,94.19
+G122,Esclerose Lateral Amiotrofica,330100,1,187,0.08,94.27
+G122,Esclerose Lateral Amiotrofica,330225,1,188,0.08,94.35
+G122,Esclerose Lateral Amiotrofica,330290,1,189,0.08,94.42
+G122,Esclerose Lateral Amiotrofica,330580,1,190,0.08,94.5
+G122,Esclerose Lateral Amiotrofica,350050,1,191,0.08,94.58
+G122,Esclerose Lateral Amiotrofica,350250,1,192,0.08,94.65
+G122,Esclerose Lateral Amiotrofica,350280,1,193,0.08,94.73
+G122,Esclerose Lateral Amiotrofica,350450,1,194,0.08,94.81
+G122,Esclerose Lateral Amiotrofica,350550,1,195,0.08,94.88
+G122,Esclerose Lateral Amiotrofica,351280,1,196,0.08,94.96
+G122,Esclerose Lateral Amiotrofica,351518,1,197,0.08,95.03
+G122,Esclerose Lateral Amiotrofica,351570,1,198,0.08,95.11
+G122,Esclerose Lateral Amiotrofica,351670,1,199,0.08,95.19
+G122,Esclerose Lateral Amiotrofica,351880,1,200,0.08,95.26
+G122,Esclerose Lateral Amiotrofica,351990,1,201,0.08,95.34
+G122,Esclerose Lateral Amiotrofica,352440,1,202,0.08,95.42
+G122,Esclerose Lateral Amiotrofica,352530,1,203,0.08,95.49
+G122,Esclerose Lateral Amiotrofica,352690,1,204,0.08,95.57
+G122,Esclerose Lateral Amiotrofica,353070,1,205,0.08,95.65
+G122,Esclerose Lateral Amiotrofica,353080,1,206,0.08,95.72
+G122,Esclerose Lateral Amiotrofica,353870,1,207,0.08,95.8
+G122,Esclerose Lateral Amiotrofica,354100,1,208,0.08,95.87
+G122,Esclerose Lateral Amiotrofica,354390,1,209,0.08,95.95
+G122,Esclerose Lateral Amiotrofica,354850,1,210,0.08,96.03
+G122,Esclerose Lateral Amiotrofica,355280,1,211,0.08,96.1
+G122,Esclerose Lateral Amiotrofica,355500,1,212,0.08,96.18
+G122,Esclerose Lateral Amiotrofica,355670,1,213,0.08,96.26
+G122,Esclerose Lateral Amiotrofica,410480,1,214,0.08,96.33
+G122,Esclerose Lateral Amiotrofica,410940,1,215,0.08,96.41
+G122,Esclerose Lateral Amiotrofica,411460,1,216,0.08,96.49
+G122,Esclerose Lateral Amiotrofica,411520,1,217,0.08,96.56
+G122,Esclerose Lateral Amiotrofica,411580,1,218,0.08,96.64
+G122,Esclerose Lateral Amiotrofica,411820,1,219,0.08,96.72
+G122,Esclerose Lateral Amiotrofica,412240,1,220,0.08,96.79
+G122,Esclerose Lateral Amiotrofica,412560,1,221,0.08,96.87
+G122,Esclerose Lateral Amiotrofica,412710,1,222,0.08,96.94
+G122,Esclerose Lateral Amiotrofica,412820,1,223,0.08,97.02
+G122,Esclerose Lateral Amiotrofica,420290,1,224,0.08,97.1
+G122,Esclerose Lateral Amiotrofica,420455,1,225,0.08,97.17
+G122,Esclerose Lateral Amiotrofica,420690,1,226,0.08,97.25
+G122,Esclerose Lateral Amiotrofica,420840,1,227,0.08,97.33
+G122,Esclerose Lateral Amiotrofica,421150,1,228,0.08,97.4
+G122,Esclerose Lateral Amiotrofica,421725,1,229,0.08,97.48
+G122,Esclerose Lateral Amiotrofica,430040,1,230,0.08,97.56
+G122,Esclerose Lateral Amiotrofica,430080,1,231,0.08,97.63
+G122,Esclerose Lateral Amiotrofica,430240,1,232,0.08,97.71
+G122,Esclerose Lateral Amiotrofica,430300,1,233,0.08,97.78
+G122,Esclerose Lateral Amiotrofica,430450,1,234,0.08,97.86
+G122,Esclerose Lateral Amiotrofica,430470,1,235,0.08,97.94
+G122,Esclerose Lateral Amiotrofica,430700,1,236,0.08,98.01
+G122,Esclerose Lateral Amiotrofica,430770,1,237,0.08,98.09
+G122,Esclerose Lateral Amiotrofica,430850,1,238,0.08,98.17
+G122,Esclerose Lateral Amiotrofica,430930,1,239,0.08,98.24
+G122,Esclerose Lateral Amiotrofica,431000,1,240,0.08,98.32
+G122,Esclerose Lateral Amiotrofica,431340,1,241,0.08,98.4
+G122,Esclerose Lateral Amiotrofica,431440,1,242,0.08,98.47
+G122,Esclerose Lateral Amiotrofica,431690,1,243,0.08,98.55
+G122,Esclerose Lateral Amiotrofica,431710,1,244,0.08,98.62
+G122,Esclerose Lateral Amiotrofica,431750,1,245,0.08,98.7
+G122,Esclerose Lateral Amiotrofica,431800,1,246,0.08,98.78
+G122,Esclerose Lateral Amiotrofica,431810,1,247,0.08,98.85
+G122,Esclerose Lateral Amiotrofica,431870,1,248,0.08,98.93
+G122,Esclerose Lateral Amiotrofica,431890,1,249,0.08,99.01
+G122,Esclerose Lateral Amiotrofica,432010,1,250,0.08,99.08
+G122,Esclerose Lateral Amiotrofica,432160,1,251,0.08,99.16
+G122,Esclerose Lateral Amiotrofica,500370,1,252,0.08,99.24
+G122,Esclerose Lateral Amiotrofica,510267,1,253,0.08,99.31
+G122,Esclerose Lateral Amiotrofica,510320,1,254,0.08,99.39
+G122,Esclerose Lateral Amiotrofica,510562,1,255,0.08,99.47
+G122,Esclerose Lateral Amiotrofica,510760,1,256,0.08,99.54
+G122,Esclerose Lateral Amiotrofica,520140,1,257,0.08,99.62
+G122,Esclerose Lateral Amiotrofica,520170,1,258,0.08,99.69
+G122,Esclerose Lateral Amiotrofica,520410,1,259,0.08,99.77
+G122,Esclerose Lateral Amiotrofica,521150,1,260,0.08,99.85
+G122,Esclerose Lateral Amiotrofica,521250,1,261,0.08,99.92
+G122,Esclerose Lateral Amiotrofica,521880,1,262,0.08,100.0
+G35,Esclerose Multipla,355030,2874,1,34.23,34.23
+G35,Esclerose Multipla,310620,1948,2,23.2,57.43
+G35,Esclerose Multipla,280030,507,3,6.04,63.47
+G35,Esclerose Multipla,261160,488,4,5.81,69.28
+G35,Esclerose Multipla,330455,398,5,4.74,74.02
+G35,Esclerose Multipla,354340,176,6,2.1,76.12
+G35,Esclerose Multipla,420540,116,7,1.38,77.5
+G35,Esclerose Multipla,410690,79,8,0.94,78.44
+G35,Esclerose Multipla,431490,77,9,0.92,79.36
+G35,Esclerose Multipla,292740,73,10,0.87,80.23
+G35,Esclerose Multipla,350950,65,11,0.77,81.0
+G35,Esclerose Multipla,520870,62,12,0.74,81.74
+G35,Esclerose Multipla,251370,53,13,0.63,82.37
+G35,Esclerose Multipla,411370,48,14,0.57,82.94
+G35,Esclerose Multipla,410400,37,15,0.44,83.38
+G35,Esclerose Multipla,221100,35,16,0.42,83.8
+G35,Esclerose Multipla,230440,29,17,0.35,84.15
+G35,Esclerose Multipla,315250,27,18,0.32,84.47
+G35,Esclerose Multipla,150140,26,19,0.31,84.78
+G35,Esclerose Multipla,354980,25,20,0.3,85.08
+G35,Esclerose Multipla,411990,25,21,0.3,85.37
+G35,Esclerose Multipla,313670,24,22,0.29,85.66
+G35,Esclerose Multipla,354140,23,23,0.27,85.93
+G35,Esclerose Multipla,354990,22,24,0.26,86.2
+G35,Esclerose Multipla,530010,21,25,0.25,86.45
+G35,Esclerose Multipla,351110,19,26,0.23,86.67
+G35,Esclerose Multipla,354870,18,27,0.21,86.89
+G35,Esclerose Multipla,410940,18,28,0.21,87.1
+G35,Esclerose Multipla,353060,17,29,0.2,87.3
+G35,Esclerose Multipla,420240,17,30,0.2,87.51
+G35,Esclerose Multipla,240810,16,31,0.19,87.7
+G35,Esclerose Multipla,270430,16,32,0.19,87.89
+G35,Esclerose Multipla,317020,16,33,0.19,88.08
+G35,Esclerose Multipla,430510,16,34,0.19,88.27
+G35,Esclerose Multipla,431410,16,35,0.19,88.46
+G35,Esclerose Multipla,500270,16,36,0.19,88.65
+G35,Esclerose Multipla,240100,15,37,0.18,88.83
+G35,Esclerose Multipla,260410,15,38,0.18,89.01
+G35,Esclerose Multipla,410420,14,39,0.17,89.17
+G35,Esclerose Multipla,420420,14,40,0.17,89.34
+G35,Esclerose Multipla,320530,13,41,0.15,89.49
+G35,Esclerose Multipla,420910,13,42,0.15,89.65
+G35,Esclerose Multipla,350750,12,43,0.14,89.79
+G35,Esclerose Multipla,352900,12,44,0.14,89.94
+G35,Esclerose Multipla,431750,12,45,0.14,90.08
+G35,Esclerose Multipla,130260,11,46,0.13,90.21
+G35,Esclerose Multipla,211130,11,47,0.13,90.34
+G35,Esclerose Multipla,231290,11,48,0.13,90.47
+G35,Esclerose Multipla,330040,11,49,0.13,90.6
+G35,Esclerose Multipla,411850,11,50,0.13,90.73
+G35,Esclerose Multipla,412810,11,51,0.13,90.86
+G35,Esclerose Multipla,420460,11,52,0.13,91.0
+G35,Esclerose Multipla,293330,10,53,0.12,91.11
+G35,Esclerose Multipla,310400,10,54,0.12,91.23
+G35,Esclerose Multipla,314390,10,55,0.12,91.35
+G35,Esclerose Multipla,317010,10,56,0.12,91.47
+G35,Esclerose Multipla,420890,10,57,0.12,91.59
+G35,Esclerose Multipla,350870,9,58,0.11,91.7
+G35,Esclerose Multipla,352050,9,59,0.11,91.81
+G35,Esclerose Multipla,354780,9,60,0.11,91.91
+G35,Esclerose Multipla,410140,9,61,0.11,92.02
+G35,Esclerose Multipla,310560,8,62,0.1,92.12
+G35,Esclerose Multipla,314790,8,63,0.1,92.21
+G35,Esclerose Multipla,330330,8,64,0.1,92.31
+G35,Esclerose Multipla,350280,8,65,0.1,92.4
+G35,Esclerose Multipla,352710,8,66,0.1,92.5
+G35,Esclerose Multipla,353870,8,67,0.1,92.59
+G35,Esclerose Multipla,420930,8,68,0.1,92.69
+G35,Esclerose Multipla,431140,8,69,0.1,92.78
+G35,Esclerose Multipla,431440,8,70,0.1,92.88
+G35,Esclerose Multipla,140010,7,71,0.08,92.96
+G35,Esclerose Multipla,210860,7,72,0.08,93.04
+G35,Esclerose Multipla,320500,7,73,0.08,93.13
+G35,Esclerose Multipla,430700,7,74,0.08,93.21
+G35,Esclerose Multipla,431560,7,75,0.08,93.29
+G35,Esclerose Multipla,510340,7,76,0.08,93.38
+G35,Esclerose Multipla,311060,6,77,0.07,93.45
+G35,Esclerose Multipla,316250,6,78,0.07,93.52
+G35,Esclerose Multipla,330630,6,79,0.07,93.59
+G35,Esclerose Multipla,350570,6,80,0.07,93.66
+G35,Esclerose Multipla,351620,6,81,0.07,93.74
+G35,Esclerose Multipla,410840,6,82,0.07,93.81
+G35,Esclerose Multipla,110011,5,83,0.06,93.87
+G35,Esclerose Multipla,291840,5,84,0.06,93.93
+G35,Esclerose Multipla,312160,5,85,0.06,93.99
+G35,Esclerose Multipla,314330,5,86,0.06,94.04
+G35,Esclerose Multipla,320120,5,87,0.06,94.1
+G35,Esclerose Multipla,320150,5,88,0.06,94.16
+G35,Esclerose Multipla,330220,5,89,0.06,94.22
+G35,Esclerose Multipla,355220,5,90,0.06,94.28
+G35,Esclerose Multipla,411520,5,91,0.06,94.34
+G35,Esclerose Multipla,420820,5,92,0.06,94.4
+G35,Esclerose Multipla,430460,5,93,0.06,94.46
+G35,Esclerose Multipla,110020,4,94,0.05,94.51
+G35,Esclerose Multipla,160030,4,95,0.05,94.56
+G35,Esclerose Multipla,170210,4,96,0.05,94.6
+G35,Esclerose Multipla,230730,4,97,0.05,94.65
+G35,Esclerose Multipla,240800,4,98,0.05,94.7
+G35,Esclerose Multipla,261110,4,99,0.05,94.75
+G35,Esclerose Multipla,291170,4,100,0.05,94.8
+G35,Esclerose Multipla,292870,4,101,0.05,94.84
+G35,Esclerose Multipla,312770,4,102,0.05,94.89
+G35,Esclerose Multipla,313820,4,103,0.05,94.94
+G35,Esclerose Multipla,314610,4,104,0.05,94.99
+G35,Esclerose Multipla,330370,4,105,0.05,95.03
+G35,Esclerose Multipla,350550,4,106,0.05,95.08
+G35,Esclerose Multipla,352930,4,107,0.05,95.13
+G35,Esclerose Multipla,353070,4,108,0.05,95.18
+G35,Esclerose Multipla,353440,4,109,0.05,95.22
+G35,Esclerose Multipla,354850,4,110,0.05,95.27
+G35,Esclerose Multipla,355670,4,111,0.05,95.32
+G35,Esclerose Multipla,410830,4,112,0.05,95.37
+G35,Esclerose Multipla,421480,4,113,0.05,95.41
+G35,Esclerose Multipla,430470,4,114,0.05,95.46
+G35,Esclerose Multipla,170950,3,115,0.04,95.5
+G35,Esclerose Multipla,210810,3,116,0.04,95.53
+G35,Esclerose Multipla,220770,3,117,0.04,95.57
+G35,Esclerose Multipla,250750,3,118,0.04,95.61
+G35,Esclerose Multipla,261390,3,119,0.04,95.64
+G35,Esclerose Multipla,291800,3,120,0.04,95.68
+G35,Esclerose Multipla,311940,3,121,0.04,95.71
+G35,Esclerose Multipla,316720,3,122,0.04,95.75
+G35,Esclerose Multipla,316940,3,123,0.04,95.78
+G35,Esclerose Multipla,317070,3,124,0.04,95.82
+G35,Esclerose Multipla,350600,3,125,0.04,95.86
+G35,Esclerose Multipla,350650,3,126,0.04,95.89
+G35,Esclerose Multipla,351870,3,127,0.04,95.93
+G35,Esclerose Multipla,352340,3,128,0.04,95.96
+G35,Esclerose Multipla,352590,3,129,0.04,96.0
+G35,Esclerose Multipla,354390,3,130,0.04,96.03
+G35,Esclerose Multipla,355270,3,131,0.04,96.07
+G35,Esclerose Multipla,355450,3,132,0.04,96.11
+G35,Esclerose Multipla,355540,3,133,0.04,96.14
+G35,Esclerose Multipla,410480,3,134,0.04,96.18
+G35,Esclerose Multipla,412770,3,135,0.04,96.21
+G35,Esclerose Multipla,421660,3,136,0.04,96.25
+G35,Esclerose Multipla,430463,3,137,0.04,96.28
+G35,Esclerose Multipla,431690,3,138,0.04,96.32
+G35,Esclerose Multipla,500370,3,139,0.04,96.36
+G35,Esclerose Multipla,510250,3,140,0.04,96.39
+G35,Esclerose Multipla,521880,3,141,0.04,96.43
+G35,Esclerose Multipla,110004,2,142,0.02,96.45
+G35,Esclerose Multipla,110030,2,143,0.02,96.47
+G35,Esclerose Multipla,110037,2,144,0.02,96.5
+G35,Esclerose Multipla,120040,2,145,0.02,96.52
+G35,Esclerose Multipla,130250,2,146,0.02,96.55
+G35,Esclerose Multipla,150680,2,147,0.02,96.57
+G35,Esclerose Multipla,172100,2,148,0.02,96.59
+G35,Esclerose Multipla,210420,2,149,0.02,96.62
+G35,Esclerose Multipla,210530,2,150,0.02,96.64
+G35,Esclerose Multipla,240720,2,151,0.02,96.67
+G35,Esclerose Multipla,250400,2,152,0.02,96.69
+G35,Esclerose Multipla,280350,2,153,0.02,96.71
+G35,Esclerose Multipla,291080,2,154,0.02,96.74
+G35,Esclerose Multipla,291360,2,155,0.02,96.76
+G35,Esclerose Multipla,291460,2,156,0.02,96.78
+G35,Esclerose Multipla,291640,2,157,0.02,96.81
+G35,Esclerose Multipla,291920,2,158,0.02,96.83
+G35,Esclerose Multipla,292400,2,159,0.02,96.86
+G35,Esclerose Multipla,310740,2,160,0.02,96.88
+G35,Esclerose Multipla,311860,2,161,0.02,96.9
+G35,Esclerose Multipla,313240,2,162,0.02,96.93
+G35,Esclerose Multipla,313620,2,163,0.02,96.95
+G35,Esclerose Multipla,314560,2,164,0.02,96.97
+G35,Esclerose Multipla,315150,2,165,0.02,97.0
+G35,Esclerose Multipla,315180,2,166,0.02,97.02
+G35,Esclerose Multipla,317130,2,167,0.02,97.05
+G35,Esclerose Multipla,320060,2,168,0.02,97.07
+G35,Esclerose Multipla,320320,2,169,0.02,97.09
+G35,Esclerose Multipla,330100,2,170,0.02,97.12
+G35,Esclerose Multipla,330170,2,171,0.02,97.14
+G35,Esclerose Multipla,330470,2,172,0.02,97.17
+G35,Esclerose Multipla,330620,2,173,0.02,97.19
+G35,Esclerose Multipla,350170,2,174,0.02,97.21
+G35,Esclerose Multipla,350210,2,175,0.02,97.24
+G35,Esclerose Multipla,350320,2,176,0.02,97.26
+G35,Esclerose Multipla,351340,2,177,0.02,97.28
+G35,Esclerose Multipla,351380,2,178,0.02,97.31
+G35,Esclerose Multipla,351970,2,179,0.02,97.33
+G35,Esclerose Multipla,351990,2,180,0.02,97.36
+G35,Esclerose Multipla,352940,2,181,0.02,97.38
+G35,Esclerose Multipla,354880,2,182,0.02,97.4
+G35,Esclerose Multipla,355070,2,183,0.02,97.43
+G35,Esclerose Multipla,355410,2,184,0.02,97.45
+G35,Esclerose Multipla,355500,2,185,0.02,97.47
+G35,Esclerose Multipla,410150,2,186,0.02,97.5
+G35,Esclerose Multipla,411960,2,187,0.02,97.52
+G35,Esclerose Multipla,420140,2,188,0.02,97.55
+G35,Esclerose Multipla,420430,2,189,0.02,97.57
+G35,Esclerose Multipla,420700,2,190,0.02,97.59
+G35,Esclerose Multipla,430080,2,191,0.02,97.62
+G35,Esclerose Multipla,430450,2,192,0.02,97.64
+G35,Esclerose Multipla,430850,2,193,0.02,97.67
+G35,Esclerose Multipla,431320,2,194,0.02,97.69
+G35,Esclerose Multipla,431680,2,195,0.02,97.71
+G35,Esclerose Multipla,431720,2,196,0.02,97.74
+G35,Esclerose Multipla,431730,2,197,0.02,97.76
+G35,Esclerose Multipla,432250,2,198,0.02,97.78
+G35,Esclerose Multipla,432300,2,199,0.02,97.81
+G35,Esclerose Multipla,500830,2,200,0.02,97.83
+G35,Esclerose Multipla,510180,2,201,0.02,97.86
+G35,Esclerose Multipla,522160,2,202,0.02,97.88
+G35,Esclerose Multipla,130180,1,203,0.01,97.89
+G35,Esclerose Multipla,130280,1,204,0.01,97.9
+G35,Esclerose Multipla,130350,1,205,0.01,97.92
+G35,Esclerose Multipla,150040,1,206,0.01,97.93
+G35,Esclerose Multipla,150345,1,207,0.01,97.94
+G35,Esclerose Multipla,150420,1,208,0.01,97.95
+G35,Esclerose Multipla,150550,1,209,0.01,97.96
+G35,Esclerose Multipla,150553,1,210,0.01,97.98
+G35,Esclerose Multipla,150620,1,211,0.01,97.99
+G35,Esclerose Multipla,210005,1,212,0.01,98.0
+G35,Esclerose Multipla,210250,1,213,0.01,98.01
+G35,Esclerose Multipla,210710,1,214,0.01,98.02
+G35,Esclerose Multipla,230190,1,215,0.01,98.03
+G35,Esclerose Multipla,230250,1,216,0.01,98.05
+G35,Esclerose Multipla,230540,1,217,0.01,98.06
+G35,Esclerose Multipla,231180,1,218,0.01,98.07
+G35,Esclerose Multipla,231330,1,219,0.01,98.08
+G35,Esclerose Multipla,240310,1,220,0.01,98.09
+G35,Esclerose Multipla,250700,1,221,0.01,98.11
+G35,Esclerose Multipla,260210,1,222,0.01,98.12
+G35,Esclerose Multipla,280480,1,223,0.01,98.13
+G35,Esclerose Multipla,280670,1,224,0.01,98.14
+G35,Esclerose Multipla,290350,1,225,0.01,98.15
+G35,Esclerose Multipla,290520,1,226,0.01,98.17
+G35,Esclerose Multipla,291072,1,227,0.01,98.18
+G35,Esclerose Multipla,291210,1,228,0.01,98.19
+G35,Esclerose Multipla,291320,1,229,0.01,98.2
+G35,Esclerose Multipla,292120,1,230,0.01,98.21
+G35,Esclerose Multipla,292150,1,231,0.01,98.23
+G35,Esclerose Multipla,293135,1,232,0.01,98.24
+G35,Esclerose Multipla,310160,1,233,0.01,98.25
+G35,Esclerose Multipla,310490,1,234,0.01,98.26
+G35,Esclerose Multipla,311230,1,235,0.01,98.27
+G35,Esclerose Multipla,311330,1,236,0.01,98.28
+G35,Esclerose Multipla,311550,1,237,0.01,98.3
+G35,Esclerose Multipla,311680,1,238,0.01,98.31
+G35,Esclerose Multipla,311930,1,239,0.01,98.32
+G35,Esclerose Multipla,312090,1,240,0.01,98.33
+G35,Esclerose Multipla,312410,1,241,0.01,98.34
+G35,Esclerose Multipla,312595,1,242,0.01,98.36
+G35,Esclerose Multipla,312810,1,243,0.01,98.37
+G35,Esclerose Multipla,312870,1,244,0.01,98.38
+G35,Esclerose Multipla,313170,1,245,0.01,98.39
+G35,Esclerose Multipla,313380,1,246,0.01,98.4
+G35,Esclerose Multipla,313510,1,247,0.01,98.42
+G35,Esclerose Multipla,313860,1,248,0.01,98.43
+G35,Esclerose Multipla,314520,1,249,0.01,98.44
+G35,Esclerose Multipla,314600,1,250,0.01,98.45
+G35,Esclerose Multipla,314700,1,251,0.01,98.46
+G35,Esclerose Multipla,314710,1,252,0.01,98.48
+G35,Esclerose Multipla,314800,1,253,0.01,98.49
+G35,Esclerose Multipla,314990,1,254,0.01,98.5
+G35,Esclerose Multipla,315580,1,255,0.01,98.51
+G35,Esclerose Multipla,315680,1,256,0.01,98.52
+G35,Esclerose Multipla,316040,1,257,0.01,98.54
+G35,Esclerose Multipla,316070,1,258,0.01,98.55
+G35,Esclerose Multipla,316110,1,259,0.01,98.56
+G35,Esclerose Multipla,316210,1,260,0.01,98.57
+G35,Esclerose Multipla,316860,1,261,0.01,98.58
+G35,Esclerose Multipla,316990,1,262,0.01,98.59
+G35,Esclerose Multipla,317080,1,263,0.01,98.61
+G35,Esclerose Multipla,320080,1,264,0.01,98.62
+G35,Esclerose Multipla,320090,1,265,0.01,98.63
+G35,Esclerose Multipla,320450,1,266,0.01,98.64
+G35,Esclerose Multipla,320506,1,267,0.01,98.65
+G35,Esclerose Multipla,320520,1,268,0.01,98.67
+G35,Esclerose Multipla,330050,1,269,0.01,98.68
+G35,Esclerose Multipla,330225,1,270,0.01,98.69
+G35,Esclerose Multipla,330270,1,271,0.01,98.7
+G35,Esclerose Multipla,330340,1,272,0.01,98.71
+G35,Esclerose Multipla,330390,1,273,0.01,98.73
+G35,Esclerose Multipla,330411,1,274,0.01,98.74
+G35,Esclerose Multipla,330412,1,275,0.01,98.75
+G35,Esclerose Multipla,330420,1,276,0.01,98.76
+G35,Esclerose Multipla,330452,1,277,0.01,98.77
+G35,Esclerose Multipla,330490,1,278,0.01,98.79
+G35,Esclerose Multipla,330550,1,279,0.01,98.8
+G35,Esclerose Multipla,330580,1,280,0.01,98.81
+G35,Esclerose Multipla,330600,1,281,0.01,98.82
+G35,Esclerose Multipla,330610,1,282,0.01,98.83
+G35,Esclerose Multipla,350330,1,283,0.01,98.84
+G35,Esclerose Multipla,350400,1,284,0.01,98.86
+G35,Esclerose Multipla,350450,1,285,0.01,98.87
+G35,Esclerose Multipla,350760,1,286,0.01,98.88
+G35,Esclerose Multipla,350970,1,287,0.01,98.89
+G35,Esclerose Multipla,351300,1,288,0.01,98.9
+G35,Esclerose Multipla,351350,1,289,0.01,98.92
+G35,Esclerose Multipla,351880,1,290,0.01,98.93
+G35,Esclerose Multipla,352230,1,291,0.01,98.94
+G35,Esclerose Multipla,352250,1,292,0.01,98.95
+G35,Esclerose Multipla,352260,1,293,0.01,98.96
+G35,Esclerose Multipla,352270,1,294,0.01,98.98
+G35,Esclerose Multipla,352310,1,295,0.01,98.99
+G35,Esclerose Multipla,352400,1,296,0.01,99.0
+G35,Esclerose Multipla,352410,1,297,0.01,99.01
+G35,Esclerose Multipla,352530,1,298,0.01,99.02
+G35,Esclerose Multipla,352690,1,299,0.01,99.04
+G35,Esclerose Multipla,353050,1,300,0.01,99.05
+G35,Esclerose Multipla,353240,1,301,0.01,99.06
+G35,Esclerose Multipla,353430,1,302,0.01,99.07
+G35,Esclerose Multipla,353620,1,303,0.01,99.08
+G35,Esclerose Multipla,353730,1,304,0.01,99.09
+G35,Esclerose Multipla,353880,1,305,0.01,99.11
+G35,Esclerose Multipla,354070,1,306,0.01,99.12
+G35,Esclerose Multipla,354240,1,307,0.01,99.13
+G35,Esclerose Multipla,354660,1,308,0.01,99.14
+G35,Esclerose Multipla,354730,1,309,0.01,99.15
+G35,Esclerose Multipla,354890,1,310,0.01,99.17
+G35,Esclerose Multipla,354910,1,311,0.01,99.18
+G35,Esclerose Multipla,355250,1,312,0.01,99.19
+G35,Esclerose Multipla,355710,1,313,0.01,99.2
+G35,Esclerose Multipla,410160,1,314,0.01,99.21
+G35,Esclerose Multipla,410640,1,315,0.01,99.23
+G35,Esclerose Multipla,410650,1,316,0.01,99.24
+G35,Esclerose Multipla,410880,1,317,0.01,99.25
+G35,Esclerose Multipla,411150,1,318,0.01,99.26
+G35,Esclerose Multipla,411180,1,319,0.01,99.27
+G35,Esclerose Multipla,411275,1,320,0.01,99.29
+G35,Esclerose Multipla,411580,1,321,0.01,99.3
+G35,Esclerose Multipla,412060,1,322,0.01,99.31
+G35,Esclerose Multipla,412240,1,323,0.01,99.32
+G35,Esclerose Multipla,412550,1,324,0.01,99.33
+G35,Esclerose Multipla,412560,1,325,0.01,99.34
+G35,Esclerose Multipla,412820,1,326,0.01,99.36
+G35,Esclerose Multipla,420200,1,327,0.01,99.37
+G35,Esclerose Multipla,420480,1,328,0.01,99.38
+G35,Esclerose Multipla,420550,1,329,0.01,99.39
+G35,Esclerose Multipla,420750,1,330,0.01,99.4
+G35,Esclerose Multipla,420900,1,331,0.01,99.42
+G35,Esclerose Multipla,421010,1,332,0.01,99.43
+G35,Esclerose Multipla,421320,1,333,0.01,99.44
+G35,Esclerose Multipla,421400,1,334,0.01,99.45
+G35,Esclerose Multipla,421540,1,335,0.01,99.46
+G35,Esclerose Multipla,421650,1,336,0.01,99.48
+G35,Esclerose Multipla,421720,1,337,0.01,99.49
+G35,Esclerose Multipla,421870,1,338,0.01,99.5
+G35,Esclerose Multipla,430160,1,339,0.01,99.51
+G35,Esclerose Multipla,430210,1,340,0.01,99.52
+G35,Esclerose Multipla,430300,1,341,0.01,99.54
+G35,Esclerose Multipla,430350,1,342,0.01,99.55
+G35,Esclerose Multipla,430480,1,343,0.01,99.56
+G35,Esclerose Multipla,430520,1,344,0.01,99.57
+G35,Esclerose Multipla,430780,1,345,0.01,99.58
+G35,Esclerose Multipla,430890,1,346,0.01,99.6
+G35,Esclerose Multipla,430920,1,347,0.01,99.61
+G35,Esclerose Multipla,431020,1,348,0.01,99.62
+G35,Esclerose Multipla,431080,1,349,0.01,99.63
+G35,Esclerose Multipla,431120,1,350,0.01,99.64
+G35,Esclerose Multipla,431240,1,351,0.01,99.65
+G35,Esclerose Multipla,431330,1,352,0.01,99.67
+G35,Esclerose Multipla,431340,1,353,0.01,99.68
+G35,Esclerose Multipla,431390,1,354,0.01,99.69
+G35,Esclerose Multipla,431405,1,355,0.01,99.7
+G35,Esclerose Multipla,431470,1,356,0.01,99.71
+G35,Esclerose Multipla,431550,1,357,0.01,99.73
+G35,Esclerose Multipla,431570,1,358,0.01,99.74
+G35,Esclerose Multipla,431800,1,359,0.01,99.75
+G35,Esclerose Multipla,431830,1,360,0.01,99.76
+G35,Esclerose Multipla,432000,1,361,0.01,99.77
+G35,Esclerose Multipla,432240,1,362,0.01,99.79
+G35,Esclerose Multipla,500769,1,363,0.01,99.8
+G35,Esclerose Multipla,510630,1,364,0.01,99.81
+G35,Esclerose Multipla,510704,1,365,0.01,99.82
+G35,Esclerose Multipla,510760,1,366,0.01,99.83
+G35,Esclerose Multipla,520110,1,367,0.01,99.85
+G35,Esclerose Multipla,520140,1,368,0.01,99.86
+G35,Esclerose Multipla,520510,1,369,0.01,99.87
+G35,Esclerose Multipla,520620,1,370,0.01,99.88
+G35,Esclerose Multipla,520640,1,371,0.01,99.89
+G35,Esclerose Multipla,521150,1,372,0.01,99.9
+G35,Esclerose Multipla,521180,1,373,0.01,99.92
+G35,Esclerose Multipla,521560,1,374,0.01,99.93
+G35,Esclerose Multipla,521630,1,375,0.01,99.94
+G35,Esclerose Multipla,521800,1,376,0.01,99.95
+G35,Esclerose Multipla,521850,1,377,0.01,99.96
+G35,Esclerose Multipla,521860,1,378,0.01,99.98
+G35,Esclerose Multipla,522010,1,379,0.01,99.99
+G35,Esclerose Multipla,522140,1,380,0.01,100.0
+G700,Miastenia Gravis,355030,135,1,11.88,11.88
+G700,Miastenia Gravis,261160,52,2,4.58,16.46
+G700,Miastenia Gravis,310620,43,3,3.79,20.25
+G700,Miastenia Gravis,354340,38,4,3.35,23.59
+G700,Miastenia Gravis,431490,32,5,2.82,26.41
+G700,Miastenia Gravis,130260,30,6,2.64,29.05
+G700,Miastenia Gravis,230440,27,7,2.38,31.43
+G700,Miastenia Gravis,520870,27,8,2.38,33.8
+G700,Miastenia Gravis,530010,26,9,2.29,36.09
+G700,Miastenia Gravis,411370,23,10,2.02,38.12
+G700,Miastenia Gravis,330455,21,11,1.85,39.96
+G700,Miastenia Gravis,211130,20,12,1.76,41.73
+G700,Miastenia Gravis,210177,18,13,1.58,43.31
+G700,Miastenia Gravis,350950,18,14,1.58,44.89
+G700,Miastenia Gravis,410690,17,15,1.5,46.39
+G700,Miastenia Gravis,150140,14,16,1.23,47.62
+G700,Miastenia Gravis,170240,14,17,1.23,48.86
+G700,Miastenia Gravis,420540,14,18,1.23,50.09
+G700,Miastenia Gravis,292740,13,19,1.14,51.23
+G700,Miastenia Gravis,354870,12,20,1.06,52.29
+G700,Miastenia Gravis,500270,12,21,1.06,53.35
+G700,Miastenia Gravis,220390,11,22,0.97,54.31
+G700,Miastenia Gravis,251370,11,23,0.97,55.28
+G700,Miastenia Gravis,421870,11,24,0.97,56.25
+G700,Miastenia Gravis,160030,10,25,0.88,57.13
+G700,Miastenia Gravis,221100,10,26,0.88,58.01
+G700,Miastenia Gravis,291560,9,27,0.79,58.8
+G700,Miastenia Gravis,353060,9,28,0.79,59.6
+G700,Miastenia Gravis,354990,9,29,0.79,60.39
+G700,Miastenia Gravis,352800,8,30,0.7,61.09
+G700,Miastenia Gravis,354980,8,31,0.7,61.8
+G700,Miastenia Gravis,230730,7,32,0.62,62.41
+G700,Miastenia Gravis,270430,7,33,0.62,63.03
+G700,Miastenia Gravis,291920,7,34,0.62,63.64
+G700,Miastenia Gravis,317020,7,35,0.62,64.26
+G700,Miastenia Gravis,330330,7,36,0.62,64.88
+G700,Miastenia Gravis,410420,7,37,0.62,65.49
+G700,Miastenia Gravis,420910,7,38,0.62,66.11
+G700,Miastenia Gravis,520330,7,39,0.62,66.73
+G700,Miastenia Gravis,240810,6,40,0.53,67.25
+G700,Miastenia Gravis,354890,6,41,0.53,67.78
+G700,Miastenia Gravis,420420,6,42,0.53,68.31
+G700,Miastenia Gravis,510625,6,43,0.53,68.84
+G700,Miastenia Gravis,320500,5,44,0.44,69.28
+G700,Miastenia Gravis,350600,5,45,0.44,69.72
+G700,Miastenia Gravis,353870,5,46,0.44,70.16
+G700,Miastenia Gravis,410400,5,47,0.44,70.6
+G700,Miastenia Gravis,110020,4,48,0.35,70.95
+G700,Miastenia Gravis,291080,4,49,0.35,71.3
+G700,Miastenia Gravis,313670,4,50,0.35,71.65
+G700,Miastenia Gravis,320190,4,51,0.35,72.01
+G700,Miastenia Gravis,330030,4,52,0.35,72.36
+G700,Miastenia Gravis,330240,4,53,0.35,72.71
+G700,Miastenia Gravis,350750,4,54,0.35,73.06
+G700,Miastenia Gravis,354780,4,55,0.35,73.42
+G700,Miastenia Gravis,431680,4,56,0.35,73.77
+G700,Miastenia Gravis,140010,3,57,0.26,74.03
+G700,Miastenia Gravis,150480,3,58,0.26,74.3
+G700,Miastenia Gravis,150680,3,59,0.26,74.56
+G700,Miastenia Gravis,210405,3,60,0.26,74.82
+G700,Miastenia Gravis,250750,3,61,0.26,75.09
+G700,Miastenia Gravis,251080,3,62,0.26,75.35
+G700,Miastenia Gravis,291750,3,63,0.26,75.62
+G700,Miastenia Gravis,292400,3,64,0.26,75.88
+G700,Miastenia Gravis,310160,3,65,0.26,76.14
+G700,Miastenia Gravis,310560,3,66,0.26,76.41
+G700,Miastenia Gravis,314330,3,67,0.26,76.67
+G700,Miastenia Gravis,330350,3,68,0.26,76.94
+G700,Miastenia Gravis,350210,3,69,0.26,77.2
+G700,Miastenia Gravis,355220,3,70,0.26,77.46
+G700,Miastenia Gravis,410480,3,71,0.26,77.73
+G700,Miastenia Gravis,411150,3,72,0.26,77.99
+G700,Miastenia Gravis,420930,3,73,0.26,78.26
+G700,Miastenia Gravis,430700,3,74,0.26,78.52
+G700,Miastenia Gravis,431240,3,75,0.26,78.79
+G700,Miastenia Gravis,431410,3,76,0.26,79.05
+G700,Miastenia Gravis,500370,3,77,0.26,79.31
+G700,Miastenia Gravis,510340,3,78,0.26,79.58
+G700,Miastenia Gravis,510840,3,79,0.26,79.84
+G700,Miastenia Gravis,521730,3,80,0.26,80.11
+G700,Miastenia Gravis,130250,2,81,0.18,80.28
+G700,Miastenia Gravis,150293,2,82,0.18,80.46
+G700,Miastenia Gravis,150613,2,83,0.18,80.63
+G700,Miastenia Gravis,171750,2,84,0.18,80.81
+G700,Miastenia Gravis,210005,2,85,0.18,80.99
+G700,Miastenia Gravis,210300,2,86,0.18,81.16
+G700,Miastenia Gravis,211050,2,87,0.18,81.34
+G700,Miastenia Gravis,250400,2,88,0.18,81.51
+G700,Miastenia Gravis,270040,2,89,0.18,81.69
+G700,Miastenia Gravis,293010,2,90,0.18,81.87
+G700,Miastenia Gravis,293135,2,91,0.18,82.04
+G700,Miastenia Gravis,293330,2,92,0.18,82.22
+G700,Miastenia Gravis,311120,2,93,0.18,82.39
+G700,Miastenia Gravis,312230,2,94,0.18,82.57
+G700,Miastenia Gravis,316250,2,95,0.18,82.75
+G700,Miastenia Gravis,316530,2,96,0.18,82.92
+G700,Miastenia Gravis,316860,2,97,0.18,83.1
+G700,Miastenia Gravis,320530,2,98,0.18,83.27
+G700,Miastenia Gravis,330550,2,99,0.18,83.45
+G700,Miastenia Gravis,350170,2,100,0.18,83.63
+G700,Miastenia Gravis,350320,2,101,0.18,83.8
+G700,Miastenia Gravis,350550,2,102,0.18,83.98
+G700,Miastenia Gravis,351620,2,103,0.18,84.15
+G700,Miastenia Gravis,352590,2,104,0.18,84.33
+G700,Miastenia Gravis,353620,2,105,0.18,84.51
+G700,Miastenia Gravis,354140,2,106,0.18,84.68
+G700,Miastenia Gravis,410140,2,107,0.18,84.86
+G700,Miastenia Gravis,410940,2,108,0.18,85.04
+G700,Miastenia Gravis,411200,2,109,0.18,85.21
+G700,Miastenia Gravis,411520,2,110,0.18,85.39
+G700,Miastenia Gravis,411820,2,111,0.18,85.56
+G700,Miastenia Gravis,411990,2,112,0.18,85.74
+G700,Miastenia Gravis,420460,2,113,0.18,85.92
+G700,Miastenia Gravis,420890,2,114,0.18,86.09
+G700,Miastenia Gravis,430590,2,115,0.18,86.27
+G700,Miastenia Gravis,431140,2,116,0.18,86.44
+G700,Miastenia Gravis,431560,2,117,0.18,86.62
+G700,Miastenia Gravis,431690,2,118,0.18,86.8
+G700,Miastenia Gravis,500620,2,119,0.18,86.97
+G700,Miastenia Gravis,500830,2,120,0.18,87.15
+G700,Miastenia Gravis,510795,2,121,0.18,87.32
+G700,Miastenia Gravis,520030,2,122,0.18,87.5
+G700,Miastenia Gravis,520110,2,123,0.18,87.68
+G700,Miastenia Gravis,521130,2,124,0.18,87.85
+G700,Miastenia Gravis,522185,2,125,0.18,88.03
+G700,Miastenia Gravis,110002,1,126,0.09,88.12
+G700,Miastenia Gravis,120040,1,127,0.09,88.2
+G700,Miastenia Gravis,130120,1,128,0.09,88.29
+G700,Miastenia Gravis,130420,1,129,0.09,88.38
+G700,Miastenia Gravis,150020,1,130,0.09,88.47
+G700,Miastenia Gravis,150060,1,131,0.09,88.56
+G700,Miastenia Gravis,150180,1,132,0.09,88.64
+G700,Miastenia Gravis,150360,1,133,0.09,88.73
+G700,Miastenia Gravis,150497,1,134,0.09,88.82
+G700,Miastenia Gravis,150805,1,135,0.09,88.91
+G700,Miastenia Gravis,150810,1,136,0.09,89.0
+G700,Miastenia Gravis,160050,1,137,0.09,89.08
+G700,Miastenia Gravis,170950,1,138,0.09,89.17
+G700,Miastenia Gravis,171610,1,139,0.09,89.26
+G700,Miastenia Gravis,210460,1,140,0.09,89.35
+G700,Miastenia Gravis,210480,1,141,0.09,89.44
+G700,Miastenia Gravis,210530,1,142,0.09,89.52
+G700,Miastenia Gravis,210542,1,143,0.09,89.61
+G700,Miastenia Gravis,210640,1,144,0.09,89.7
+G700,Miastenia Gravis,210900,1,145,0.09,89.79
+G700,Miastenia Gravis,210910,1,146,0.09,89.88
+G700,Miastenia Gravis,220800,1,147,0.09,89.96
+G700,Miastenia Gravis,231025,1,148,0.09,90.05
+G700,Miastenia Gravis,231180,1,149,0.09,90.14
+G700,Miastenia Gravis,231290,1,150,0.09,90.23
+G700,Miastenia Gravis,240310,1,151,0.09,90.32
+G700,Miastenia Gravis,241120,1,152,0.09,90.4
+G700,Miastenia Gravis,241142,1,153,0.09,90.49
+G700,Miastenia Gravis,241200,1,154,0.09,90.58
+G700,Miastenia Gravis,260410,1,155,0.09,90.67
+G700,Miastenia Gravis,261070,1,156,0.09,90.76
+G700,Miastenia Gravis,261110,1,157,0.09,90.85
+G700,Miastenia Gravis,270770,1,158,0.09,90.93
+G700,Miastenia Gravis,280030,1,159,0.09,91.02
+G700,Miastenia Gravis,280210,1,160,0.09,91.11
+G700,Miastenia Gravis,290390,1,161,0.09,91.2
+G700,Miastenia Gravis,290500,1,162,0.09,91.29
+G700,Miastenia Gravis,290570,1,163,0.09,91.37
+G700,Miastenia Gravis,291360,1,164,0.09,91.46
+G700,Miastenia Gravis,291840,1,165,0.09,91.55
+G700,Miastenia Gravis,292200,1,166,0.09,91.64
+G700,Miastenia Gravis,292590,1,167,0.09,91.73
+G700,Miastenia Gravis,292660,1,168,0.09,91.81
+G700,Miastenia Gravis,292900,1,169,0.09,91.9
+G700,Miastenia Gravis,293070,1,170,0.09,91.99
+G700,Miastenia Gravis,293130,1,171,0.09,92.08
+G700,Miastenia Gravis,293360,1,172,0.09,92.17
+G700,Miastenia Gravis,310740,1,173,0.09,92.25
+G700,Miastenia Gravis,311860,1,174,0.09,92.34
+G700,Miastenia Gravis,312090,1,175,0.09,92.43
+G700,Miastenia Gravis,312160,1,176,0.09,92.52
+G700,Miastenia Gravis,312870,1,177,0.09,92.61
+G700,Miastenia Gravis,313220,1,178,0.09,92.69
+G700,Miastenia Gravis,313320,1,179,0.09,92.78
+G700,Miastenia Gravis,313510,1,180,0.09,92.87
+G700,Miastenia Gravis,313820,1,181,0.09,92.96
+G700,Miastenia Gravis,314290,1,182,0.09,93.05
+G700,Miastenia Gravis,314700,1,183,0.09,93.13
+G700,Miastenia Gravis,314810,1,184,0.09,93.22
+G700,Miastenia Gravis,315250,1,185,0.09,93.31
+G700,Miastenia Gravis,315600,1,186,0.09,93.4
+G700,Miastenia Gravis,316720,1,187,0.09,93.49
+G700,Miastenia Gravis,320060,1,188,0.09,93.57
+G700,Miastenia Gravis,330040,1,189,0.09,93.66
+G700,Miastenia Gravis,330120,1,190,0.09,93.75
+G700,Miastenia Gravis,330170,1,191,0.09,93.84
+G700,Miastenia Gravis,330220,1,192,0.09,93.93
+G700,Miastenia Gravis,330225,1,193,0.09,94.01
+G700,Miastenia Gravis,330360,1,194,0.09,94.1
+G700,Miastenia Gravis,330420,1,195,0.09,94.19
+G700,Miastenia Gravis,330490,1,196,0.09,94.28
+G700,Miastenia Gravis,330500,1,197,0.09,94.37
+G700,Miastenia Gravis,330600,1,198,0.09,94.45
+G700,Miastenia Gravis,330630,1,199,0.09,94.54
+G700,Miastenia Gravis,350190,1,200,0.09,94.63
+G700,Miastenia Gravis,350280,1,201,0.09,94.72
+G700,Miastenia Gravis,350400,1,202,0.09,94.81
+G700,Miastenia Gravis,350760,1,203,0.09,94.89
+G700,Miastenia Gravis,351110,1,204,0.09,94.98
+G700,Miastenia Gravis,351340,1,205,0.09,95.07
+G700,Miastenia Gravis,351380,1,206,0.09,95.16
+G700,Miastenia Gravis,351870,1,207,0.09,95.25
+G700,Miastenia Gravis,351880,1,208,0.09,95.33
+G700,Miastenia Gravis,352044,1,209,0.09,95.42
+G700,Miastenia Gravis,352220,1,210,0.09,95.51
+G700,Miastenia Gravis,352250,1,211,0.09,95.6
+G700,Miastenia Gravis,352310,1,212,0.09,95.69
+G700,Miastenia Gravis,352440,1,213,0.09,95.77
+G700,Miastenia Gravis,352530,1,214,0.09,95.86
+G700,Miastenia Gravis,352640,1,215,0.09,95.95
+G700,Miastenia Gravis,352900,1,216,0.09,96.04
+G700,Miastenia Gravis,353440,1,217,0.09,96.13
+G700,Miastenia Gravis,353470,1,218,0.09,96.21
+G700,Miastenia Gravis,353730,1,219,0.09,96.3
+G700,Miastenia Gravis,354580,1,220,0.09,96.39
+G700,Miastenia Gravis,354760,1,221,0.09,96.48
+G700,Miastenia Gravis,355070,1,222,0.09,96.57
+G700,Miastenia Gravis,355410,1,223,0.09,96.65
+G700,Miastenia Gravis,355500,1,224,0.09,96.74
+G700,Miastenia Gravis,355720,1,225,0.09,96.83
+G700,Miastenia Gravis,410720,1,226,0.09,96.92
+G700,Miastenia Gravis,411330,1,227,0.09,97.01
+G700,Miastenia Gravis,411460,1,228,0.09,97.1
+G700,Miastenia Gravis,412060,1,229,0.09,97.18
+G700,Miastenia Gravis,412230,1,230,0.09,97.27
+G700,Miastenia Gravis,412570,1,231,0.09,97.36
+G700,Miastenia Gravis,412625,1,232,0.09,97.45
+G700,Miastenia Gravis,412770,1,233,0.09,97.54
+G700,Miastenia Gravis,412810,1,234,0.09,97.62
+G700,Miastenia Gravis,420240,1,235,0.09,97.71
+G700,Miastenia Gravis,420430,1,236,0.09,97.8
+G700,Miastenia Gravis,421720,1,237,0.09,97.89
+G700,Miastenia Gravis,430463,1,238,0.09,97.98
+G700,Miastenia Gravis,430470,1,239,0.09,98.06
+G700,Miastenia Gravis,430510,1,240,0.09,98.15
+G700,Miastenia Gravis,430850,1,241,0.09,98.24
+G700,Miastenia Gravis,430860,1,242,0.09,98.33
+G700,Miastenia Gravis,430920,1,243,0.09,98.42
+G700,Miastenia Gravis,430940,1,244,0.09,98.5
+G700,Miastenia Gravis,430960,1,245,0.09,98.59
+G700,Miastenia Gravis,431720,1,246,0.09,98.68
+G700,Miastenia Gravis,431870,1,247,0.09,98.77
+G700,Miastenia Gravis,431990,1,248,0.09,98.86
+G700,Miastenia Gravis,432000,1,249,0.09,98.94
+G700,Miastenia Gravis,432270,1,250,0.09,99.03
+G700,Miastenia Gravis,500430,1,251,0.09,99.12
+G700,Miastenia Gravis,500540,1,252,0.09,99.21
+G700,Miastenia Gravis,510250,1,253,0.09,99.3
+G700,Miastenia Gravis,520140,1,254,0.09,99.38
+G700,Miastenia Gravis,520170,1,255,0.09,99.47
+G700,Miastenia Gravis,520800,1,256,0.09,99.56
+G700,Miastenia Gravis,521000,1,257,0.09,99.65
+G700,Miastenia Gravis,521060,1,258,0.09,99.74
+G700,Miastenia Gravis,521150,1,259,0.09,99.82
+G700,Miastenia Gravis,521980,1,260,0.09,99.91
+G700,Miastenia Gravis,522010,1,261,0.09,100.0

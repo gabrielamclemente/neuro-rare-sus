@@ -1,0 +1,6 @@
+﻿diseaseCode,diseaseName,admissions,admissionsInNetwork,pctInNetwork,pctOutsideNetwork,establishments,establishmentsInNetwork
+E851,Polineuropatia Amiloidotica Familiar,29,20,69.0,31.0,8,1
+G120,Atrofia Muscular Espinhal,720,419,58.2,41.8,78,16
+G122,Esclerose Lateral Amiotrofica,1309,128,9.8,90.2,377,14
+G35,Esclerose Multipla,8396,402,4.8,95.2,509,16
+G700,Miastenia Gravis,1136,133,11.7,88.3,364,18

@@ -1,0 +1,57 @@
+﻿year,month,yearMonth,diseaseCode,diseaseName,careRegime,admissions,shortStayAdmissions,deaths
+2024,1,2024-01,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),121,101,0
+2024,1,2024-01,G122,Esclerose Lateral Amiotrofica,Internacao clinica,118,17,14
+2024,1,2024-01,G35,Esclerose Multipla,Tratamento (predominio de dia unico),836,653,5
+2024,1,2024-01,G700,Miastenia Gravis,Internacao clinica,91,11,2
+2024,2,2024-02,E851,Polineuropatia Amiloidotica Familiar,Tratamento (predominio de dia unico),1,1,0
+2024,2,2024-02,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),99,86,0
+2024,2,2024-02,G122,Esclerose Lateral Amiotrofica,Internacao clinica,117,7,10
+2024,2,2024-02,G35,Esclerose Multipla,Tratamento (predominio de dia unico),552,364,1
+2024,2,2024-02,G700,Miastenia Gravis,Internacao clinica,92,15,3
+2024,3,2024-03,E851,Polineuropatia Amiloidotica Familiar,Tratamento (predominio de dia unico),3,1,1
+2024,3,2024-03,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),64,29,1
+2024,3,2024-03,G122,Esclerose Lateral Amiotrofica,Internacao clinica,106,8,12
+2024,3,2024-03,G35,Esclerose Multipla,Tratamento (predominio de dia unico),463,298,4
+2024,3,2024-03,G700,Miastenia Gravis,Internacao clinica,82,7,6
+2024,4,2024-04,E851,Polineuropatia Amiloidotica Familiar,Tratamento (predominio de dia unico),5,5,0
+2024,4,2024-04,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),43,28,0
+2024,4,2024-04,G122,Esclerose Lateral Amiotrofica,Internacao clinica,97,8,4
+2024,4,2024-04,G35,Esclerose Multipla,Tratamento (predominio de dia unico),854,670,4
+2024,4,2024-04,G700,Miastenia Gravis,Internacao clinica,110,22,3
+2024,5,2024-05,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),117,100,0
+2024,5,2024-05,G122,Esclerose Lateral Amiotrofica,Internacao clinica,115,10,6
+2024,5,2024-05,G35,Esclerose Multipla,Tratamento (predominio de dia unico),775,596,3
+2024,5,2024-05,G700,Miastenia Gravis,Internacao clinica,108,18,7
+2024,6,2024-06,E851,Polineuropatia Amiloidotica Familiar,Tratamento (predominio de dia unico),6,5,0
+2024,6,2024-06,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),36,24,0
+2024,6,2024-06,G122,Esclerose Lateral Amiotrofica,Internacao clinica,100,8,10
+2024,6,2024-06,G35,Esclerose Multipla,Tratamento (predominio de dia unico),601,422,3
+2024,6,2024-06,G700,Miastenia Gravis,Internacao clinica,100,14,4
+2024,7,2024-07,E851,Polineuropatia Amiloidotica Familiar,Tratamento (predominio de dia unico),1,1,0
+2024,7,2024-07,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),45,25,0
+2024,7,2024-07,G122,Esclerose Lateral Amiotrofica,Internacao clinica,108,9,11
+2024,7,2024-07,G35,Esclerose Multipla,Tratamento (predominio de dia unico),677,488,2
+2024,7,2024-07,G700,Miastenia Gravis,Internacao clinica,70,4,3
+2024,8,2024-08,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),33,18,0
+2024,8,2024-08,G122,Esclerose Lateral Amiotrofica,Internacao clinica,108,13,10
+2024,8,2024-08,G35,Esclerose Multipla,Tratamento (predominio de dia unico),733,561,1
+2024,8,2024-08,G700,Miastenia Gravis,Internacao clinica,84,9,3
+2024,9,2024-09,E851,Polineuropatia Amiloidotica Familiar,Tratamento (predominio de dia unico),7,7,0
+2024,9,2024-09,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),47,25,0
+2024,9,2024-09,G122,Esclerose Lateral Amiotrofica,Internacao clinica,110,12,13
+2024,9,2024-09,G35,Esclerose Multipla,Tratamento (predominio de dia unico),720,521,2
+2024,9,2024-09,G700,Miastenia Gravis,Internacao clinica,103,24,2
+2024,10,2024-10,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),53,32,1
+2024,10,2024-10,G122,Esclerose Lateral Amiotrofica,Internacao clinica,126,14,11
+2024,10,2024-10,G35,Esclerose Multipla,Tratamento (predominio de dia unico),697,517,4
+2024,10,2024-10,G700,Miastenia Gravis,Internacao clinica,101,20,3
+2024,11,2024-11,E851,Polineuropatia Amiloidotica Familiar,Tratamento (predominio de dia unico),1,1,0
+2024,11,2024-11,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),26,8,0
+2024,11,2024-11,G122,Esclerose Lateral Amiotrofica,Internacao clinica,99,7,8
+2024,11,2024-11,G35,Esclerose Multipla,Tratamento (predominio de dia unico),735,517,3
+2024,11,2024-11,G700,Miastenia Gravis,Internacao clinica,97,11,8
+2024,12,2024-12,E851,Polineuropatia Amiloidotica Familiar,Tratamento (predominio de dia unico),5,4,0
+2024,12,2024-12,G120,Atrofia Muscular Espinhal,Tratamento (predominio de dia unico),36,20,0
+2024,12,2024-12,G122,Esclerose Lateral Amiotrofica,Internacao clinica,105,10,3
+2024,12,2024-12,G35,Esclerose Multipla,Tratamento (predominio de dia unico),753,557,4
+2024,12,2024-12,G700,Miastenia Gravis,Internacao clinica,98,25,3

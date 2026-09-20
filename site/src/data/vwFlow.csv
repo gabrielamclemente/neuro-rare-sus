@@ -1,0 +1,2402 @@
+﻿diseaseCode,diseaseName,originMunicipality,originUf,destMunicipality,destUf,travelType,admissions
+E851,Polineuropatia Amiloidotica Familiar,260050,PE,261160,PE,"Outro municipio, mesma UF",6
+E851,Polineuropatia Amiloidotica Familiar,261160,PE,261160,PE,Mesmo municipio,9
+E851,Polineuropatia Amiloidotica Familiar,270430,AL,261160,PE,Outra UF,5
+E851,Polineuropatia Amiloidotica Familiar,310670,MG,310620,MG,"Outro municipio, mesma UF",1
+E851,Polineuropatia Amiloidotica Familiar,315780,MG,315780,MG,Mesmo municipio,1
+E851,Polineuropatia Amiloidotica Familiar,316120,MG,314560,MG,"Outro municipio, mesma UF",1
+E851,Polineuropatia Amiloidotica Familiar,330455,RJ,330455,RJ,Mesmo municipio,1
+E851,Polineuropatia Amiloidotica Familiar,352470,SP,352470,SP,Mesmo municipio,1
+E851,Polineuropatia Amiloidotica Familiar,352900,SP,352900,SP,Mesmo municipio,3
+E851,Polineuropatia Amiloidotica Familiar,412720,PR,412720,PR,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,110009,RO,110004,RO,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,110020,RO,110020,RO,Mesmo municipio,2
+G120,Atrofia Muscular Espinhal,120010,AC,120040,AC,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,120040,AC,120040,AC,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,130063,AM,130260,AM,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,130130,AM,130260,AM,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,130260,AM,130260,AM,Mesmo municipio,19
+G120,Atrofia Muscular Espinhal,130290,AM,130260,AM,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,130420,AM,130260,AM,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,150010,PA,150140,PA,"Outro municipio, mesma UF",4
+G120,Atrofia Muscular Espinhal,150140,PA,150140,PA,Mesmo municipio,17
+G120,Atrofia Muscular Espinhal,150390,PA,150680,PA,"Outro municipio, mesma UF",7
+G120,Atrofia Muscular Espinhal,210260,MA,211130,MA,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,210530,MA,210530,MA,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,210550,MA,210530,MA,"Outro municipio, mesma UF",5
+G120,Atrofia Muscular Espinhal,220180,PI,221100,PI,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,220196,PI,220840,PI,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,220350,PI,220350,PI,Mesmo municipio,6
+G120,Atrofia Muscular Espinhal,220350,PI,221100,PI,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,220557,PI,220840,PI,"Outro municipio, mesma UF",5
+G120,Atrofia Muscular Espinhal,220780,PI,221100,PI,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,220840,PI,220840,PI,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,220860,PI,221100,PI,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,221090,PI,221100,PI,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,221100,PI,221100,PI,Mesmo municipio,2
+G120,Atrofia Muscular Espinhal,230370,CE,230440,CE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,230420,CE,230420,CE,Mesmo municipio,2
+G120,Atrofia Muscular Espinhal,230420,CE,230440,CE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,230440,CE,230440,CE,Mesmo municipio,4
+G120,Atrofia Muscular Espinhal,231130,CE,230440,CE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,240580,RN,240810,RN,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,241480,RN,240810,RN,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,250750,PB,250750,PB,Mesmo municipio,2
+G120,Atrofia Muscular Espinhal,260005,PE,261160,PE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,260050,PE,261160,PE,"Outro municipio, mesma UF",7
+G120,Atrofia Muscular Espinhal,260190,PE,260410,PE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,260220,PE,261160,PE,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,260290,PE,261160,PE,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,260350,PE,261160,PE,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,260400,PE,261160,PE,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,260410,PE,261160,PE,"Outro municipio, mesma UF",15
+G120,Atrofia Muscular Espinhal,260520,PE,261160,PE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,260600,PE,261160,PE,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,260610,PE,261160,PE,"Outro municipio, mesma UF",8
+G120,Atrofia Muscular Espinhal,260640,PE,261160,PE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,260680,PE,261160,PE,"Outro municipio, mesma UF",11
+G120,Atrofia Muscular Espinhal,260750,PE,261160,PE,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,260790,PE,261160,PE,"Outro municipio, mesma UF",8
+G120,Atrofia Muscular Espinhal,260890,PE,261160,PE,"Outro municipio, mesma UF",11
+G120,Atrofia Muscular Espinhal,260940,PE,261160,PE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,260960,PE,261160,PE,"Outro municipio, mesma UF",6
+G120,Atrofia Muscular Espinhal,260970,PE,261160,PE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,261070,PE,261160,PE,"Outro municipio, mesma UF",4
+G120,Atrofia Muscular Espinhal,261110,PE,261110,PE,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,261110,PE,261160,PE,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,261160,PE,261160,PE,Mesmo municipio,165
+G120,Atrofia Muscular Espinhal,261290,PE,261160,PE,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,261360,PE,261160,PE,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,261390,PE,261160,PE,"Outro municipio, mesma UF",4
+G120,Atrofia Muscular Espinhal,261410,PE,261160,PE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,261450,PE,261160,PE,"Outro municipio, mesma UF",7
+G120,Atrofia Muscular Espinhal,261600,PE,261160,PE,"Outro municipio, mesma UF",23
+G120,Atrofia Muscular Espinhal,261640,PE,261160,PE,"Outro municipio, mesma UF",13
+G120,Atrofia Muscular Espinhal,270140,AL,270430,AL,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,270430,AL,261160,PE,Outra UF,5
+G120,Atrofia Muscular Espinhal,280030,SE,280030,SE,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,280067,SE,280030,SE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,280480,SE,280030,SE,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,280540,SE,280030,SE,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,280670,SE,280030,SE,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,290115,BA,292740,BA,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,290405,BA,292740,BA,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,290520,BA,293330,BA,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,292400,BA,292740,BA,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,292740,BA,292740,BA,Mesmo municipio,2
+G120,Atrofia Muscular Espinhal,292975,BA,292740,BA,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,293050,BA,292740,BA,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,310670,MG,310620,MG,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,311150,MG,310620,MG,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,311750,MG,310620,MG,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,311860,MG,310620,MG,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,312390,MG,310620,MG,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,313050,MG,310620,MG,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,313670,MG,313670,MG,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,316860,MG,310620,MG,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,317020,MG,310620,MG,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,317020,MG,530010,DF,Outra UF,1
+G120,Atrofia Muscular Espinhal,320120,ES,320120,ES,Mesmo municipio,7
+G120,Atrofia Muscular Espinhal,330045,RJ,330455,RJ,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,330095,RJ,330455,RJ,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,330100,RJ,330100,RJ,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,330240,RJ,330240,RJ,Mesmo municipio,4
+G120,Atrofia Muscular Espinhal,330330,RJ,330330,RJ,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,330340,RJ,330455,RJ,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,330390,RJ,330390,RJ,Mesmo municipio,3
+G120,Atrofia Muscular Espinhal,330400,RJ,330630,RJ,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,330455,RJ,330455,RJ,Mesmo municipio,20
+G120,Atrofia Muscular Espinhal,330510,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,330580,RJ,330455,RJ,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,350330,SP,353870,SP,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,350550,SP,350550,SP,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,350570,SP,355030,SP,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,350780,SP,354340,SP,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,350960,SP,352590,SP,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,351110,SP,351110,SP,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,352340,SP,350950,SP,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,352340,SP,352340,SP,Mesmo municipio,2
+G120,Atrofia Muscular Espinhal,352530,SP,352530,SP,Mesmo municipio,7
+G120,Atrofia Muscular Espinhal,352940,SP,353060,SP,"Outro municipio, mesma UF",11
+G120,Atrofia Muscular Espinhal,353050,SP,354340,SP,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,353205,SP,354340,SP,"Outro municipio, mesma UF",4
+G120,Atrofia Muscular Espinhal,353870,SP,350950,SP,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,353870,SP,353870,SP,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,354340,SP,354340,SP,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,354890,SP,354890,SP,Mesmo municipio,9
+G120,Atrofia Muscular Espinhal,355030,SP,353060,SP,"Outro municipio, mesma UF",11
+G120,Atrofia Muscular Espinhal,355030,SP,355030,SP,Mesmo municipio,3
+G120,Atrofia Muscular Espinhal,410690,PR,410690,PR,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,411050,PR,410420,PR,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,411155,PR,412810,PR,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,411580,PR,410690,PR,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,411840,PR,410690,PR,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,411990,PR,410690,PR,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,412700,PR,410690,PR,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,420010,SC,420430,SC,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,420030,SC,420540,SC,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,420130,SC,420910,SC,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,420200,SC,420540,SC,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,420360,SC,420430,SC,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,420540,SC,420540,SC,Mesmo municipio,7
+G120,Atrofia Muscular Espinhal,420820,SC,420540,SC,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,420890,SC,420890,SC,Mesmo municipio,24
+G120,Atrofia Muscular Espinhal,420917,SC,420540,SC,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,420940,SC,420540,SC,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,421190,SC,420540,SC,"Outro municipio, mesma UF",7
+G120,Atrofia Muscular Espinhal,421230,SC,420540,SC,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,421280,SC,420540,SC,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,421660,SC,420540,SC,"Outro municipio, mesma UF",6
+G120,Atrofia Muscular Espinhal,421690,SC,420540,SC,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,421720,SC,420540,SC,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,421750,SC,291080,BA,Outra UF,1
+G120,Atrofia Muscular Espinhal,421870,SC,420540,SC,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,421885,SC,420430,SC,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,430463,RS,431490,RS,"Outro municipio, mesma UF",4
+G120,Atrofia Muscular Espinhal,430535,RS,431840,RS,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,430790,RS,430790,RS,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,431690,RS,431690,RS,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,431695,RS,431490,RS,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,500270,MS,500270,MS,Mesmo municipio,6
+G120,Atrofia Muscular Espinhal,500830,MS,500270,MS,"Outro municipio, mesma UF",3
+G120,Atrofia Muscular Espinhal,510340,MT,510340,MT,Mesmo municipio,1
+G120,Atrofia Muscular Espinhal,510350,MT,510340,MT,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,510792,MT,510340,MT,"Outro municipio, mesma UF",2
+G120,Atrofia Muscular Espinhal,510840,MT,510340,MT,"Outro municipio, mesma UF",5
+G120,Atrofia Muscular Espinhal,520025,GO,530010,DF,Outra UF,2
+G120,Atrofia Muscular Espinhal,520140,GO,520870,GO,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,520440,GO,520870,GO,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,520510,GO,520870,GO,"Outro municipio, mesma UF",1
+G120,Atrofia Muscular Espinhal,520549,GO,530010,DF,Outra UF,2
+G120,Atrofia Muscular Espinhal,520620,GO,530010,DF,Outra UF,4
+G120,Atrofia Muscular Espinhal,520870,GO,520870,GO,Mesmo municipio,6
+G120,Atrofia Muscular Espinhal,521523,GO,530010,DF,Outra UF,3
+G120,Atrofia Muscular Espinhal,522185,GO,530010,DF,Outra UF,2
+G120,Atrofia Muscular Espinhal,530010,DF,530010,DF,Mesmo municipio,27
+G122,Esclerose Lateral Amiotrofica,110002,RO,110002,RO,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,110013,RO,110013,RO,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,110030,RO,110030,RO,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,110140,RO,110020,RO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,120010,AC,120010,AC,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,120030,AC,120040,AC,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,120040,AC,120040,AC,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,120042,AC,120020,AC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,130030,AM,130260,AM,"Outro municipio, mesma UF",5
+G122,Esclerose Lateral Amiotrofica,130068,AM,130340,AM,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,130250,AM,130250,AM,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,130260,AM,130260,AM,Mesmo municipio,11
+G122,Esclerose Lateral Amiotrofica,140010,RR,140010,RR,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,150140,PA,150140,PA,Mesmo municipio,8
+G122,Esclerose Lateral Amiotrofica,150150,PA,150140,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,150170,PA,150140,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,150170,PA,150220,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,150220,PA,150140,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,150220,PA,150220,PA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,150240,PA,150240,PA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,150340,PA,150140,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,150520,PA,150140,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,150548,PA,150060,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,150553,PA,150140,PA,"Outro municipio, mesma UF",12
+G122,Esclerose Lateral Amiotrofica,150630,PA,150140,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,150655,PA,150220,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,150680,PA,150680,PA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,150747,PA,150747,PA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,150795,PA,150795,PA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,150797,PA,130260,AM,Outra UF,1
+G122,Esclerose Lateral Amiotrofica,150800,PA,150800,PA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,150815,PA,150060,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,150830,PA,150140,PA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,160030,AP,160030,AP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,170210,TO,170210,TO,Mesmo municipio,3
+G122,Esclerose Lateral Amiotrofica,170310,TO,172100,TO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,170720,TO,171610,TO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,170820,TO,170950,TO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,170950,TO,170950,TO,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,171610,TO,172100,TO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,210005,MA,211130,MA,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,210095,MA,211130,MA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,210120,MA,211130,MA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,210160,MA,210160,MA,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,210200,MA,211130,MA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,210232,MA,210530,MA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,210300,MA,210300,MA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,210300,MA,211130,MA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,210350,MA,210350,MA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,210530,MA,210530,MA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,210550,MA,210530,MA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,210632,MA,211130,MA,"Outro municipio, mesma UF",8
+G122,Esclerose Lateral Amiotrofica,210637,MA,210467,MA,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,210825,MA,211130,MA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,210860,MA,210860,MA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,211030,MA,210910,MA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,211120,MA,211130,MA,"Outro municipio, mesma UF",11
+G122,Esclerose Lateral Amiotrofica,211130,MA,211130,MA,Mesmo municipio,8
+G122,Esclerose Lateral Amiotrofica,211180,MA,210480,MA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,220140,PI,221100,PI,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,220190,PI,220190,PI,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,220553,PI,221100,PI,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,220570,PI,220770,PI,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,221100,PI,221100,PI,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,221120,PI,221100,PI,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,230110,CE,230440,CE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,230140,CE,230440,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,230260,CE,230440,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,230425,CE,230440,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,230440,CE,230440,CE,Mesmo municipio,16
+G122,Esclerose Lateral Amiotrofica,230500,CE,231290,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,230570,CE,230440,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,230690,CE,230440,CE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,230770,CE,230440,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,230790,CE,231290,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,230810,CE,230810,CE,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,231090,CE,230190,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,231140,CE,231140,CE,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,231170,CE,231170,CE,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,231250,CE,231140,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,231290,CE,231290,CE,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,231335,CE,230440,CE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,231340,CE,231290,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,231400,CE,230730,CE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,240110,RN,240800,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,240200,RN,240810,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,240300,RN,240810,RN,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,240325,RN,240810,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,240530,RN,240810,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,240590,RN,240810,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,240790,RN,240810,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,240810,RN,240810,RN,Mesmo municipio,14
+G122,Esclerose Lateral Amiotrofica,240820,RN,240810,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,240830,RN,240830,RN,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,240930,RN,240810,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,240940,RN,240810,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,241142,RN,240810,RN,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,241200,RN,240810,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,241480,RN,240810,RN,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,250150,PB,251370,PB,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,250400,PB,250400,PB,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,250440,PB,261160,PE,Outra UF,1
+G122,Esclerose Lateral Amiotrofica,250450,PB,251370,PB,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,250450,PB,261160,PE,Outra UF,1
+G122,Esclerose Lateral Amiotrofica,250510,PB,251370,PB,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,250730,PB,250750,PB,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,250750,PB,250750,PB,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,250820,PB,250750,PB,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,250970,PB,251370,PB,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,251360,PB,251130,PB,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,251460,PB,251370,PB,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,260005,PE,261160,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,260180,PE,261390,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,260260,PE,261160,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,260345,PE,261160,PE,"Outro municipio, mesma UF",5
+G122,Esclerose Lateral Amiotrofica,260410,PE,260410,PE,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,260410,PE,261160,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,260580,PE,261160,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,260620,PE,261160,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,260680,PE,261160,PE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,260720,PE,261160,PE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,260750,PE,261160,PE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,260760,PE,261160,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,260790,PE,261160,PE,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,260850,PE,261160,PE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,260900,PE,261160,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,260960,PE,261160,PE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,261070,PE,261160,PE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,261100,PE,261390,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,261130,PE,260940,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,261160,PE,261160,PE,Mesmo municipio,12
+G122,Esclerose Lateral Amiotrofica,261350,PE,261390,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,261370,PE,261160,PE,"Outro municipio, mesma UF",10
+G122,Esclerose Lateral Amiotrofica,261390,PE,261390,PE,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,261410,PE,260120,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,261450,PE,261160,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,261485,PE,261160,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,261640,PE,261160,PE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,270140,AL,270140,AL,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,270430,AL,270430,AL,Mesmo municipio,4
+G122,Esclerose Lateral Amiotrofica,270630,AL,270630,AL,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,280030,SE,280030,SE,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,280400,SE,280030,SE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,280480,SE,280030,SE,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,280490,SE,280030,SE,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,280670,SE,280030,SE,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,290420,BA,290420,BA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,290650,BA,292740,BA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,291005,BA,292740,BA,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,291080,BA,291080,BA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,291110,BA,290320,BA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,291400,BA,292740,BA,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,291470,BA,291470,BA,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,291840,BA,292740,BA,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,291880,BA,291880,BA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,291920,BA,292740,BA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,291992,BA,292740,BA,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,292340,BA,292340,BA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,292520,BA,292520,BA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,292740,BA,292740,BA,Mesmo municipio,27
+G122,Esclerose Lateral Amiotrofica,292870,BA,292870,BA,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,292920,BA,292740,BA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,293070,BA,292740,BA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,293120,BA,292740,BA,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,310160,MG,310160,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,310200,MG,310200,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,310210,MG,310560,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,310290,MG,310560,MG,"Outro municipio, mesma UF",6
+G122,Esclerose Lateral Amiotrofica,310350,MG,310350,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,310420,MG,310420,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,310430,MG,310160,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,310620,MG,310620,MG,Mesmo municipio,69
+G122,Esclerose Lateral Amiotrofica,310640,MG,310620,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,310670,MG,310620,MG,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,310670,MG,310670,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,310710,MG,310710,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,310810,MG,310620,MG,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,310870,MG,316990,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,310990,MG,310620,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,311000,MG,310620,MG,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,311070,MG,311070,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,311340,MG,310620,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,311760,MG,310620,MG,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,311800,MG,311800,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,311860,MG,310620,MG,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,311920,MG,312770,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,312160,MG,312160,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,312170,MG,315210,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,312230,MG,310620,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,312330,MG,316990,MG,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,312350,MG,354340,SP,Outra UF,1
+G122,Esclerose Lateral Amiotrofica,312390,MG,311800,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,312520,MG,310160,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,312610,MG,311800,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,312770,MG,312770,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,312840,MG,313670,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,312840,MG,316990,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,312880,MG,316990,MG,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,313130,MG,313130,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,313510,MG,313510,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,313665,MG,310620,MG,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,313670,MG,313670,MG,Mesmo municipio,17
+G122,Esclerose Lateral Amiotrofica,313820,MG,315250,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,313840,MG,313670,MG,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,313840,MG,313840,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,313900,MG,313900,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,314080,MG,313670,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,314260,MG,315250,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,314280,MG,317020,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,314330,MG,314330,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,314480,MG,310620,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,314500,MG,314500,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,314560,MG,314560,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,314590,MG,314590,MG,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,314700,MG,314700,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,314790,MG,314790,MG,Mesmo municipio,9
+G122,Esclerose Lateral Amiotrofica,314790,MG,354340,SP,Outra UF,1
+G122,Esclerose Lateral Amiotrofica,314800,MG,530010,DF,Outra UF,1
+G122,Esclerose Lateral Amiotrofica,314930,MG,310620,MG,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,314980,MG,314980,MG,Mesmo municipio,4
+G122,Esclerose Lateral Amiotrofica,315130,MG,316990,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,315150,MG,314790,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,315210,MG,315210,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,315250,MG,310620,MG,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,315250,MG,315250,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,315460,MG,310620,MG,"Outro municipio, mesma UF",10
+G122,Esclerose Lateral Amiotrofica,315580,MG,316990,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,315630,MG,316990,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,315780,MG,310620,MG,"Outro municipio, mesma UF",17
+G122,Esclerose Lateral Amiotrofica,316210,MG,316210,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,316220,MG,314790,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,316240,MG,314330,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,316292,MG,310670,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,316570,MG,316990,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,316580,MG,315250,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,316720,MG,310620,MG,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,316730,MG,316990,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,316790,MG,316990,MG,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,316935,MG,310620,MG,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,316940,MG,316940,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,316990,MG,316990,MG,Mesmo municipio,15
+G122,Esclerose Lateral Amiotrofica,317010,MG,317010,MG,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,317020,MG,317020,MG,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,317120,MG,310620,MG,"Outro municipio, mesma UF",8
+G122,Esclerose Lateral Amiotrofica,320010,ES,320010,ES,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,320060,ES,320060,ES,Mesmo municipio,7
+G122,Esclerose Lateral Amiotrofica,320060,ES,320500,ES,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,320080,ES,320150,ES,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,320120,ES,320120,ES,Mesmo municipio,3
+G122,Esclerose Lateral Amiotrofica,320130,ES,320130,ES,Mesmo municipio,8
+G122,Esclerose Lateral Amiotrofica,320170,ES,320506,ES,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,320240,ES,320500,ES,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,320320,ES,320320,ES,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,320500,ES,320500,ES,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,320520,ES,320500,ES,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,320520,ES,320530,ES,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,320530,ES,320130,ES,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,320530,ES,320500,ES,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330010,RJ,330010,RJ,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,330025,RJ,330025,RJ,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,330040,RJ,330040,RJ,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,330040,RJ,330630,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330045,RJ,330455,RJ,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,330060,RJ,330060,RJ,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,330070,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330090,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330100,RJ,330100,RJ,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,330170,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330200,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330205,RJ,330220,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330210,RJ,330220,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330220,RJ,330220,RJ,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,330225,RJ,330225,RJ,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,330250,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330290,RJ,330290,RJ,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,330310,RJ,330220,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330330,RJ,330330,RJ,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,330340,RJ,330340,RJ,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,330350,RJ,330350,RJ,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,330350,RJ,330455,RJ,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,330350,RJ,330630,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330390,RJ,330390,RJ,Mesmo municipio,12
+G122,Esclerose Lateral Amiotrofica,330395,RJ,330420,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330400,RJ,330630,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330411,RJ,330630,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330414,RJ,330030,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330420,RJ,330420,RJ,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,330455,RJ,330390,RJ,"Outro municipio, mesma UF",12
+G122,Esclerose Lateral Amiotrofica,330455,RJ,330455,RJ,Mesmo municipio,20
+G122,Esclerose Lateral Amiotrofica,330490,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330510,RJ,330350,RJ,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,330510,RJ,330455,RJ,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,330580,RJ,330580,RJ,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,330630,RJ,330630,RJ,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,350075,SP,352230,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350160,SP,350950,SP,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,350190,SP,350950,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350210,SP,354980,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350250,SP,350250,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,350280,SP,353010,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350300,SP,354340,SP,"Outro municipio, mesma UF",5
+G122,Esclerose Lateral Amiotrofica,350320,SP,350170,SP,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,350400,SP,354340,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350410,SP,350950,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350450,SP,350450,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,350550,SP,350550,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,350550,SP,354340,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350570,SP,354340,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350570,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350600,SP,350600,SP,Mesmo municipio,4
+G122,Esclerose Lateral Amiotrofica,350680,SP,352530,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350750,SP,350750,SP,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,350800,SP,355220,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,350950,SP,350950,SP,Mesmo municipio,9
+G122,Esclerose Lateral Amiotrofica,351060,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351110,SP,351110,SP,Mesmo municipio,7
+G122,Esclerose Lateral Amiotrofica,351110,SP,352190,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351280,SP,351280,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,351300,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351350,SP,351870,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351380,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351420,SP,354980,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351492,SP,351110,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351500,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351510,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351518,SP,351518,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,351550,SP,354980,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351570,SP,351570,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,351620,SP,351620,SP,Mesmo municipio,5
+G122,Esclerose Lateral Amiotrofica,351620,SP,354340,SP,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,351640,SP,355030,SP,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,351660,SP,352900,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351670,SP,351670,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,351850,SP,352230,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351870,SP,351870,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,351880,SP,351880,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,351880,SP,355030,SP,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,351885,SP,354340,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351940,SP,354980,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,351990,SP,351990,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,352044,SP,350280,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,352050,SP,350950,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,352050,SP,352050,SP,Mesmo municipio,5
+G122,Esclerose Lateral Amiotrofica,352100,SP,355220,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,352150,SP,354980,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,352190,SP,352190,SP,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,352230,SP,352230,SP,Mesmo municipio,3
+G122,Esclerose Lateral Amiotrofica,352240,SP,355220,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,352310,SP,355030,SP,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,352390,SP,352390,SP,Mesmo municipio,15
+G122,Esclerose Lateral Amiotrofica,352390,SP,355220,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,352440,SP,352440,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,352500,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,352510,SP,354340,SP,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,352590,SP,352590,SP,Mesmo municipio,3
+G122,Esclerose Lateral Amiotrofica,352650,SP,353010,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,352650,SP,355030,SP,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,352690,SP,352690,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,352700,SP,350050,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,352720,SP,352720,SP,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,352800,SP,352800,SP,Mesmo municipio,4
+G122,Esclerose Lateral Amiotrofica,352830,SP,354980,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,352990,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,353070,SP,353070,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,353080,SP,353080,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,353140,SP,353140,SP,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,353190,SP,354340,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,353420,SP,354980,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,353440,SP,353440,SP,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,353440,SP,355030,SP,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,353470,SP,353470,SP,Mesmo municipio,3
+G122,Esclerose Lateral Amiotrofica,353650,SP,353650,SP,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,353800,SP,354990,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,353810,SP,351110,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,353870,SP,353870,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,354020,SP,354340,SP,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,354100,SP,354100,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,354140,SP,354140,SP,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,354240,SP,354140,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,354340,SP,354340,SP,Mesmo municipio,15
+G122,Esclerose Lateral Amiotrofica,354390,SP,354390,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,354390,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,354490,SP,354340,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,354560,SP,351110,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,354580,SP,350950,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,354640,SP,352900,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,354640,SP,353470,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,354730,SP,350950,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,354760,SP,354340,SP,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,354760,SP,354760,SP,Mesmo municipio,3
+G122,Esclerose Lateral Amiotrofica,354770,SP,354140,SP,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,354780,SP,354780,SP,Mesmo municipio,3
+G122,Esclerose Lateral Amiotrofica,354850,SP,351870,SP,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,354850,SP,354850,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,354870,SP,354870,SP,Mesmo municipio,5
+G122,Esclerose Lateral Amiotrofica,354880,SP,354870,SP,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,354880,SP,354880,SP,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,354890,SP,354340,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,354890,SP,354890,SP,Mesmo municipio,5
+G122,Esclerose Lateral Amiotrofica,354980,SP,354980,SP,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,354990,SP,354990,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,354990,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355010,SP,350750,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355030,SP,353060,SP,"Outro municipio, mesma UF",10
+G122,Esclerose Lateral Amiotrofica,355030,SP,354340,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355030,SP,355030,SP,Mesmo municipio,52
+G122,Esclerose Lateral Amiotrofica,355090,SP,354340,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355150,SP,354340,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355220,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355220,SP,355220,SP,Mesmo municipio,5
+G122,Esclerose Lateral Amiotrofica,355280,SP,355030,SP,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,355280,SP,355280,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,355400,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355400,SP,355220,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355410,SP,354990,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355500,SP,355500,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,355540,SP,355030,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355570,SP,354980,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355580,SP,354980,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355600,SP,351110,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355630,SP,500830,MS,Outra UF,1
+G122,Esclerose Lateral Amiotrofica,355660,SP,352900,SP,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,355670,SP,355670,SP,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,410160,PR,411990,PR,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,410290,PR,412820,PR,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,410420,PR,410420,PR,Mesmo municipio,3
+G122,Esclerose Lateral Amiotrofica,410480,PR,410480,PR,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,410580,PR,410420,PR,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,410690,PR,410690,PR,Mesmo municipio,8
+G122,Esclerose Lateral Amiotrofica,411150,PR,411370,PR,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,411330,PR,410690,PR,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,411370,PR,411370,PR,Mesmo municipio,10
+G122,Esclerose Lateral Amiotrofica,411460,PR,411460,PR,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,411520,PR,411520,PR,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,411580,PR,411580,PR,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,411800,PR,410690,PR,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,411820,PR,411820,PR,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,411960,PR,410690,PR,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,411960,PR,411960,PR,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,411990,PR,410420,PR,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,411990,PR,411990,PR,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,412070,PR,410690,PR,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,412215,PR,410940,PR,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,412240,PR,412240,PR,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,412560,PR,412560,PR,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,412810,PR,412810,PR,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,412853,PR,412710,PR,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,420125,SC,420690,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,420130,SC,420910,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,420195,SC,421870,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,420200,SC,420200,SC,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,420340,SC,421650,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,420540,SC,420540,SC,Mesmo municipio,5
+G122,Esclerose Lateral Amiotrofica,420630,SC,420290,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,420730,SC,421870,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,420820,SC,420820,SC,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,420840,SC,420840,SC,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,420910,SC,420910,SC,Mesmo municipio,6
+G122,Esclerose Lateral Amiotrofica,420910,SC,421150,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,420930,SC,420930,SC,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,420930,SC,421650,SC,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,421030,SC,410690,PR,Outra UF,1
+G122,Esclerose Lateral Amiotrofica,421190,SC,420540,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,421280,SC,420820,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,421330,SC,420455,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,421650,SC,421650,SC,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,421660,SC,420540,SC,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,421660,SC,421725,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,421800,SC,420540,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,421835,SC,421160,SC,"Outro municipio, mesma UF",9
+G122,Esclerose Lateral Amiotrofica,421870,SC,421870,SC,Mesmo municipio,4
+G122,Esclerose Lateral Amiotrofica,421895,SC,420930,SC,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,421895,SC,421650,SC,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,430040,RS,430040,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,430240,RS,430240,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,430300,RS,430300,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,430310,RS,431490,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,430390,RS,430390,RS,Mesmo municipio,3
+G122,Esclerose Lateral Amiotrofica,430450,RS,430450,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,430460,RS,430460,RS,Mesmo municipio,5
+G122,Esclerose Lateral Amiotrofica,430460,RS,430770,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,430470,RS,430470,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,430510,RS,430510,RS,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,430660,RS,430660,RS,Mesmo municipio,20
+G122,Esclerose Lateral Amiotrofica,430676,RS,431490,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,430700,RS,430700,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,430800,RS,431690,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,430850,RS,430850,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,430890,RS,430890,RS,Mesmo municipio,13
+G122,Esclerose Lateral Amiotrofica,430900,RS,430900,RS,Mesmo municipio,4
+G122,Esclerose Lateral Amiotrofica,430905,RS,430920,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,430920,RS,430920,RS,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,430920,RS,431490,RS,"Outro municipio, mesma UF",4
+G122,Esclerose Lateral Amiotrofica,430930,RS,430930,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,431000,RS,431000,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,431043,RS,430080,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,431100,RS,431710,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,431171,RS,431410,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,431290,RS,431490,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,431410,RS,431410,RS,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,431440,RS,431440,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,431490,RS,431490,RS,Mesmo municipio,28
+G122,Esclerose Lateral Amiotrofica,431560,RS,431560,RS,Mesmo municipio,5
+G122,Esclerose Lateral Amiotrofica,431720,RS,431720,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,431750,RS,431750,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,431770,RS,431890,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,431780,RS,430020,RS,"Outro municipio, mesma UF",8
+G122,Esclerose Lateral Amiotrofica,431800,RS,431800,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,431810,RS,431810,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,431870,RS,431340,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,431870,RS,431870,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,431910,RS,431720,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,432010,RS,432010,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,432100,RS,431410,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,432160,RS,432160,RS,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,432300,RS,431490,RS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,500270,MS,500270,MS,Mesmo municipio,7
+G122,Esclerose Lateral Amiotrofica,500295,MS,500270,MS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,500320,MS,500270,MS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,500720,MS,500370,MS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,500769,MS,500270,MS,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,500830,MS,500270,MS,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,500830,MS,500830,MS,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,510025,MT,510340,MT,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,510170,MT,510340,MT,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,510267,MT,510267,MT,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,510320,MT,510320,MT,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,510340,MT,510340,MT,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,510562,MT,510562,MT,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,510760,MT,510760,MT,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,520140,GO,520140,GO,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,520140,GO,520870,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,520170,GO,520170,GO,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,520410,GO,520410,GO,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,520440,GO,520870,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,520510,GO,520870,GO,"Outro municipio, mesma UF",2
+G122,Esclerose Lateral Amiotrofica,520760,GO,520870,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,520860,GO,520870,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,520870,GO,520870,GO,Mesmo municipio,9
+G122,Esclerose Lateral Amiotrofica,520910,GO,521150,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,521015,GO,520870,GO,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,521150,GO,520870,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,521250,GO,521250,GO,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,521370,GO,520870,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,521440,GO,520870,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,521450,GO,521450,GO,Mesmo municipio,2
+G122,Esclerose Lateral Amiotrofica,521570,GO,520870,GO,"Outro municipio, mesma UF",3
+G122,Esclerose Lateral Amiotrofica,521710,GO,520870,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,521730,GO,520870,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,521850,GO,521850,GO,Mesmo municipio,3
+G122,Esclerose Lateral Amiotrofica,521880,GO,521880,GO,Mesmo municipio,1
+G122,Esclerose Lateral Amiotrofica,522060,GO,520870,GO,"Outro municipio, mesma UF",1
+G122,Esclerose Lateral Amiotrofica,522185,GO,530010,DF,Outra UF,1
+G122,Esclerose Lateral Amiotrofica,530010,DF,530010,DF,Mesmo municipio,10
+G35,Esclerose Multipla,110011,RO,110011,RO,Mesmo municipio,5
+G35,Esclerose Multipla,110012,RO,110004,RO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,110012,RO,110020,RO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,110020,RO,110020,RO,Mesmo municipio,3
+G35,Esclerose Multipla,110030,RO,110030,RO,Mesmo municipio,2
+G35,Esclerose Multipla,110037,RO,110004,RO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,110037,RO,110037,RO,Mesmo municipio,2
+G35,Esclerose Multipla,120040,AC,120040,AC,Mesmo municipio,2
+G35,Esclerose Multipla,130180,AM,130180,AM,Mesmo municipio,1
+G35,Esclerose Multipla,130250,AM,130250,AM,Mesmo municipio,2
+G35,Esclerose Multipla,130260,AM,130260,AM,Mesmo municipio,9
+G35,Esclerose Multipla,130280,AM,130280,AM,Mesmo municipio,1
+G35,Esclerose Multipla,130340,AM,130260,AM,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,130350,AM,130350,AM,Mesmo municipio,1
+G35,Esclerose Multipla,130353,AM,130260,AM,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,140010,RR,140010,RR,Mesmo municipio,7
+G35,Esclerose Multipla,150040,PA,150040,PA,Mesmo municipio,1
+G35,Esclerose Multipla,150080,PA,150140,PA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,150110,PA,150140,PA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,150130,PA,150140,PA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,150140,PA,150140,PA,Mesmo municipio,6
+G35,Esclerose Multipla,150150,PA,150140,PA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,150157,PA,150140,PA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,150210,PA,150140,PA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,150220,PA,150140,PA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,150320,PA,150140,PA,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,150345,PA,150345,PA,Mesmo municipio,1
+G35,Esclerose Multipla,150420,PA,150140,PA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,150420,PA,150420,PA,Mesmo municipio,1
+G35,Esclerose Multipla,150460,PA,150140,PA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,150506,PA,150140,PA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,150550,PA,150550,PA,Mesmo municipio,1
+G35,Esclerose Multipla,150553,PA,150553,PA,Mesmo municipio,1
+G35,Esclerose Multipla,150620,PA,150620,PA,Mesmo municipio,1
+G35,Esclerose Multipla,150635,PA,150140,PA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,150680,PA,150680,PA,Mesmo municipio,2
+G35,Esclerose Multipla,150746,PA,150140,PA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,160030,AP,160030,AP,Mesmo municipio,2
+G35,Esclerose Multipla,160060,AP,160030,AP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,170210,TO,170210,TO,Mesmo municipio,4
+G35,Esclerose Multipla,170510,TO,172100,TO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,170510,TO,520870,GO,Outra UF,1
+G35,Esclerose Multipla,170820,TO,170950,TO,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,170950,TO,170950,TO,Mesmo municipio,1
+G35,Esclerose Multipla,172100,TO,172100,TO,Mesmo municipio,1
+G35,Esclerose Multipla,172100,TO,354340,SP,Outra UF,2
+G35,Esclerose Multipla,210005,MA,210005,MA,Mesmo municipio,1
+G35,Esclerose Multipla,210060,MA,211130,MA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,210250,MA,210250,MA,Mesmo municipio,1
+G35,Esclerose Multipla,210250,MA,211130,MA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,210350,MA,211130,MA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,210405,MA,210530,MA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,210420,MA,210420,MA,Mesmo municipio,2
+G35,Esclerose Multipla,210465,MA,211130,MA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,210530,MA,211130,MA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,210550,MA,211130,MA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,210710,MA,210710,MA,Mesmo municipio,1
+G35,Esclerose Multipla,210810,MA,210810,MA,Mesmo municipio,3
+G35,Esclerose Multipla,210860,MA,210860,MA,Mesmo municipio,7
+G35,Esclerose Multipla,210960,MA,211130,MA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,211120,MA,211130,MA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,211130,MA,211130,MA,Mesmo municipio,1
+G35,Esclerose Multipla,220202,PI,221100,PI,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,220253,PI,221100,PI,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,220323,PI,221100,PI,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,220465,PI,220770,PI,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,220557,PI,221100,PI,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,220560,PI,221100,PI,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,220585,PI,221100,PI,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,220750,PI,221100,PI,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,220770,PI,220770,PI,Mesmo municipio,2
+G35,Esclerose Multipla,220830,PI,221100,PI,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,220840,PI,221100,PI,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,221100,PI,221100,PI,Mesmo municipio,20
+G35,Esclerose Multipla,230040,CE,231330,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,230190,CE,230440,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,230190,CE,230730,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,230250,CE,230190,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,230250,CE,230250,CE,Mesmo municipio,1
+G35,Esclerose Multipla,230420,CE,230730,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,230440,CE,230440,CE,Mesmo municipio,22
+G35,Esclerose Multipla,230440,CE,355030,SP,Outra UF,11
+G35,Esclerose Multipla,230540,CE,230540,CE,Mesmo municipio,1
+G35,Esclerose Multipla,230625,CE,230440,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,230730,CE,230730,CE,Mesmo municipio,1
+G35,Esclerose Multipla,230750,CE,230730,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,230763,CE,230440,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,230770,CE,230440,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,230880,CE,231290,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,230890,CE,231290,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,231010,CE,230440,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,231180,CE,231180,CE,Mesmo municipio,1
+G35,Esclerose Multipla,231220,CE,231290,CE,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,231290,CE,231290,CE,Mesmo municipio,6
+G35,Esclerose Multipla,231330,CE,230440,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,231340,CE,231290,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,231410,CE,230440,CE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,240100,RN,240100,RN,Mesmo municipio,13
+G35,Esclerose Multipla,240110,RN,240800,RN,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,240120,RN,240810,RN,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,240270,RN,240810,RN,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,240310,RN,240310,RN,Mesmo municipio,1
+G35,Esclerose Multipla,240310,RN,240810,RN,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,240370,RN,240100,RN,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,240720,RN,240720,RN,Mesmo municipio,2
+G35,Esclerose Multipla,240800,RN,240800,RN,Mesmo municipio,3
+G35,Esclerose Multipla,240810,RN,240810,RN,Mesmo municipio,6
+G35,Esclerose Multipla,240830,RN,240810,RN,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,241240,RN,240810,RN,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,241255,RN,240810,RN,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,241270,RN,240810,RN,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,250040,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,250090,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,250140,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,250180,PB,251370,PB,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,250320,PB,251370,PB,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,250400,PB,250400,PB,Mesmo municipio,2
+G35,Esclerose Multipla,250400,PB,251370,PB,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,250490,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,250700,PB,250700,PB,Mesmo municipio,1
+G35,Esclerose Multipla,250710,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,250750,PB,250750,PB,Mesmo municipio,2
+G35,Esclerose Multipla,250750,PB,251370,PB,"Outro municipio, mesma UF",19
+G35,Esclerose Multipla,250790,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,250890,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,250970,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,251065,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,251120,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,251150,PB,251370,PB,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,251200,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,251210,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,251270,PB,251370,PB,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,251370,PB,251370,PB,Mesmo municipio,2
+G35,Esclerose Multipla,251580,PB,250750,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,251620,PB,251370,PB,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,251630,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,251670,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,251690,PB,251370,PB,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260005,PE,261160,PE,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,260010,PE,261160,PE,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,260080,PE,261160,PE,"Outro municipio, mesma UF",8
+G35,Esclerose Multipla,260170,PE,260410,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260170,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260190,PE,261160,PE,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,260210,PE,260210,PE,Mesmo municipio,1
+G35,Esclerose Multipla,260210,PE,260410,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260290,PE,261160,PE,"Outro municipio, mesma UF",8
+G35,Esclerose Multipla,260310,PE,261160,PE,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,260345,PE,261160,PE,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,260400,PE,261160,PE,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,260410,PE,260410,PE,Mesmo municipio,6
+G35,Esclerose Multipla,260410,PE,261160,PE,"Outro municipio, mesma UF",53
+G35,Esclerose Multipla,260460,PE,261160,PE,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,260510,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260540,PE,261160,PE,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,260600,PE,261160,PE,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,260610,PE,261160,PE,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,260640,PE,260410,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260660,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260680,PE,261160,PE,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,260720,PE,261160,PE,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,260760,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260775,PE,261160,PE,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,260780,PE,261160,PE,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,260790,PE,261160,PE,"Outro municipio, mesma UF",41
+G35,Esclerose Multipla,260805,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260825,PE,261160,PE,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,260860,PE,261160,PE,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,260890,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260940,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,260960,PE,261160,PE,"Outro municipio, mesma UF",28
+G35,Esclerose Multipla,260990,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261010,PE,260410,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261070,PE,261160,PE,"Outro municipio, mesma UF",28
+G35,Esclerose Multipla,261080,PE,260410,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261100,PE,261160,PE,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,261110,PE,261110,PE,Mesmo municipio,4
+G35,Esclerose Multipla,261110,PE,261160,PE,"Outro municipio, mesma UF",13
+G35,Esclerose Multipla,261160,PE,261160,PE,Mesmo municipio,157
+G35,Esclerose Multipla,261220,PE,261160,PE,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,261240,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261247,PE,261160,PE,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,261250,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261300,PE,260410,PE,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,261390,PE,261160,PE,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,261390,PE,261390,PE,Mesmo municipio,3
+G35,Esclerose Multipla,261450,PE,260410,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261480,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261485,PE,261160,PE,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,261530,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261550,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261570,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261580,PE,260410,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261620,PE,261160,PE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,261640,PE,261160,PE,"Outro municipio, mesma UF",18
+G35,Esclerose Multipla,270130,AL,270430,AL,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,270230,AL,270430,AL,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,270430,AL,270430,AL,Mesmo municipio,9
+G35,Esclerose Multipla,270470,AL,270430,AL,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,270770,AL,270430,AL,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,270900,AL,270430,AL,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,270930,AL,270430,AL,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,280020,SE,280030,SE,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,280030,SE,280030,SE,Mesmo municipio,238
+G35,Esclerose Multipla,280030,SE,280480,SE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,280060,SE,280030,SE,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,280100,SE,280030,SE,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,280120,SE,280030,SE,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,280130,SE,280030,SE,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,280270,SE,280030,SE,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,280290,SE,280030,SE,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,280350,SE,280030,SE,"Outro municipio, mesma UF",31
+G35,Esclerose Multipla,280350,SE,280350,SE,Mesmo municipio,2
+G35,Esclerose Multipla,280445,SE,280030,SE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,280480,SE,280030,SE,"Outro municipio, mesma UF",81
+G35,Esclerose Multipla,280550,SE,280030,SE,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,280560,SE,280030,SE,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,280580,SE,280030,SE,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,280610,SE,280030,SE,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,280620,SE,280030,SE,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,280660,SE,280030,SE,"Outro municipio, mesma UF",8
+G35,Esclerose Multipla,280670,SE,280030,SE,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,280670,SE,280670,SE,Mesmo municipio,1
+G35,Esclerose Multipla,280710,SE,280030,SE,"Outro municipio, mesma UF",15
+G35,Esclerose Multipla,280760,SE,280030,SE,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,290010,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,290290,BA,293330,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,290350,BA,290350,BA,Mesmo municipio,1
+G35,Esclerose Multipla,290380,BA,291920,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,290420,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,290490,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,290950,BA,292740,BA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,290980,BA,292870,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,291020,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,291060,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,291070,BA,292740,BA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,291072,BA,291072,BA,Mesmo municipio,1
+G35,Esclerose Multipla,291080,BA,291080,BA,Mesmo municipio,1
+G35,Esclerose Multipla,291170,BA,291170,BA,Mesmo municipio,2
+G35,Esclerose Multipla,291210,BA,291210,BA,Mesmo municipio,1
+G35,Esclerose Multipla,291230,BA,293330,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,291320,BA,291320,BA,Mesmo municipio,1
+G35,Esclerose Multipla,291340,BA,290520,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,291370,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,291460,BA,291460,BA,Mesmo municipio,2
+G35,Esclerose Multipla,291640,BA,291640,BA,Mesmo municipio,2
+G35,Esclerose Multipla,291710,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,291840,BA,291840,BA,Mesmo municipio,5
+G35,Esclerose Multipla,291870,BA,291800,BA,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,291920,BA,291920,BA,Mesmo municipio,1
+G35,Esclerose Multipla,291920,BA,292740,BA,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,291992,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,292000,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,292000,BA,293330,BA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,292060,BA,292740,BA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,292070,BA,431410,RS,Outra UF,1
+G35,Esclerose Multipla,292100,BA,292740,BA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,292120,BA,292120,BA,Mesmo municipio,1
+G35,Esclerose Multipla,292120,BA,292740,BA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,292150,BA,292150,BA,Mesmo municipio,1
+G35,Esclerose Multipla,292150,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,292250,BA,292740,BA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,292350,BA,291080,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,292400,BA,292400,BA,Mesmo municipio,2
+G35,Esclerose Multipla,292400,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,292575,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,292580,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,292590,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,292740,BA,292740,BA,Mesmo municipio,36
+G35,Esclerose Multipla,292800,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,292870,BA,292870,BA,Mesmo municipio,2
+G35,Esclerose Multipla,292880,BA,292740,BA,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,292910,BA,292870,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,293070,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,293105,BA,291170,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,293135,BA,293135,BA,Mesmo municipio,1
+G35,Esclerose Multipla,293230,BA,291360,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,293270,BA,291360,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,293320,BA,292740,BA,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,293330,BA,293330,BA,Mesmo municipio,6
+G35,Esclerose Multipla,310030,MG,310620,MG,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,310160,MG,315250,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310163,MG,310560,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310170,MG,310620,MG,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,310190,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310190,MG,354340,SP,Outra UF,1
+G35,Esclerose Multipla,310230,MG,310620,MG,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,310360,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310400,MG,310400,MG,Mesmo municipio,9
+G35,Esclerose Multipla,310400,MG,317010,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310420,MG,310620,MG,"Outro municipio, mesma UF",8
+G35,Esclerose Multipla,310430,MG,310160,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310430,MG,310620,MG,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,310445,MG,311230,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310510,MG,310620,MG,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,310520,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,310540,MG,310620,MG,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,310560,MG,310560,MG,Mesmo municipio,2
+G35,Esclerose Multipla,310560,MG,315250,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310590,MG,310560,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,310620,MG,310620,MG,Mesmo municipio,816
+G35,Esclerose Multipla,310670,MG,310620,MG,"Outro municipio, mesma UF",42
+G35,Esclerose Multipla,310680,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310680,MG,313860,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310740,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,310740,MG,310740,MG,Mesmo municipio,2
+G35,Esclerose Multipla,310750,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310830,MG,315250,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,310860,MG,314330,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,310900,MG,310620,MG,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,310945,MG,530010,DF,Outra UF,1
+G35,Esclerose Multipla,311000,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311060,MG,311060,MG,Mesmo municipio,6
+G35,Esclerose Multipla,311120,MG,314560,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311150,MG,317010,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311170,MG,310620,MG,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,311205,MG,310620,MG,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,311230,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,311320,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311340,MG,310620,MG,"Outro municipio, mesma UF",25
+G35,Esclerose Multipla,311420,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311530,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311535,MG,310620,MG,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,311550,MG,311550,MG,Mesmo municipio,1
+G35,Esclerose Multipla,311650,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311680,MG,311680,MG,Mesmo municipio,1
+G35,Esclerose Multipla,311750,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311787,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,311800,MG,310620,MG,"Outro municipio, mesma UF",15
+G35,Esclerose Multipla,311830,MG,314610,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311840,MG,312770,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311860,MG,310620,MG,"Outro municipio, mesma UF",169
+G35,Esclerose Multipla,311860,MG,311860,MG,Mesmo municipio,2
+G35,Esclerose Multipla,311870,MG,317070,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311930,MG,311930,MG,Mesmo municipio,1
+G35,Esclerose Multipla,311930,MG,317020,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311940,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311940,MG,311940,MG,Mesmo municipio,3
+G35,Esclerose Multipla,311960,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,311990,MG,315250,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,312040,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,312090,MG,310620,MG,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,312090,MG,312090,MG,Mesmo municipio,1
+G35,Esclerose Multipla,312140,MG,310620,MG,"Outro municipio, mesma UF",8
+G35,Esclerose Multipla,312160,MG,312160,MG,Mesmo municipio,2
+G35,Esclerose Multipla,312230,MG,310620,MG,"Outro municipio, mesma UF",17
+G35,Esclerose Multipla,312320,MG,310620,MG,"Outro municipio, mesma UF",13
+G35,Esclerose Multipla,312400,MG,314390,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,312410,MG,310620,MG,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,312410,MG,312410,MG,Mesmo municipio,1
+G35,Esclerose Multipla,312420,MG,311330,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,312420,MG,320530,ES,Outra UF,1
+G35,Esclerose Multipla,312430,MG,314330,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,312450,MG,315250,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,312490,MG,314390,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,312595,MG,312595,MG,Mesmo municipio,1
+G35,Esclerose Multipla,312610,MG,310620,MG,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,312610,MG,314560,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,312690,MG,312770,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,312707,MG,314330,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,312710,MG,317010,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,312760,MG,312160,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,312770,MG,312770,MG,Mesmo municipio,1
+G35,Esclerose Multipla,312810,MG,312810,MG,Mesmo municipio,1
+G35,Esclerose Multipla,312870,MG,310620,MG,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,312870,MG,312870,MG,Mesmo municipio,1
+G35,Esclerose Multipla,312920,MG,315250,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,312980,MG,310620,MG,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,312990,MG,315250,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313010,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313100,MG,310620,MG,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,313110,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,313130,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,313150,MG,315250,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313170,MG,310620,MG,"Outro municipio, mesma UF",22
+G35,Esclerose Multipla,313170,MG,313170,MG,Mesmo municipio,1
+G35,Esclerose Multipla,313190,MG,310620,MG,"Outro municipio, mesma UF",17
+G35,Esclerose Multipla,313220,MG,310620,MG,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,313270,MG,310620,MG,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,313330,MG,310620,MG,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,313350,MG,310620,MG,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,313370,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,313430,MG,313820,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313460,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313490,MG,315250,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313510,MG,310620,MG,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,313520,MG,314330,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313580,MG,310620,MG,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,313620,MG,310620,MG,"Outro municipio, mesma UF",48
+G35,Esclerose Multipla,313620,MG,313620,MG,Mesmo municipio,2
+G35,Esclerose Multipla,313665,MG,310620,MG,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,313665,MG,313380,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313670,MG,313670,MG,Mesmo municipio,10
+G35,Esclerose Multipla,313720,MG,310620,MG,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,313760,MG,310620,MG,"Outro municipio, mesma UF",21
+G35,Esclerose Multipla,313770,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,313820,MG,310620,MG,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,313820,MG,313820,MG,Mesmo municipio,2
+G35,Esclerose Multipla,313840,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313860,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313910,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,313920,MG,310620,MG,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,313930,MG,310620,MG,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,313940,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,313970,MG,310620,MG,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,313990,MG,313240,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,314000,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,314015,MG,310620,MG,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,314080,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,314110,MG,310620,MG,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,314260,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,314260,MG,315250,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,314330,MG,291170,BA,Outra UF,1
+G35,Esclerose Multipla,314330,MG,310620,MG,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,314330,MG,314330,MG,Mesmo municipio,1
+G35,Esclerose Multipla,314390,MG,314390,MG,Mesmo municipio,7
+G35,Esclerose Multipla,314450,MG,313820,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,314460,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,314480,MG,310620,MG,"Outro municipio, mesma UF",13
+G35,Esclerose Multipla,314500,MG,317020,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,314505,MG,313510,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,314520,MG,310620,MG,"Outro municipio, mesma UF",13
+G35,Esclerose Multipla,314520,MG,314520,MG,Mesmo municipio,1
+G35,Esclerose Multipla,314560,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,314570,MG,316070,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,314600,MG,314600,MG,Mesmo municipio,1
+G35,Esclerose Multipla,314610,MG,310620,MG,"Outro municipio, mesma UF",8
+G35,Esclerose Multipla,314610,MG,314610,MG,Mesmo municipio,3
+G35,Esclerose Multipla,314650,MG,310620,MG,"Outro municipio, mesma UF",23
+G35,Esclerose Multipla,314690,MG,310620,MG,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,314700,MG,314700,MG,Mesmo municipio,1
+G35,Esclerose Multipla,314710,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,314710,MG,314710,MG,Mesmo municipio,1
+G35,Esclerose Multipla,314740,MG,310620,MG,"Outro municipio, mesma UF",19
+G35,Esclerose Multipla,314790,MG,310620,MG,"Outro municipio, mesma UF",22
+G35,Esclerose Multipla,314790,MG,314790,MG,Mesmo municipio,8
+G35,Esclerose Multipla,314800,MG,314800,MG,Mesmo municipio,1
+G35,Esclerose Multipla,314830,MG,310620,MG,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,314890,MG,310620,MG,"Outro municipio, mesma UF",8
+G35,Esclerose Multipla,314930,MG,310620,MG,"Outro municipio, mesma UF",14
+G35,Esclerose Multipla,314990,MG,314990,MG,Mesmo municipio,1
+G35,Esclerose Multipla,315015,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,315040,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,315060,MG,310620,MG,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,315080,MG,310620,MG,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,315090,MG,313240,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,315120,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,315150,MG,315150,MG,Mesmo municipio,2
+G35,Esclerose Multipla,315180,MG,315180,MG,Mesmo municipio,2
+G35,Esclerose Multipla,315250,MG,315250,MG,Mesmo municipio,13
+G35,Esclerose Multipla,315300,MG,317010,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,315310,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,315420,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,315460,MG,310620,MG,"Outro municipio, mesma UF",40
+G35,Esclerose Multipla,315480,MG,310620,MG,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,315580,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,315580,MG,315580,MG,Mesmo municipio,1
+G35,Esclerose Multipla,315670,MG,310620,MG,"Outro municipio, mesma UF",17
+G35,Esclerose Multipla,315680,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,315680,MG,315680,MG,Mesmo municipio,1
+G35,Esclerose Multipla,315720,MG,310620,MG,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,315730,MG,310560,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,315730,MG,313670,MG,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,315733,MG,316250,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,315780,MG,310620,MG,"Outro municipio, mesma UF",48
+G35,Esclerose Multipla,315810,MG,310620,MG,"Outro municipio, mesma UF",8
+G35,Esclerose Multipla,315820,MG,310620,MG,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,315850,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,315960,MG,315250,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,315990,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,316010,MG,310620,MG,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,316040,MG,316040,MG,Mesmo municipio,1
+G35,Esclerose Multipla,316100,MG,310620,MG,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,316110,MG,316110,MG,Mesmo municipio,1
+G35,Esclerose Multipla,316150,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,316170,MG,317020,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,316210,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,316210,MG,316210,MG,Mesmo municipio,1
+G35,Esclerose Multipla,316250,MG,316250,MG,Mesmo municipio,4
+G35,Esclerose Multipla,316295,MG,310620,MG,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,316420,MG,310620,MG,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,316443,MG,314390,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,316470,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,316530,MG,310490,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,316553,MG,310620,MG,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,316620,MG,310560,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,316720,MG,310620,MG,"Outro municipio, mesma UF",48
+G35,Esclerose Multipla,316720,MG,316720,MG,Mesmo municipio,3
+G35,Esclerose Multipla,316810,MG,310400,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,316860,MG,316860,MG,Mesmo municipio,1
+G35,Esclerose Multipla,316935,MG,310620,MG,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,316940,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,316940,MG,316940,MG,Mesmo municipio,3
+G35,Esclerose Multipla,316970,MG,310620,MG,"Outro municipio, mesma UF",8
+G35,Esclerose Multipla,316970,MG,312160,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,316980,MG,315250,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,316990,MG,316990,MG,Mesmo municipio,1
+G35,Esclerose Multipla,317000,MG,355030,SP,Outra UF,12
+G35,Esclerose Multipla,317010,MG,317010,MG,Mesmo municipio,6
+G35,Esclerose Multipla,317020,MG,317020,MG,Mesmo municipio,13
+G35,Esclerose Multipla,317070,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,317070,MG,317070,MG,Mesmo municipio,2
+G35,Esclerose Multipla,317070,MG,355030,SP,Outra UF,2
+G35,Esclerose Multipla,317080,MG,317080,MG,Mesmo municipio,1
+G35,Esclerose Multipla,317107,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,317120,MG,310620,MG,"Outro municipio, mesma UF",26
+G35,Esclerose Multipla,317130,MG,310620,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,317130,MG,317130,MG,Mesmo municipio,2
+G35,Esclerose Multipla,317180,MG,310620,MG,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,317200,MG,310620,MG,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,317200,MG,313670,MG,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,320040,ES,320500,ES,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,320040,ES,320530,ES,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,320060,ES,320060,ES,Mesmo municipio,2
+G35,Esclerose Multipla,320060,ES,320500,ES,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,320120,ES,320120,ES,Mesmo municipio,1
+G35,Esclerose Multipla,320120,ES,320530,ES,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,320130,ES,320530,ES,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,320150,ES,320150,ES,Mesmo municipio,4
+G35,Esclerose Multipla,320225,ES,320080,ES,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,320230,ES,320120,ES,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,320320,ES,320320,ES,Mesmo municipio,2
+G35,Esclerose Multipla,320330,ES,320090,ES,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,320340,ES,320530,ES,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,320420,ES,320530,ES,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,320440,ES,320120,ES,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,320450,ES,320450,ES,Mesmo municipio,1
+G35,Esclerose Multipla,320465,ES,320150,ES,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,320500,ES,320500,ES,Mesmo municipio,2
+G35,Esclerose Multipla,320500,ES,320530,ES,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,320506,ES,320506,ES,Mesmo municipio,1
+G35,Esclerose Multipla,320520,ES,320530,ES,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,320530,ES,320500,ES,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,330023,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,330040,RJ,330040,RJ,Mesmo municipio,11
+G35,Esclerose Multipla,330050,RJ,330050,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330100,RJ,330100,RJ,Mesmo municipio,2
+G35,Esclerose Multipla,330170,RJ,330170,RJ,Mesmo municipio,2
+G35,Esclerose Multipla,330170,RJ,330455,RJ,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,330190,RJ,330330,RJ,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,330220,RJ,330220,RJ,Mesmo municipio,2
+G35,Esclerose Multipla,330225,RJ,330225,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330240,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,330250,RJ,330455,RJ,"Outro municipio, mesma UF",8
+G35,Esclerose Multipla,330270,RJ,330270,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330270,RJ,330490,RJ,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,330290,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,330320,RJ,330455,RJ,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,330330,RJ,330330,RJ,Mesmo municipio,5
+G35,Esclerose Multipla,330330,RJ,330455,RJ,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,330340,RJ,330340,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330350,RJ,330455,RJ,"Outro municipio, mesma UF",39
+G35,Esclerose Multipla,330370,RJ,330370,RJ,Mesmo municipio,4
+G35,Esclerose Multipla,330390,RJ,330390,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330390,RJ,330600,RJ,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,330410,RJ,330220,RJ,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,330411,RJ,330411,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330412,RJ,330412,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330414,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,330420,RJ,330420,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330452,RJ,330452,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330455,RJ,330455,RJ,Mesmo municipio,294
+G35,Esclerose Multipla,330470,RJ,330470,RJ,Mesmo municipio,2
+G35,Esclerose Multipla,330490,RJ,330330,RJ,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,330490,RJ,330455,RJ,"Outro municipio, mesma UF",28
+G35,Esclerose Multipla,330510,RJ,330455,RJ,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,330513,RJ,330220,RJ,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,330550,RJ,330455,RJ,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,330550,RJ,330550,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330555,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,330560,RJ,330455,RJ,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,330575,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,330580,RJ,330455,RJ,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,330580,RJ,330580,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330610,RJ,330610,RJ,Mesmo municipio,1
+G35,Esclerose Multipla,330620,RJ,330620,RJ,Mesmo municipio,2
+G35,Esclerose Multipla,330630,RJ,330630,RJ,Mesmo municipio,6
+G35,Esclerose Multipla,350120,SP,354980,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350130,SP,354140,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350160,SP,350950,SP,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,350160,SP,354340,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,350170,SP,350320,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350190,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350210,SP,350210,SP,Mesmo municipio,2
+G35,Esclerose Multipla,350210,SP,354340,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,350210,SP,354980,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350275,SP,355030,SP,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,350275,SP,355220,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350280,SP,350280,SP,Mesmo municipio,7
+G35,Esclerose Multipla,350280,SP,354340,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,350280,SP,355030,SP,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,350320,SP,350170,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350320,SP,350320,SP,Mesmo municipio,1
+G35,Esclerose Multipla,350320,SP,354340,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,350330,SP,350330,SP,Mesmo municipio,1
+G35,Esclerose Multipla,350330,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350330,SP,353070,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350330,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350330,SP,355030,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,350390,SP,355030,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,350400,SP,350400,SP,Mesmo municipio,1
+G35,Esclerose Multipla,350410,SP,350950,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,350410,SP,353440,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350410,SP,355030,SP,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,350440,SP,352710,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350450,SP,350450,SP,Mesmo municipio,1
+G35,Esclerose Multipla,350450,SP,350750,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350520,SP,350750,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350530,SP,350750,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350560,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350570,SP,350570,SP,Mesmo municipio,6
+G35,Esclerose Multipla,350570,SP,355030,SP,"Outro municipio, mesma UF",87
+G35,Esclerose Multipla,350590,SP,354340,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,350600,SP,350600,SP,Mesmo municipio,3
+G35,Esclerose Multipla,350600,SP,350750,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350610,SP,355030,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350650,SP,350280,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350650,SP,350650,SP,Mesmo municipio,3
+G35,Esclerose Multipla,350660,SP,355030,SP,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,350750,SP,350750,SP,Mesmo municipio,2
+G35,Esclerose Multipla,350760,SP,350760,SP,Mesmo municipio,1
+G35,Esclerose Multipla,350780,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350870,SP,350870,SP,Mesmo municipio,9
+G35,Esclerose Multipla,350870,SP,354340,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,350900,SP,355030,SP,"Outro municipio, mesma UF",17
+G35,Esclerose Multipla,350920,SP,355030,SP,"Outro municipio, mesma UF",21
+G35,Esclerose Multipla,350925,SP,353620,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350925,SP,355030,SP,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,350940,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,350950,SP,350950,SP,Mesmo municipio,29
+G35,Esclerose Multipla,350970,SP,350970,SP,Mesmo municipio,1
+G35,Esclerose Multipla,351000,SP,352900,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351060,SP,355030,SP,"Outro municipio, mesma UF",47
+G35,Esclerose Multipla,351080,SP,353070,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351110,SP,351110,SP,Mesmo municipio,8
+G35,Esclerose Multipla,351110,SP,354980,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,351150,SP,355030,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,351200,SP,350550,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351250,SP,354980,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351300,SP,351300,SP,Mesmo municipio,1
+G35,Esclerose Multipla,351300,SP,355030,SP,"Outro municipio, mesma UF",76
+G35,Esclerose Multipla,351310,SP,354340,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,351340,SP,351340,SP,Mesmo municipio,2
+G35,Esclerose Multipla,351350,SP,351350,SP,Mesmo municipio,1
+G35,Esclerose Multipla,351350,SP,355030,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351380,SP,351380,SP,Mesmo municipio,2
+G35,Esclerose Multipla,351380,SP,354870,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351380,SP,355030,SP,"Outro municipio, mesma UF",13
+G35,Esclerose Multipla,351490,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351490,SP,352050,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351495,SP,351110,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351500,SP,355030,SP,"Outro municipio, mesma UF",36
+G35,Esclerose Multipla,351540,SP,350750,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351550,SP,354980,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,351560,SP,351110,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,351570,SP,355030,SP,"Outro municipio, mesma UF",14
+G35,Esclerose Multipla,351610,SP,352900,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351620,SP,351620,SP,Mesmo municipio,5
+G35,Esclerose Multipla,351620,SP,354340,SP,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,351620,SP,355030,SP,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,351630,SP,355030,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351640,SP,355030,SP,"Outro municipio, mesma UF",19
+G35,Esclerose Multipla,351690,SP,354980,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351740,SP,350550,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,351770,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351860,SP,354340,SP,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,351870,SP,351870,SP,Mesmo municipio,3
+G35,Esclerose Multipla,351880,SP,351880,SP,Mesmo municipio,1
+G35,Esclerose Multipla,351880,SP,355030,SP,"Outro municipio, mesma UF",169
+G35,Esclerose Multipla,351907,SP,350950,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,351920,SP,352900,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,351940,SP,354980,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,351960,SP,354340,SP,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,351970,SP,351970,SP,Mesmo municipio,2
+G35,Esclerose Multipla,351970,SP,355030,SP,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,351990,SP,351990,SP,Mesmo municipio,2
+G35,Esclerose Multipla,351990,SP,354140,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,352010,SP,352410,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352010,SP,354340,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,352030,SP,355030,SP,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,352050,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352050,SP,352050,SP,Mesmo municipio,8
+G35,Esclerose Multipla,352100,SP,355220,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352220,SP,355030,SP,"Outro municipio, mesma UF",33
+G35,Esclerose Multipla,352240,SP,355030,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352250,SP,352250,SP,Mesmo municipio,1
+G35,Esclerose Multipla,352250,SP,353440,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352250,SP,355030,SP,"Outro municipio, mesma UF",23
+G35,Esclerose Multipla,352260,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352260,SP,352260,SP,Mesmo municipio,1
+G35,Esclerose Multipla,352270,SP,352270,SP,Mesmo municipio,1
+G35,Esclerose Multipla,352270,SP,354340,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,352310,SP,352310,SP,Mesmo municipio,1
+G35,Esclerose Multipla,352310,SP,355030,SP,"Outro municipio, mesma UF",19
+G35,Esclerose Multipla,352340,SP,352340,SP,Mesmo municipio,3
+G35,Esclerose Multipla,352350,SP,350750,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352400,SP,352400,SP,Mesmo municipio,1
+G35,Esclerose Multipla,352410,SP,354340,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,352430,SP,354340,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,352440,SP,354990,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,352470,SP,320120,ES,Outra UF,1
+G35,Esclerose Multipla,352480,SP,354980,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352500,SP,355030,SP,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,352510,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352530,SP,352530,SP,Mesmo municipio,1
+G35,Esclerose Multipla,352530,SP,354340,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,352570,SP,354980,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352590,SP,352590,SP,Mesmo municipio,3
+G35,Esclerose Multipla,352590,SP,355030,SP,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,352670,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352690,SP,352690,SP,Mesmo municipio,1
+G35,Esclerose Multipla,352690,SP,355030,SP,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,352710,SP,352710,SP,Mesmo municipio,5
+G35,Esclerose Multipla,352760,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,352840,SP,355030,SP,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,352850,SP,355030,SP,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,352900,SP,352900,SP,Mesmo municipio,3
+G35,Esclerose Multipla,352930,SP,352930,SP,Mesmo municipio,4
+G35,Esclerose Multipla,352930,SP,354340,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,352940,SP,352940,SP,Mesmo municipio,2
+G35,Esclerose Multipla,352940,SP,355030,SP,"Outro municipio, mesma UF",17
+G35,Esclerose Multipla,352970,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353050,SP,353050,SP,Mesmo municipio,1
+G35,Esclerose Multipla,353050,SP,354340,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,353050,SP,355030,SP,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,353060,SP,353060,SP,Mesmo municipio,2
+G35,Esclerose Multipla,353060,SP,355030,SP,"Outro municipio, mesma UF",40
+G35,Esclerose Multipla,353070,SP,353070,SP,Mesmo municipio,2
+G35,Esclerose Multipla,353070,SP,355030,SP,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,353130,SP,354340,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,353180,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353240,SP,353240,SP,Mesmo municipio,1
+G35,Esclerose Multipla,353250,SP,354980,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353290,SP,350170,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353350,SP,351110,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,353430,SP,353430,SP,Mesmo municipio,1
+G35,Esclerose Multipla,353430,SP,354340,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,353440,SP,353440,SP,Mesmo municipio,2
+G35,Esclerose Multipla,353440,SP,355030,SP,"Outro municipio, mesma UF",130
+G35,Esclerose Multipla,353470,SP,352900,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,353530,SP,352900,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353540,SP,354140,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353560,SP,354990,SP,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,353620,SP,355030,SP,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,353670,SP,350750,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353700,SP,354340,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,353710,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353720,SP,354850,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353730,SP,353730,SP,Mesmo municipio,1
+G35,Esclerose Multipla,353780,SP,350950,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,353780,SP,355220,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,353870,SP,353870,SP,Mesmo municipio,5
+G35,Esclerose Multipla,353880,SP,350750,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353880,SP,353880,SP,Mesmo municipio,1
+G35,Esclerose Multipla,353920,SP,354140,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353930,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353980,SP,353060,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,353980,SP,355030,SP,"Outro municipio, mesma UF",19
+G35,Esclerose Multipla,354050,SP,355030,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354060,SP,355030,SP,"Outro municipio, mesma UF",17
+G35,Esclerose Multipla,354070,SP,354070,SP,Mesmo municipio,1
+G35,Esclerose Multipla,354070,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354090,SP,354340,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,354130,SP,354140,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354140,SP,354140,SP,Mesmo municipio,13
+G35,Esclerose Multipla,354140,SP,355030,SP,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,354160,SP,350750,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354165,SP,355030,SP,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,354170,SP,355500,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354240,SP,354240,SP,Mesmo municipio,1
+G35,Esclerose Multipla,354260,SP,355030,SP,"Outro municipio, mesma UF",15
+G35,Esclerose Multipla,354270,SP,351620,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354270,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354340,SP,354340,SP,Mesmo municipio,43
+G35,Esclerose Multipla,354360,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354390,SP,354390,SP,Mesmo municipio,3
+G35,Esclerose Multipla,354390,SP,355030,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354460,SP,352710,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354480,SP,351110,SP,"Outro municipio, mesma UF",6
+G35,Esclerose Multipla,354530,SP,355030,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,354550,SP,354140,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354580,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354660,SP,354660,SP,Mesmo municipio,1
+G35,Esclerose Multipla,354680,SP,355030,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,354710,SP,354140,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354730,SP,354730,SP,Mesmo municipio,1
+G35,Esclerose Multipla,354730,SP,355030,SP,"Outro municipio, mesma UF",44
+G35,Esclerose Multipla,354750,SP,354340,SP,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,354780,SP,280030,SE,Outra UF,6
+G35,Esclerose Multipla,354780,SP,354780,SP,Mesmo municipio,9
+G35,Esclerose Multipla,354780,SP,354870,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,354780,SP,355030,SP,"Outro municipio, mesma UF",26
+G35,Esclerose Multipla,354790,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354810,SP,355030,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354850,SP,354850,SP,Mesmo municipio,2
+G35,Esclerose Multipla,354870,SP,354870,SP,Mesmo municipio,12
+G35,Esclerose Multipla,354870,SP,355030,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,354880,SP,354880,SP,Mesmo municipio,2
+G35,Esclerose Multipla,354880,SP,355030,SP,"Outro municipio, mesma UF",22
+G35,Esclerose Multipla,354890,SP,350750,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354890,SP,354340,SP,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,354890,SP,354890,SP,Mesmo municipio,1
+G35,Esclerose Multipla,354890,SP,355030,SP,"Outro municipio, mesma UF",13
+G35,Esclerose Multipla,354900,SP,354980,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354910,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,354910,SP,354910,SP,Mesmo municipio,1
+G35,Esclerose Multipla,354910,SP,355030,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,354970,SP,354340,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,354970,SP,355030,SP,"Outro municipio, mesma UF",9
+G35,Esclerose Multipla,354980,SP,354980,SP,Mesmo municipio,7
+G35,Esclerose Multipla,354990,SP,354990,SP,Mesmo municipio,15
+G35,Esclerose Multipla,354990,SP,355030,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,354995,SP,355030,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,355030,SP,320520,ES,Outra UF,1
+G35,Esclerose Multipla,355030,SP,353060,SP,"Outro municipio, mesma UF",11
+G35,Esclerose Multipla,355030,SP,354870,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,355030,SP,355030,SP,Mesmo municipio,1622
+G35,Esclerose Multipla,355040,SP,353870,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,355070,SP,355030,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355070,SP,355070,SP,Mesmo municipio,2
+G35,Esclerose Multipla,355090,SP,354340,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,355100,SP,354850,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355110,SP,352230,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355140,SP,354340,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355150,SP,354340,SP,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,355170,SP,354340,SP,"Outro municipio, mesma UF",13
+G35,Esclerose Multipla,355220,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355220,SP,355030,SP,"Outro municipio, mesma UF",16
+G35,Esclerose Multipla,355240,SP,350950,SP,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,355250,SP,353060,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,355250,SP,355030,SP,"Outro municipio, mesma UF",20
+G35,Esclerose Multipla,355250,SP,355250,SP,Mesmo municipio,1
+G35,Esclerose Multipla,355270,SP,355270,SP,Mesmo municipio,3
+G35,Esclerose Multipla,355280,SP,355030,SP,"Outro municipio, mesma UF",45
+G35,Esclerose Multipla,355370,SP,354340,SP,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,355410,SP,355030,SP,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,355410,SP,355410,SP,Mesmo municipio,2
+G35,Esclerose Multipla,355450,SP,355450,SP,Mesmo municipio,3
+G35,Esclerose Multipla,355500,SP,355500,SP,Mesmo municipio,1
+G35,Esclerose Multipla,355540,SP,355540,SP,Mesmo municipio,3
+G35,Esclerose Multipla,355580,SP,354980,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355590,SP,352710,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355610,SP,355710,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355620,SP,350950,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355645,SP,355030,SP,"Outro municipio, mesma UF",12
+G35,Esclerose Multipla,355650,SP,355030,SP,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,355670,SP,355670,SP,Mesmo municipio,4
+G35,Esclerose Multipla,355680,SP,350550,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355700,SP,355030,SP,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,355700,SP,355220,SP,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,355710,SP,354980,SP,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,410040,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410040,PR,410690,PR,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,410050,PR,412810,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410070,PR,412810,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410080,PR,411370,PR,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,410130,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410130,PR,412820,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410140,PR,410140,PR,Mesmo municipio,3
+G35,Esclerose Multipla,410150,PR,410140,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410150,PR,411370,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,410160,PR,410160,PR,Mesmo municipio,1
+G35,Esclerose Multipla,410180,PR,410400,PR,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,410180,PR,410420,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410180,PR,410690,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410190,PR,411370,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410200,PR,412770,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410230,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410230,PR,410420,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,410400,PR,410400,PR,Mesmo municipio,6
+G35,Esclerose Multipla,410420,PR,410420,PR,Mesmo municipio,1
+G35,Esclerose Multipla,410425,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410425,PR,410690,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,410440,PR,410690,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410470,PR,411370,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,410490,PR,411990,PR,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,410580,PR,410400,PR,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,410580,PR,410420,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,410580,PR,410690,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,410620,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410640,PR,411370,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410645,PR,411850,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410650,PR,410650,PR,Mesmo municipio,1
+G35,Esclerose Multipla,410650,PR,411850,PR,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,410660,PR,412810,PR,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,410690,PR,410400,PR,"Outro municipio, mesma UF",5
+G35,Esclerose Multipla,410690,PR,410690,PR,Mesmo municipio,50
+G35,Esclerose Multipla,410765,PR,410400,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,410765,PR,410690,PR,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,410830,PR,410830,PR,Mesmo municipio,4
+G35,Esclerose Multipla,410840,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410840,PR,410840,PR,Mesmo municipio,5
+G35,Esclerose Multipla,410940,PR,410940,PR,Mesmo municipio,15
+G35,Esclerose Multipla,410960,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,410970,PR,411370,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,410980,PR,411370,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411010,PR,410690,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411050,PR,411990,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,411070,PR,410690,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411070,PR,411990,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,411125,PR,410690,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411150,PR,411150,PR,Mesmo municipio,1
+G35,Esclerose Multipla,411180,PR,411180,PR,Mesmo municipio,1
+G35,Esclerose Multipla,411200,PR,411990,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411210,PR,410140,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,411250,PR,410140,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411275,PR,411275,PR,Mesmo municipio,1
+G35,Esclerose Multipla,411370,PR,411370,PR,Mesmo municipio,28
+G35,Esclerose Multipla,411520,PR,411520,PR,Mesmo municipio,4
+G35,Esclerose Multipla,411550,PR,411370,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,411570,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411580,PR,411580,PR,Mesmo municipio,1
+G35,Esclerose Multipla,411780,PR,410940,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411790,PR,412770,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411820,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411820,PR,410420,PR,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,411820,PR,410690,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,411850,PR,411850,PR,Mesmo municipio,5
+G35,Esclerose Multipla,411890,PR,412810,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411915,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411915,PR,410690,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,411930,PR,410420,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411950,PR,410400,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,411950,PR,410420,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411960,PR,410940,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411960,PR,411370,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411960,PR,411960,PR,Mesmo municipio,2
+G35,Esclerose Multipla,411980,PR,410840,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411990,PR,410420,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411990,PR,410690,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,411990,PR,411990,PR,Mesmo municipio,12
+G35,Esclerose Multipla,411995,PR,410690,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412060,PR,411990,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412060,PR,412060,PR,Mesmo municipio,1
+G35,Esclerose Multipla,412070,PR,411370,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412080,PR,410420,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412080,PR,410690,PR,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,412120,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412130,PR,410640,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412200,PR,410420,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412210,PR,410140,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,412215,PR,410940,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412230,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412240,PR,411370,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,412240,PR,412240,PR,Mesmo municipio,1
+G35,Esclerose Multipla,412470,PR,411370,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412480,PR,411850,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412550,PR,410690,PR,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,412550,PR,412550,PR,Mesmo municipio,1
+G35,Esclerose Multipla,412560,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412560,PR,411990,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,412560,PR,412560,PR,Mesmo municipio,1
+G35,Esclerose Multipla,412580,PR,411370,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412625,PR,411520,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412680,PR,410150,PR,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,412740,PR,410480,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412740,PR,410880,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412750,PR,411990,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412770,PR,350950,SP,Outra UF,1
+G35,Esclerose Multipla,412770,PR,412770,PR,Mesmo municipio,1
+G35,Esclerose Multipla,412780,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412788,PR,410400,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412795,PR,410480,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412800,PR,410480,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412800,PR,410690,PR,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,412810,PR,412810,PR,Mesmo municipio,5
+G35,Esclerose Multipla,420020,SC,421480,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420140,SC,420140,SC,Mesmo municipio,2
+G35,Esclerose Multipla,420190,SC,421480,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420200,SC,420200,SC,Mesmo municipio,1
+G35,Esclerose Multipla,420200,SC,420820,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420230,SC,420540,SC,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,420240,SC,420240,SC,Mesmo municipio,13
+G35,Esclerose Multipla,420250,SC,420930,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420250,SC,421650,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420287,SC,420480,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420300,SC,420540,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420325,SC,420930,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420420,SC,420420,SC,Mesmo municipio,12
+G35,Esclerose Multipla,420430,SC,420430,SC,Mesmo municipio,2
+G35,Esclerose Multipla,420460,SC,420460,SC,Mesmo municipio,3
+G35,Esclerose Multipla,420540,SC,420540,SC,Mesmo municipio,33
+G35,Esclerose Multipla,420545,SC,420460,SC,"Outro municipio, mesma UF",7
+G35,Esclerose Multipla,420545,SC,420700,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420550,SC,420550,SC,Mesmo municipio,1
+G35,Esclerose Multipla,420570,SC,420540,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420590,SC,420240,SC,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,420600,SC,420540,SC,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,420640,SC,421720,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420700,SC,420460,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420700,SC,420700,SC,Mesmo municipio,1
+G35,Esclerose Multipla,420730,SC,420540,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420740,SC,421480,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420750,SC,420240,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420750,SC,420750,SC,Mesmo municipio,1
+G35,Esclerose Multipla,420768,SC,420420,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420810,SC,421010,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,420820,SC,420820,SC,Mesmo municipio,2
+G35,Esclerose Multipla,420845,SC,420910,SC,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,420890,SC,420890,SC,Mesmo municipio,7
+G35,Esclerose Multipla,420890,SC,500270,MS,Outra UF,2
+G35,Esclerose Multipla,420910,SC,420910,SC,Mesmo municipio,10
+G35,Esclerose Multipla,420930,SC,420930,SC,Mesmo municipio,4
+G35,Esclerose Multipla,420940,SC,421870,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421130,SC,420820,SC,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,421180,SC,420540,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421180,SC,420900,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421190,SC,420540,SC,"Outro municipio, mesma UF",46
+G35,Esclerose Multipla,421280,SC,420910,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421320,SC,420240,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421320,SC,421320,SC,Mesmo municipio,1
+G35,Esclerose Multipla,421370,SC,421480,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421400,SC,421400,SC,Mesmo municipio,1
+G35,Esclerose Multipla,421540,SC,421540,SC,Mesmo municipio,1
+G35,Esclerose Multipla,421570,SC,420540,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421580,SC,420890,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421630,SC,420540,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421650,SC,420930,SC,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,421660,SC,420540,SC,"Outro municipio, mesma UF",21
+G35,Esclerose Multipla,421660,SC,421660,SC,Mesmo municipio,2
+G35,Esclerose Multipla,421680,SC,420540,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421740,SC,420890,SC,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,421770,SC,420540,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421800,SC,420540,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421800,SC,421660,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,421825,SC,420540,SC,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,421950,SC,420420,SC,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430040,RS,432240,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430060,RS,431490,RS,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,430060,RS,432300,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430080,RS,430080,RS,Mesmo municipio,2
+G35,Esclerose Multipla,430160,RS,430160,RS,Mesmo municipio,1
+G35,Esclerose Multipla,430190,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430210,RS,430210,RS,Mesmo municipio,1
+G35,Esclerose Multipla,430300,RS,430300,RS,Mesmo municipio,1
+G35,Esclerose Multipla,430310,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430310,RS,432300,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430340,RS,430850,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430350,RS,430350,RS,Mesmo municipio,1
+G35,Esclerose Multipla,430450,RS,430450,RS,Mesmo municipio,2
+G35,Esclerose Multipla,430460,RS,430460,RS,Mesmo municipio,4
+G35,Esclerose Multipla,430460,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430463,RS,430463,RS,Mesmo municipio,1
+G35,Esclerose Multipla,430466,RS,431560,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430470,RS,430470,RS,Mesmo municipio,4
+G35,Esclerose Multipla,430480,RS,430480,RS,Mesmo municipio,1
+G35,Esclerose Multipla,430510,RS,430510,RS,Mesmo municipio,15
+G35,Esclerose Multipla,430510,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430520,RS,430520,RS,Mesmo municipio,1
+G35,Esclerose Multipla,430640,RS,430460,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430693,RS,431750,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430697,RS,430890,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430700,RS,430700,RS,Mesmo municipio,6
+G35,Esclerose Multipla,430705,RS,431410,RS,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,430750,RS,431410,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430755,RS,430700,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430770,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430780,RS,430780,RS,Mesmo municipio,1
+G35,Esclerose Multipla,430783,RS,431750,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,430920,RS,430920,RS,Mesmo municipio,1
+G35,Esclerose Multipla,430920,RS,431490,RS,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,431010,RS,431490,RS,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,431020,RS,431020,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431033,RS,431490,RS,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,431080,RS,431080,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431120,RS,431120,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431140,RS,431140,RS,Mesmo municipio,7
+G35,Esclerose Multipla,431180,RS,431410,RS,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,431213,RS,431410,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,431240,RS,431240,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431306,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,431320,RS,431320,RS,Mesmo municipio,2
+G35,Esclerose Multipla,431330,RS,431330,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431340,RS,431340,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431350,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,431390,RS,431390,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431405,RS,431405,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431410,RS,431410,RS,Mesmo municipio,5
+G35,Esclerose Multipla,431440,RS,431440,RS,Mesmo municipio,7
+G35,Esclerose Multipla,431470,RS,431470,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431490,RS,431490,RS,Mesmo municipio,44
+G35,Esclerose Multipla,431515,RS,431140,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,431550,RS,431550,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431560,RS,431560,RS,Mesmo municipio,5
+G35,Esclerose Multipla,431570,RS,431570,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431660,RS,431410,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,431680,RS,431680,RS,Mesmo municipio,2
+G35,Esclerose Multipla,431690,RS,431690,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431730,RS,431560,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,431730,RS,431730,RS,Mesmo municipio,2
+G35,Esclerose Multipla,431740,RS,431690,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,431750,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,431750,RS,431750,RS,Mesmo municipio,9
+G35,Esclerose Multipla,431800,RS,431800,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431830,RS,431830,RS,Mesmo municipio,1
+G35,Esclerose Multipla,431850,RS,431440,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,431860,RS,431410,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,431980,RS,431690,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432000,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432000,RS,432000,RS,Mesmo municipio,1
+G35,Esclerose Multipla,432057,RS,431720,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432057,RS,431750,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432120,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432135,RS,430463,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432160,RS,430463,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432160,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432180,RS,431720,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432200,RS,431490,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432250,RS,430510,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,432250,RS,432250,RS,Mesmo municipio,2
+G35,Esclerose Multipla,432300,RS,431490,RS,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,432310,RS,430850,RS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,500150,MS,310620,MG,Outra UF,3
+G35,Esclerose Multipla,500270,MS,500270,MS,Mesmo municipio,11
+G35,Esclerose Multipla,500295,MS,500270,MS,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,500370,MS,500370,MS,Mesmo municipio,1
+G35,Esclerose Multipla,500450,MS,500370,MS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,500660,MS,500270,MS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,500660,MS,500370,MS,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,500769,MS,500769,MS,Mesmo municipio,1
+G35,Esclerose Multipla,500830,MS,500830,MS,Mesmo municipio,2
+G35,Esclerose Multipla,510250,MT,510250,MT,Mesmo municipio,3
+G35,Esclerose Multipla,510250,MT,510340,MT,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,510340,MT,510340,MT,Mesmo municipio,1
+G35,Esclerose Multipla,510350,MT,510340,MT,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,510525,MT,510340,MT,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,510630,MT,510630,MT,Mesmo municipio,1
+G35,Esclerose Multipla,510642,MT,510340,MT,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,510665,MT,510180,MT,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,510704,MT,510704,MT,Mesmo municipio,1
+G35,Esclerose Multipla,510760,MT,510180,MT,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,510760,MT,510760,MT,Mesmo municipio,1
+G35,Esclerose Multipla,510840,MT,510340,MT,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,520030,GO,520870,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,520110,GO,520110,GO,Mesmo municipio,1
+G35,Esclerose Multipla,520110,GO,520870,GO,"Outro municipio, mesma UF",4
+G35,Esclerose Multipla,520140,GO,520140,GO,Mesmo municipio,1
+G35,Esclerose Multipla,520140,GO,520870,GO,"Outro municipio, mesma UF",10
+G35,Esclerose Multipla,520330,GO,520870,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,520510,GO,520510,GO,Mesmo municipio,1
+G35,Esclerose Multipla,520620,GO,520620,GO,Mesmo municipio,1
+G35,Esclerose Multipla,520640,GO,520640,GO,Mesmo municipio,1
+G35,Esclerose Multipla,520680,GO,520870,GO,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,520870,GO,520870,GO,Mesmo municipio,24
+G35,Esclerose Multipla,520970,GO,520870,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,521000,GO,520870,GO,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,521010,GO,520870,GO,"Outro municipio, mesma UF",2
+G35,Esclerose Multipla,521040,GO,520870,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,521120,GO,520870,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,521150,GO,520870,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,521150,GO,521150,GO,Mesmo municipio,1
+G35,Esclerose Multipla,521180,GO,520870,GO,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,521180,GO,521180,GO,Mesmo municipio,1
+G35,Esclerose Multipla,521190,GO,520870,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,521280,GO,522160,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,521305,GO,521560,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,521380,GO,520870,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,521523,GO,530010,DF,Outra UF,1
+G35,Esclerose Multipla,521630,GO,521630,GO,Mesmo municipio,1
+G35,Esclerose Multipla,521800,GO,521800,GO,Mesmo municipio,1
+G35,Esclerose Multipla,521850,GO,521850,GO,Mesmo municipio,1
+G35,Esclerose Multipla,521860,GO,521860,GO,Mesmo municipio,1
+G35,Esclerose Multipla,521880,GO,521880,GO,Mesmo municipio,3
+G35,Esclerose Multipla,521973,GO,520870,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,522010,GO,522010,GO,Mesmo municipio,1
+G35,Esclerose Multipla,522045,GO,520870,GO,"Outro municipio, mesma UF",3
+G35,Esclerose Multipla,522140,GO,520870,GO,"Outro municipio, mesma UF",1
+G35,Esclerose Multipla,522140,GO,522140,GO,Mesmo municipio,1
+G35,Esclerose Multipla,522160,GO,522160,GO,Mesmo municipio,1
+G35,Esclerose Multipla,530010,DF,530010,DF,Mesmo municipio,19
+G700,Miastenia Gravis,110002,RO,110002,RO,Mesmo municipio,1
+G700,Miastenia Gravis,110010,RO,110020,RO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,110011,RO,110020,RO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,110020,RO,110020,RO,Mesmo municipio,2
+G700,Miastenia Gravis,120020,AC,130260,AM,Outra UF,1
+G700,Miastenia Gravis,120045,AC,120040,AC,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,130002,AM,130420,AM,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,130120,AM,130120,AM,Mesmo municipio,1
+G700,Miastenia Gravis,130250,AM,130250,AM,Mesmo municipio,2
+G700,Miastenia Gravis,130250,AM,130260,AM,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,130260,AM,130260,AM,Mesmo municipio,25
+G700,Miastenia Gravis,130340,AM,130260,AM,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,130353,AM,130260,AM,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,140010,RR,140010,RR,Mesmo municipio,2
+G700,Miastenia Gravis,140017,RR,140010,RR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,150020,PA,150020,PA,Mesmo municipio,1
+G700,Miastenia Gravis,150060,PA,150060,PA,Mesmo municipio,1
+G700,Miastenia Gravis,150080,PA,150140,PA,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,150140,PA,150140,PA,Mesmo municipio,4
+G700,Miastenia Gravis,150150,PA,150140,PA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,150170,PA,150140,PA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,150180,PA,150180,PA,Mesmo municipio,1
+G700,Miastenia Gravis,150240,PA,150140,PA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,150293,PA,150293,PA,Mesmo municipio,2
+G700,Miastenia Gravis,150360,PA,150360,PA,Mesmo municipio,1
+G700,Miastenia Gravis,150442,PA,150140,PA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,150470,PA,150140,PA,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,150480,PA,150480,PA,Mesmo municipio,3
+G700,Miastenia Gravis,150497,PA,150497,PA,Mesmo municipio,1
+G700,Miastenia Gravis,150613,PA,150613,PA,Mesmo municipio,1
+G700,Miastenia Gravis,150660,PA,150140,PA,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,150680,PA,150680,PA,Mesmo municipio,3
+G700,Miastenia Gravis,150805,PA,150805,PA,Mesmo municipio,1
+G700,Miastenia Gravis,150808,PA,150613,PA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,150810,PA,150810,PA,Mesmo municipio,1
+G700,Miastenia Gravis,160030,AP,160030,AP,Mesmo municipio,3
+G700,Miastenia Gravis,160050,AP,160030,AP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,160050,AP,160050,AP,Mesmo municipio,1
+G700,Miastenia Gravis,160053,AP,160030,AP,"Outro municipio, mesma UF",6
+G700,Miastenia Gravis,170210,TO,530010,DF,Outra UF,1
+G700,Miastenia Gravis,170240,TO,170240,TO,Mesmo municipio,7
+G700,Miastenia Gravis,170555,TO,170240,TO,"Outro municipio, mesma UF",4
+G700,Miastenia Gravis,170560,TO,170240,TO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,170730,TO,170950,TO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,171190,TO,171610,TO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,171215,TO,170240,TO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,171515,TO,170240,TO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,171750,TO,171750,TO,Mesmo municipio,2
+G700,Miastenia Gravis,210005,MA,210005,MA,Mesmo municipio,2
+G700,Miastenia Gravis,210080,MA,210640,MA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,210095,MA,210530,MA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,210177,MA,210177,MA,Mesmo municipio,18
+G700,Miastenia Gravis,210255,MA,210900,MA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,210275,MA,211130,MA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,210300,MA,210300,MA,Mesmo municipio,2
+G700,Miastenia Gravis,210405,MA,210405,MA,Mesmo municipio,3
+G700,Miastenia Gravis,210460,MA,210460,MA,Mesmo municipio,1
+G700,Miastenia Gravis,210480,MA,210480,MA,Mesmo municipio,1
+G700,Miastenia Gravis,210542,MA,210542,MA,Mesmo municipio,1
+G700,Miastenia Gravis,210750,MA,211130,MA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,210810,MA,211130,MA,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,210975,MA,210910,MA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,211050,MA,211050,MA,Mesmo municipio,2
+G700,Miastenia Gravis,211065,MA,211130,MA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,211110,MA,211130,MA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,211120,MA,211130,MA,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,211130,MA,211130,MA,Mesmo municipio,11
+G700,Miastenia Gravis,211240,MA,211130,MA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,220260,PI,221100,PI,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,220290,PI,221100,PI,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,220327,PI,220800,PI,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,220390,PI,220390,PI,Mesmo municipio,8
+G700,Miastenia Gravis,220410,PI,220390,PI,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,220530,PI,220390,PI,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,220600,PI,220390,PI,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,220672,PI,221100,PI,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,221100,PI,221100,PI,Mesmo municipio,7
+G700,Miastenia Gravis,230100,CE,230440,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,230350,CE,230440,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,230370,CE,230440,CE,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,230420,CE,230730,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,230440,CE,230440,CE,Mesmo municipio,7
+G700,Miastenia Gravis,230470,CE,231290,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,230490,CE,230440,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,230495,CE,230440,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,230550,CE,230730,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,230560,CE,230440,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,230580,CE,230440,CE,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,230630,CE,230440,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,230640,CE,230440,CE,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,230670,CE,230440,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,230730,CE,230730,CE,Mesmo municipio,1
+G700,Miastenia Gravis,230765,CE,230440,CE,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,230840,CE,230730,CE,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,230960,CE,230440,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,231025,CE,231025,CE,Mesmo municipio,1
+G700,Miastenia Gravis,231110,CE,230730,CE,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,231180,CE,231180,CE,Mesmo municipio,1
+G700,Miastenia Gravis,231290,CE,230440,CE,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,231330,CE,230440,CE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,240310,RN,240310,RN,Mesmo municipio,1
+G700,Miastenia Gravis,240325,RN,240810,RN,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,240610,RN,240810,RN,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,240810,RN,240810,RN,Mesmo municipio,1
+G700,Miastenia Gravis,241120,RN,241120,RN,Mesmo municipio,1
+G700,Miastenia Gravis,241142,RN,241142,RN,Mesmo municipio,1
+G700,Miastenia Gravis,241200,RN,240810,RN,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,241200,RN,241200,RN,Mesmo municipio,1
+G700,Miastenia Gravis,250080,PB,251370,PB,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,250180,PB,251370,PB,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,250400,PB,250400,PB,Mesmo municipio,1
+G700,Miastenia Gravis,250540,PB,251080,PB,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,250680,PB,250750,PB,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,250750,PB,250750,PB,Mesmo municipio,2
+G700,Miastenia Gravis,250750,PB,251370,PB,"Outro municipio, mesma UF",9
+G700,Miastenia Gravis,250880,PB,251080,PB,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,251080,PB,251080,PB,Mesmo municipio,1
+G700,Miastenia Gravis,251250,PB,250400,PB,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,260005,PE,261160,PE,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,260220,PE,261160,PE,"Outro municipio, mesma UF",9
+G700,Miastenia Gravis,260290,PE,261160,PE,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,260400,PE,261160,PE,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,260740,PE,261160,PE,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,260760,PE,261160,PE,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,260790,PE,261160,PE,"Outro municipio, mesma UF",7
+G700,Miastenia Gravis,260850,PE,261160,PE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,260960,PE,261070,PE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,260960,PE,261160,PE,"Outro municipio, mesma UF",5
+G700,Miastenia Gravis,261070,PE,261160,PE,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,261110,PE,261110,PE,Mesmo municipio,1
+G700,Miastenia Gravis,261160,PE,261160,PE,Mesmo municipio,14
+G700,Miastenia Gravis,261290,PE,260410,PE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,261290,PE,261160,PE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,261370,PE,261160,PE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,270040,AL,270040,AL,Mesmo municipio,2
+G700,Miastenia Gravis,270150,AL,270430,AL,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,270240,AL,292400,BA,Outra UF,1
+G700,Miastenia Gravis,270420,AL,270430,AL,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,270430,AL,270430,AL,Mesmo municipio,5
+G700,Miastenia Gravis,270770,AL,270770,AL,Mesmo municipio,1
+G700,Miastenia Gravis,280460,SE,280030,SE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,280760,SE,280210,SE,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,290070,BA,292740,BA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,290205,BA,292740,BA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,290500,BA,290500,BA,Mesmo municipio,1
+G700,Miastenia Gravis,290650,BA,292740,BA,"Outro municipio, mesma UF",5
+G700,Miastenia Gravis,291005,BA,290570,BA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,291080,BA,291080,BA,Mesmo municipio,1
+G700,Miastenia Gravis,291360,BA,291360,BA,Mesmo municipio,1
+G700,Miastenia Gravis,291560,BA,291560,BA,Mesmo municipio,8
+G700,Miastenia Gravis,291640,BA,292740,BA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,291750,BA,291750,BA,Mesmo municipio,3
+G700,Miastenia Gravis,291840,BA,291840,BA,Mesmo municipio,1
+G700,Miastenia Gravis,291920,BA,291920,BA,Mesmo municipio,1
+G700,Miastenia Gravis,292200,BA,292200,BA,Mesmo municipio,1
+G700,Miastenia Gravis,292260,BA,291920,BA,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,292300,BA,293135,BA,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,292400,BA,292400,BA,Mesmo municipio,1
+G700,Miastenia Gravis,292550,BA,291560,BA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,292590,BA,291920,BA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,292590,BA,292590,BA,Mesmo municipio,1
+G700,Miastenia Gravis,292660,BA,292660,BA,Mesmo municipio,1
+G700,Miastenia Gravis,292740,BA,291920,BA,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,292740,BA,292740,BA,Mesmo municipio,5
+G700,Miastenia Gravis,292760,BA,292400,BA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,292900,BA,292900,BA,Mesmo municipio,1
+G700,Miastenia Gravis,292930,BA,291080,BA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,292970,BA,291080,BA,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,293010,BA,293010,BA,Mesmo municipio,2
+G700,Miastenia Gravis,293015,BA,290390,BA,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,293070,BA,293070,BA,Mesmo municipio,1
+G700,Miastenia Gravis,293130,BA,293130,BA,Mesmo municipio,1
+G700,Miastenia Gravis,293330,BA,293330,BA,Mesmo municipio,2
+G700,Miastenia Gravis,293360,BA,293360,BA,Mesmo municipio,1
+G700,Miastenia Gravis,310160,MG,310160,MG,Mesmo municipio,3
+G700,Miastenia Gravis,310160,MG,355030,SP,Outra UF,5
+G700,Miastenia Gravis,310350,MG,317020,MG,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,310420,MG,312230,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,310560,MG,310560,MG,Mesmo municipio,2
+G700,Miastenia Gravis,310620,MG,310620,MG,Mesmo municipio,17
+G700,Miastenia Gravis,310650,MG,312160,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,310670,MG,310620,MG,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,310740,MG,310620,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,310740,MG,310740,MG,Mesmo municipio,1
+G700,Miastenia Gravis,311120,MG,311120,MG,Mesmo municipio,1
+G700,Miastenia Gravis,311760,MG,312230,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,311860,MG,310620,MG,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,311860,MG,311860,MG,Mesmo municipio,1
+G700,Miastenia Gravis,312040,MG,310560,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,312570,MG,312090,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,312830,MG,312870,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,312980,MG,310620,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,313160,MG,354340,SP,Outra UF,1
+G700,Miastenia Gravis,313220,MG,313220,MG,Mesmo municipio,1
+G700,Miastenia Gravis,313320,MG,313320,MG,Mesmo municipio,1
+G700,Miastenia Gravis,313330,MG,316860,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,313570,MG,316720,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,313670,MG,313670,MG,Mesmo municipio,4
+G700,Miastenia Gravis,313820,MG,310620,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,314290,MG,314290,MG,Mesmo municipio,1
+G700,Miastenia Gravis,314330,MG,314330,MG,Mesmo municipio,3
+G700,Miastenia Gravis,314450,MG,316250,MG,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,314480,MG,310620,MG,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,314560,MG,311120,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,314600,MG,315250,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,314650,MG,310620,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,314655,MG,313510,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,314700,MG,314700,MG,Mesmo municipio,1
+G700,Miastenia Gravis,314710,MG,310620,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,314810,MG,314810,MG,Mesmo municipio,1
+G700,Miastenia Gravis,314810,MG,317020,MG,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,314990,MG,313820,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,315150,MG,354340,SP,Outra UF,1
+G700,Miastenia Gravis,315460,MG,310620,MG,"Outro municipio, mesma UF",11
+G700,Miastenia Gravis,315600,MG,315600,MG,Mesmo municipio,1
+G700,Miastenia Gravis,315820,MG,310620,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,316020,MG,310620,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,316530,MG,316530,MG,Mesmo municipio,2
+G700,Miastenia Gravis,316860,MG,316860,MG,Mesmo municipio,1
+G700,Miastenia Gravis,317020,MG,317020,MG,Mesmo municipio,3
+G700,Miastenia Gravis,317130,MG,310620,MG,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,320060,ES,320060,ES,Mesmo municipio,1
+G700,Miastenia Gravis,320060,ES,320500,ES,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,320130,ES,320500,ES,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,320190,ES,320190,ES,Mesmo municipio,1
+G700,Miastenia Gravis,320250,ES,320530,ES,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,320334,ES,320190,ES,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,320500,ES,320190,ES,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,320500,ES,320500,ES,Mesmo municipio,2
+G700,Miastenia Gravis,320520,ES,320530,ES,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,330030,RJ,330030,RJ,Mesmo municipio,4
+G700,Miastenia Gravis,330040,RJ,330040,RJ,Mesmo municipio,1
+G700,Miastenia Gravis,330120,RJ,330120,RJ,Mesmo municipio,1
+G700,Miastenia Gravis,330130,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,330170,RJ,330170,RJ,Mesmo municipio,1
+G700,Miastenia Gravis,330190,RJ,330330,RJ,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,330190,RJ,330455,RJ,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,330225,RJ,330225,RJ,Mesmo municipio,1
+G700,Miastenia Gravis,330227,RJ,330350,RJ,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,330240,RJ,330240,RJ,Mesmo municipio,4
+G700,Miastenia Gravis,330250,RJ,330455,RJ,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,330270,RJ,330330,RJ,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,330285,RJ,330350,RJ,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,330320,RJ,330455,RJ,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,330330,RJ,330330,RJ,Mesmo municipio,5
+G700,Miastenia Gravis,330360,RJ,330360,RJ,Mesmo municipio,1
+G700,Miastenia Gravis,330420,RJ,330420,RJ,Mesmo municipio,1
+G700,Miastenia Gravis,330452,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,330455,RJ,330350,RJ,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,330455,RJ,330455,RJ,Mesmo municipio,8
+G700,Miastenia Gravis,330470,RJ,330220,RJ,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,330490,RJ,330455,RJ,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,330490,RJ,330490,RJ,Mesmo municipio,1
+G700,Miastenia Gravis,330500,RJ,330500,RJ,Mesmo municipio,1
+G700,Miastenia Gravis,330510,RJ,330455,RJ,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,330550,RJ,330550,RJ,Mesmo municipio,2
+G700,Miastenia Gravis,330600,RJ,330600,RJ,Mesmo municipio,1
+G700,Miastenia Gravis,330630,RJ,330630,RJ,Mesmo municipio,1
+G700,Miastenia Gravis,350050,SP,350950,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,350070,SP,350600,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,350190,SP,350190,SP,Mesmo municipio,1
+G700,Miastenia Gravis,350210,SP,350210,SP,Mesmo municipio,3
+G700,Miastenia Gravis,350280,SP,350280,SP,Mesmo municipio,1
+G700,Miastenia Gravis,350320,SP,350170,SP,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,350320,SP,350320,SP,Mesmo municipio,2
+G700,Miastenia Gravis,350320,SP,354340,SP,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,350380,SP,350950,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,350560,SP,354340,SP,"Outro municipio, mesma UF",7
+G700,Miastenia Gravis,350570,SP,355030,SP,"Outro municipio, mesma UF",7
+G700,Miastenia Gravis,350590,SP,354340,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,350600,SP,350600,SP,Mesmo municipio,2
+G700,Miastenia Gravis,350700,SP,355220,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,350750,SP,350750,SP,Mesmo municipio,1
+G700,Miastenia Gravis,350800,SP,355220,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,350950,SP,350950,SP,Mesmo municipio,9
+G700,Miastenia Gravis,350980,SP,352900,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351040,SP,353870,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351060,SP,352250,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351060,SP,355030,SP,"Outro municipio, mesma UF",21
+G700,Miastenia Gravis,351120,SP,351110,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351300,SP,355030,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351310,SP,354340,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351340,SP,351340,SP,Mesmo municipio,1
+G700,Miastenia Gravis,351500,SP,352220,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351500,SP,355030,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351550,SP,354980,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351570,SP,355030,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351620,SP,351620,SP,Mesmo municipio,2
+G700,Miastenia Gravis,351620,SP,354340,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351630,SP,352590,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351870,SP,351870,SP,Mesmo municipio,1
+G700,Miastenia Gravis,351880,SP,351880,SP,Mesmo municipio,1
+G700,Miastenia Gravis,351880,SP,355030,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,351907,SP,350950,SP,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,351930,SP,354890,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352044,SP,352044,SP,Mesmo municipio,1
+G700,Miastenia Gravis,352230,SP,350950,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352310,SP,352310,SP,Mesmo municipio,1
+G700,Miastenia Gravis,352310,SP,355030,SP,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,352390,SP,355220,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352430,SP,354340,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352440,SP,352440,SP,Mesmo municipio,1
+G700,Miastenia Gravis,352460,SP,353620,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352460,SP,355030,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352470,SP,350950,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352530,SP,352530,SP,Mesmo municipio,1
+G700,Miastenia Gravis,352530,SP,355030,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352590,SP,350950,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352590,SP,352590,SP,Mesmo municipio,1
+G700,Miastenia Gravis,352590,SP,355030,SP,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,352610,SP,355030,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352640,SP,352640,SP,Mesmo municipio,1
+G700,Miastenia Gravis,352800,SP,350600,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,352800,SP,352800,SP,Mesmo municipio,8
+G700,Miastenia Gravis,352890,SP,355030,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,353030,SP,354980,SP,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,353060,SP,355030,SP,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,353140,SP,354980,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,353390,SP,354340,SP,"Outro municipio, mesma UF",5
+G700,Miastenia Gravis,353440,SP,353440,SP,Mesmo municipio,1
+G700,Miastenia Gravis,353440,SP,355030,SP,"Outro municipio, mesma UF",4
+G700,Miastenia Gravis,353470,SP,350550,SP,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,353530,SP,350400,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,353580,SP,350750,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,353730,SP,353730,SP,Mesmo municipio,1
+G700,Miastenia Gravis,353870,SP,353870,SP,Mesmo municipio,4
+G700,Miastenia Gravis,353870,SP,355030,SP,"Outro municipio, mesma UF",15
+G700,Miastenia Gravis,354140,SP,354140,SP,Mesmo municipio,2
+G700,Miastenia Gravis,354160,SP,350600,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,354160,SP,350750,SP,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,354260,SP,353620,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,354330,SP,355030,SP,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,354340,SP,354340,SP,Mesmo municipio,15
+G700,Miastenia Gravis,354350,SP,355030,SP,"Outro municipio, mesma UF",8
+G700,Miastenia Gravis,354540,SP,353470,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,354580,SP,354580,SP,Mesmo municipio,1
+G700,Miastenia Gravis,354760,SP,354760,SP,Mesmo municipio,1
+G700,Miastenia Gravis,354780,SP,354780,SP,Mesmo municipio,4
+G700,Miastenia Gravis,354780,SP,354870,SP,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,354780,SP,355030,SP,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,354870,SP,354870,SP,Mesmo municipio,10
+G700,Miastenia Gravis,354890,SP,354890,SP,Mesmo municipio,5
+G700,Miastenia Gravis,354980,SP,354980,SP,Mesmo municipio,1
+G700,Miastenia Gravis,354990,SP,354990,SP,Mesmo municipio,9
+G700,Miastenia Gravis,355030,SP,355030,SP,Mesmo municipio,51
+G700,Miastenia Gravis,355070,SP,355070,SP,Mesmo municipio,1
+G700,Miastenia Gravis,355170,SP,354340,SP,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,355240,SP,350950,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,355250,SP,353060,SP,"Outro municipio, mesma UF",9
+G700,Miastenia Gravis,355250,SP,355030,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,355280,SP,355030,SP,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,355410,SP,355410,SP,Mesmo municipio,1
+G700,Miastenia Gravis,355495,SP,350760,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,355500,SP,355500,SP,Mesmo municipio,1
+G700,Miastenia Gravis,355535,SP,354980,SP,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,355645,SP,351380,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,355710,SP,354980,SP,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,355720,SP,355720,SP,Mesmo municipio,1
+G700,Miastenia Gravis,410040,PR,410420,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,410070,PR,412810,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,410140,PR,410140,PR,Mesmo municipio,2
+G700,Miastenia Gravis,410150,PR,411370,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,410165,PR,411150,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,410345,PR,410480,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,410410,PR,410400,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,410420,PR,410420,PR,Mesmo municipio,2
+G700,Miastenia Gravis,410425,PR,410400,PR,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,410480,PR,410480,PR,Mesmo municipio,1
+G700,Miastenia Gravis,410580,PR,410690,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,410690,PR,410690,PR,Mesmo municipio,11
+G700,Miastenia Gravis,410720,PR,410720,PR,Mesmo municipio,1
+G700,Miastenia Gravis,410765,PR,410690,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,410940,PR,410940,PR,Mesmo municipio,2
+G700,Miastenia Gravis,411200,PR,411200,PR,Mesmo municipio,1
+G700,Miastenia Gravis,411200,PR,411990,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,411330,PR,411330,PR,Mesmo municipio,1
+G700,Miastenia Gravis,411370,PR,411370,PR,Mesmo municipio,11
+G700,Miastenia Gravis,411460,PR,411460,PR,Mesmo municipio,1
+G700,Miastenia Gravis,411520,PR,411520,PR,Mesmo municipio,1
+G700,Miastenia Gravis,411570,PR,410420,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,411570,PR,411820,PR,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,411580,PR,410480,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,411700,PR,411370,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,411740,PR,410690,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,411820,PR,410690,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,411840,PR,410690,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,411950,PR,410400,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,411950,PR,410420,PR,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,411990,PR,410400,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,411990,PR,410420,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,411990,PR,411990,PR,Mesmo municipio,1
+G700,Miastenia Gravis,412060,PR,412060,PR,Mesmo municipio,1
+G700,Miastenia Gravis,412230,PR,412230,PR,Mesmo municipio,1
+G700,Miastenia Gravis,412240,PR,411370,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,412265,PR,411370,PR,"Outro municipio, mesma UF",6
+G700,Miastenia Gravis,412520,PR,410690,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,412570,PR,412570,PR,Mesmo municipio,1
+G700,Miastenia Gravis,412625,PR,411150,PR,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,412625,PR,411520,PR,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,412625,PR,412625,PR,Mesmo municipio,1
+G700,Miastenia Gravis,412660,PR,411370,PR,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,412770,PR,412770,PR,Mesmo municipio,1
+G700,Miastenia Gravis,420130,SC,420910,SC,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,420240,SC,420240,SC,Mesmo municipio,1
+G700,Miastenia Gravis,420420,SC,420420,SC,Mesmo municipio,5
+G700,Miastenia Gravis,420430,SC,420430,SC,Mesmo municipio,1
+G700,Miastenia Gravis,420460,SC,420460,SC,Mesmo municipio,1
+G700,Miastenia Gravis,420460,SC,420540,SC,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,420540,SC,420540,SC,Mesmo municipio,6
+G700,Miastenia Gravis,420700,SC,420460,SC,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,420810,SC,411200,PR,Outra UF,1
+G700,Miastenia Gravis,420890,SC,420890,SC,Mesmo municipio,2
+G700,Miastenia Gravis,420910,SC,420910,SC,Mesmo municipio,4
+G700,Miastenia Gravis,420930,SC,420930,SC,Mesmo municipio,1
+G700,Miastenia Gravis,421190,SC,420540,SC,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,421265,SC,421870,SC,"Outro municipio, mesma UF",10
+G700,Miastenia Gravis,421507,SC,421720,SC,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,421570,SC,420540,SC,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,421650,SC,420540,SC,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,421660,SC,420540,SC,"Outro municipio, mesma UF",4
+G700,Miastenia Gravis,421870,SC,421870,SC,Mesmo municipio,1
+G700,Miastenia Gravis,421885,SC,420420,SC,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,421890,SC,420930,SC,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,430060,RS,431490,RS,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,430087,RS,431990,RS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,430100,RS,431140,RS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,430310,RS,431490,RS,"Outro municipio, mesma UF",3
+G700,Miastenia Gravis,430460,RS,431490,RS,"Outro municipio, mesma UF",5
+G700,Miastenia Gravis,430470,RS,430470,RS,Mesmo municipio,1
+G700,Miastenia Gravis,430510,RS,430510,RS,Mesmo municipio,1
+G700,Miastenia Gravis,430590,RS,430590,RS,Mesmo municipio,2
+G700,Miastenia Gravis,430700,RS,430700,RS,Mesmo municipio,3
+G700,Miastenia Gravis,430860,RS,430860,RS,Mesmo municipio,1
+G700,Miastenia Gravis,430920,RS,430920,RS,Mesmo municipio,1
+G700,Miastenia Gravis,430920,RS,431490,RS,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,430960,RS,430960,RS,Mesmo municipio,1
+G700,Miastenia Gravis,431050,RS,430850,RS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,431140,RS,431140,RS,Mesmo municipio,1
+G700,Miastenia Gravis,431240,RS,431240,RS,Mesmo municipio,3
+G700,Miastenia Gravis,431370,RS,431410,RS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,431390,RS,431720,RS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,431410,RS,431410,RS,Mesmo municipio,2
+G700,Miastenia Gravis,431490,RS,431490,RS,Mesmo municipio,18
+G700,Miastenia Gravis,431560,RS,431560,RS,Mesmo municipio,2
+G700,Miastenia Gravis,431680,RS,431680,RS,Mesmo municipio,4
+G700,Miastenia Gravis,431690,RS,431690,RS,Mesmo municipio,1
+G700,Miastenia Gravis,431820,RS,431490,RS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,431870,RS,431870,RS,Mesmo municipio,1
+G700,Miastenia Gravis,431960,RS,431690,RS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,431971,RS,430940,RS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,432000,RS,431490,RS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,432000,RS,432000,RS,Mesmo municipio,1
+G700,Miastenia Gravis,432143,RS,430463,RS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,432270,RS,432270,RS,Mesmo municipio,1
+G700,Miastenia Gravis,500020,MS,500830,MS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,500220,MS,500270,MS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,500270,MS,500270,MS,Mesmo municipio,8
+G700,Miastenia Gravis,500430,MS,500430,MS,Mesmo municipio,1
+G700,Miastenia Gravis,500460,MS,500370,MS,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,500540,MS,500270,MS,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,500540,MS,500540,MS,Mesmo municipio,1
+G700,Miastenia Gravis,500620,MS,500370,MS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,500620,MS,500620,MS,Mesmo municipio,2
+G700,Miastenia Gravis,500730,MS,500270,MS,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,500830,MS,500830,MS,Mesmo municipio,1
+G700,Miastenia Gravis,510250,MT,510250,MT,Mesmo municipio,1
+G700,Miastenia Gravis,510340,MT,510340,MT,Mesmo municipio,1
+G700,Miastenia Gravis,510490,MT,510340,MT,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,510490,MT,510840,MT,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,510625,MT,510625,MT,Mesmo municipio,6
+G700,Miastenia Gravis,510760,MT,510340,MT,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,510795,MT,510795,MT,Mesmo municipio,2
+G700,Miastenia Gravis,510840,MT,510840,MT,Mesmo municipio,2
+G700,Miastenia Gravis,520013,GO,520870,GO,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,520030,GO,520030,GO,Mesmo municipio,2
+G700,Miastenia Gravis,520110,GO,520110,GO,Mesmo municipio,2
+G700,Miastenia Gravis,520110,GO,520870,GO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,520110,GO,521730,GO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,520140,GO,520140,GO,Mesmo municipio,1
+G700,Miastenia Gravis,520170,GO,520170,GO,Mesmo municipio,1
+G700,Miastenia Gravis,520330,GO,520330,GO,Mesmo municipio,7
+G700,Miastenia Gravis,520620,GO,520870,GO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,520800,GO,520800,GO,Mesmo municipio,1
+G700,Miastenia Gravis,520870,GO,520870,GO,Mesmo municipio,10
+G700,Miastenia Gravis,521000,GO,521000,GO,Mesmo municipio,1
+G700,Miastenia Gravis,521060,GO,521060,GO,Mesmo municipio,1
+G700,Miastenia Gravis,521130,GO,521130,GO,Mesmo municipio,2
+G700,Miastenia Gravis,521150,GO,520870,GO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,521150,GO,521150,GO,Mesmo municipio,1
+G700,Miastenia Gravis,521250,GO,530010,DF,Outra UF,2
+G700,Miastenia Gravis,521290,GO,520870,GO,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,521380,GO,520870,GO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,521645,GO,520870,GO,"Outro municipio, mesma UF",5
+G700,Miastenia Gravis,521730,GO,521730,GO,Mesmo municipio,2
+G700,Miastenia Gravis,521930,GO,520870,GO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,521975,GO,530010,DF,Outra UF,1
+G700,Miastenia Gravis,521980,GO,521980,GO,Mesmo municipio,1
+G700,Miastenia Gravis,522010,GO,522010,GO,Mesmo municipio,1
+G700,Miastenia Gravis,522020,GO,520870,GO,"Outro municipio, mesma UF",1
+G700,Miastenia Gravis,522045,GO,520870,GO,"Outro municipio, mesma UF",2
+G700,Miastenia Gravis,522185,GO,522185,GO,Mesmo municipio,2
+G700,Miastenia Gravis,522185,GO,530010,DF,Outra UF,1
+G700,Miastenia Gravis,530010,DF,530010,DF,Mesmo municipio,21
