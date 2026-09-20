@@ -24,6 +24,7 @@ VIEWS = [
     "vwConcentration",
     "vwFlow",
     "vwTravelSummary",
+    "vwNetworkCoverage",
     "dataCoverage",
 ]
 

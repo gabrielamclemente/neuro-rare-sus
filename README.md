@@ -106,13 +106,30 @@ dashboard, documentação metodológica.
 
 Em andamento: construção do dashboard.
 
-Pendente: habilitações da Rede de Doenças Raras (CNES) e população por UF
-(IBGE) — destravam a análise de demanda × capacidade.
+Pendente: população por UF (IBGE), para normalizar o mapa por 100 mil
+habitantes; análise do SIA/SUS, onde mora o cuidado ambulatorial.
 
-### A pergunta em aberto
+### A resposta que o CNES deu
 
-Os municípios que concentram cada condição são serviços habilitados da Rede de
-Atenção Especializada em Doenças Raras? Se sim, a rede funciona como desenhada e
-a questão passa a ser a equidade do acesso geográfico a ela. Se não, o cuidado
-está se concentrando fora da rede formal — o que seria um achado de gestão com
-peso próprio.
+A Rede de Atenção Especializada em Doenças Raras (habilitações do grupo 35 no
+CNES) tinha **34 estabelecimentos em 13 UFs** em junho de 2024. Cruzando com os
+estabelecimentos que registram AIHs no escopo:
+
+| Condição | AIHs | % em serviço habilitado | dos 5 maiores centros |
+|---|---:|---:|---:|
+| Polineuropatia Amiloidótica Familiar | 29 | **69,0%** | 1 de 5 |
+| Atrofia Muscular Espinhal | 720 | **58,2%** | 2 de 5 |
+| Miastenia Gravis | 1.136 | 11,7% | 1 de 5 |
+| Esclerose Lateral Amiotrófica | 1.309 | 9,8% | 1 de 5 |
+| Esclerose Múltipla | 8.396 | **4,8%** | **0 de 5** |
+
+**A rede captura o cuidado hospitalar das condições genéticas e ultrarraras, e
+praticamente não captura as demais.** A esclerose múltipla, 72% do volume do
+escopo, tem 95% do atendimento fora da rede habilitada.
+
+Isso **não** é evidência de falha: a política organiza diagnóstico e
+acompanhamento, boa parte ambulatoriais e fora do SIH. Um surto tratado no
+hospital geral mais próximo pode ser o desenho pretendido. Mas é um padrão que
+os dados hospitalares sozinhos não explicam — e que a
+[metodologia](docs/METHODOLOGY.md#8-a-rede-habilitada-e-o-cuidado-observado)
+delimita com cuidado.

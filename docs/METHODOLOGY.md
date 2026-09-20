@@ -30,7 +30,9 @@ atuais não registram o número de pessoas únicas acompanhadas por condição.
 | Base | Papel | Acesso | Situação |
 |---|---|---|---|
 | SIH/SUS — arquivos RD (AIH Reduzida) | demanda hospitalar | `pysus` 2.11.2 | completo |
-| CNES — habilitações em doenças raras | oferta especializada | a definir | pendente |
+| CNES — habilitações (grupo HB) | oferta especializada | `pysus` 2.11.2 | completo |
+| IBGE — malha territorial das UFs | mapa | API de malhas v3 | completo |
+| IBGE — nomes de municípios | rótulos | API de localidades v1 | completo |
 | IBGE — população por UF | denominador | a definir | pendente |
 
 ### Por que o grupo RD
@@ -304,9 +306,120 @@ do paciente, e a rede de referência se organiza dentro dos estados.
 Esta seção registra uma hipótese que a ampliação dos dados refutou em
 magnitude. O achado não foi ajustado para preservar a narrativa original.
 
+### Concentração da oferta: o achado central
+
+Medindo quanto do atendimento de cada condição ocorre nos 5 municípios de maior
+volume, e cruzando com o regime de AIH da seção 6:
+
+| Condição | % em 5 municípios | municípios que atendem | % de AIHs com ≤1 dia |
+|---|---:|---:|---:|
+| Polineuropatia Amiloidótica Familiar | 89,7% | 8 | 86,2% |
+| Esclerose Múltipla | 74,0% | 380 | 73,4% |
+| Atrofia Muscular Espinhal | 62,2% | 58 | 68,9% |
+| Esclerose Lateral Amiotrófica | 27,1% | 262 | 9,4% |
+| Miastenia Gravis | 26,4% | 261 | 15,8% |
+
+**As duas últimas colunas se espelham.** A concentração geográfica do cuidado
+acompanha o regime de AIH, não a raridade da condição isoladamente.
+
+A leitura mecânica é direta: episódios de tratamento — surto de esclerose
+múltipla, administração de medicação — ocorrem em centros de referência, que
+são poucos. Internações clínicas prolongadas — complicação respiratória de ELA,
+crise miastênica — ocorrem na rede hospitalar geral, que é ampla.
+
+A esclerose múltipla ilustra o contraste de forma nítida: 380 municípios
+registram atendimento, mas 5 deles concentram 74% do volume. Capacidade
+existente e capacidade efetivamente utilizada não são a mesma coisa.
+
+**Resposta à pergunta do projeto.** "Existe correspondência entre onde está a
+demanda e onde está a capacidade especializada?" — a correspondência depende do
+tipo de cuidado, não da condição. Cuidado de tratamento é concentrado e exige
+deslocamento; cuidado de internação é distribuído. Um indicador único de
+demanda por serviço, aplicado indistintamente às cinco condições, mediria uma
+média sem significado clínico.
+
+Esta é a razão pela qual o indicador `admissionsPerService` é estratificado por
+condição e por regime de AIH, e nunca apresentado como número agregado único.
+
 ---
 
-## 8. O que o projeto não afirma
+## 8. A rede habilitada e o cuidado observado
+
+### Identificação da Rede de Doenças Raras no CNES
+
+As habilitações da Rede de Atenção Especializada em Doenças Raras ocupam o
+grupo 35 do CNES:
+
+| Códigos | Tipo de serviço |
+|---|---|
+| 35.01–35.06, 35.13 | Serviço de Atenção Especializada em Doenças Raras (SADR) |
+| 35.07–35.12, 35.14 | Serviço de Referência em Doenças Raras (SRDR) |
+| 35.15 | Serviço de Aconselhamento Genético |
+
+O código não foi localizado diretamente na legislação. Foi **identificado
+empiricamente**: o Ministério informa que a rede tem algumas dezenas de
+serviços em cerca de quinze estados, e essa é uma assinatura estatística
+procurável. Baixando as habilitações das 27 UFs e filtrando por porte (20 a 150
+estabelecimentos) e dispersão (8 a 22 UFs), três códigos consecutivos do grupo
+35 emergiram com a mesma cobertura dos maiores centros de AME. A confirmação do
+significado veio do instrutivo de habilitação do Ministério da Saúde.
+
+**Rede observada em junho/2024:** 34 estabelecimentos em 13 UFs — 25 de
+referência, 10 de atenção especializada, 13 de aconselhamento genético (um
+mesmo estabelecimento pode acumular tipos).
+
+### O cruzamento
+
+| Condição | AIHs | estabelecimentos | habilitados | % das AIHs em habilitado | top 5 habilitados |
+|---|---:|---:|---:|---:|---:|
+| Polineuropatia Amiloidótica Familiar | 29 | 8 | 1 | **69,0%** | 1 de 5 |
+| Atrofia Muscular Espinhal | 720 | 78 | 16 | **58,2%** | 2 de 5 |
+| Miastenia Gravis | 1.136 | 364 | 18 | 11,7% | 1 de 5 |
+| Esclerose Lateral Amiotrófica | 1.309 | 377 | 14 | 9,8% | 1 de 5 |
+| Esclerose Múltipla | 8.396 | 509 | 16 | **4,8%** | **0 de 5** |
+
+### Leitura
+
+A rede habilitada captura o cuidado hospitalar das condições **genéticas e
+ultrarraras** — AME e PAF — e praticamente não captura as demais. A esclerose
+múltipla, que responde por 72% do volume do escopo, tem 95% do seu atendimento
+fora da rede, e nenhum dos seus cinco maiores centros é habilitado.
+
+O corte separa as mesmas condições que os regimes de AIH da seção 6 separam,
+mas por um eixo diferente: ali era duração do episódio, aqui é natureza da
+condição — genética versus autoimune/degenerativa.
+
+### O que este achado NÃO permite concluir
+
+**Não é evidência de falha da rede.** A Política Nacional de Doenças Raras
+organiza diagnóstico e acompanhamento, boa parte deles ambulatoriais e fora do
+SIH. Um surto de esclerose múltipla tratado com pulsoterapia num hospital geral
+próximo não representa, por si, cuidado inadequado — pode ser exatamente o
+desenho pretendido, com a rede responsável pelo diagnóstico e o
+acompanhamento, e a rede geral pelo episódio agudo.
+
+**A cobertura temporal é parcial.** Usamos a competência de junho/2024. O
+Ministério informa número maior de serviços em 2026, o que sugere expansão
+posterior. Estabelecimentos habilitados depois dessa competência não aparecem.
+
+**A unidade de habilitação é o estabelecimento, não o serviço prestado.** Um
+hospital habilitado pode registrar AIHs que nada têm a ver com a habilitação, e
+um não habilitado pode prestar cuidado de excelência.
+
+### A pergunta que o achado levanta
+
+Se a rede foi desenhada para as condições genéticas, a esclerose múltipla —
+classificada como doença rara não genética na própria política — está dentro
+ou fora do escopo pretendido? E se está dentro, 4,8% de captura merece
+investigação que estes dados não conseguem fazer sozinhos: exige o SIA/SUS,
+onde mora o cuidado ambulatorial.
+
+Esta é a fronteira honesta do projeto. O dado hospitalar mostra o padrão;
+explicá-lo exige mais do que ele tem.
+
+---
+
+## 9. O que o projeto não afirma
 
 - **Não mede prevalência nem incidência.** Mede utilização hospitalar registrada.
 - **Não mede acesso.** O indicador `admissionsPerService` é exploratório: nem
@@ -319,7 +432,7 @@ magnitude. O achado não foi ajustado para preservar a narrativa original.
 
 ---
 
-## 9. Reprodutibilidade
+## 10. Reprodutibilidade
 
 `data/raw/` e `data/processed/` não são versionados: são alguns GB de dado
 público reconstruível. O repositório versiona a receita.

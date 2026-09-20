@@ -31,8 +31,8 @@ revelar();
 
 <div class="hero">
   <h1>Onde acontece o cuidado das doenças neurológicas raras no Brasil</h1>
-  <p>Uma análise das autorizações de internação hospitalar registradas no SUS em
-  2024, em cinco condições raras — e do quanto as pessoas precisam se deslocar
+  <p>Uma análise das autorizações de internação hospitalar (AIH) registradas no SUS em
+  2024, em cinco condições raras, e do quanto as pessoas precisam se deslocar
   para alcançar esse cuidado.</p>
 </div>
 
@@ -57,8 +57,8 @@ revelar();
 
 <div class="note">
 
-**O SIH/SUS registra produção hospitalar aprovada, não pessoas.** Cada número
-aqui é uma AIH — uma autorização de internação —, nunca um paciente único. A
+**O SIH/SUS registra produção hospitalar aprovada, não o número de pessoas internadas.** Cada número
+aqui é uma AIH, uma autorização de internação, nunca um paciente único. A
 mesma pessoa internada três vezes no ano gera três AIHs. AM e PI não têm
 fevereiro.
 
@@ -110,7 +110,7 @@ errada.
 
 ## Duas naturezas de AIH dentro do mesmo escopo
 
-Nem toda AIH é uma internação no sentido clínico. Algumas duram um dia — são
+Nem toda AIH é uma internação no sentido clínico. Algumas duram um dia, e são
 episódios de tratamento, como a pulsoterapia para surto de esclerose múltipla.
 Outras duram semanas.
 
@@ -149,7 +149,7 @@ comAnimacao(Plot.plot({
 }), "reveal animate-bars")
 ```
 
-O corte não acompanha a raridade da condição — acompanha o **tipo de cuidado**.
+O corte não acompanha a raridade da condição, acompanha o **tipo de cuidado**.
 Polineuropatia, esclerose múltipla e atrofia muscular espinhal são dominadas por
 episódios de dia único. Miastenia gravis e esclerose lateral amiotrófica são
 internações clínicas, de nove a vinte e um dias, com mortalidade hospitalar

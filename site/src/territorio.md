@@ -36,9 +36,9 @@ revelar();
 ```
 
 <div class="hero">
-  <h1>Metade das AIHs acontece fora do município de residência</h1>
+  <h1>Metade das AIHs acontecem fora do município de residência</h1>
   <p>Mas quase nenhuma cruza fronteira estadual. A rede de referência se organiza
-  dentro dos estados — e a concentração acompanha o tipo de cuidado, não a
+  dentro dos estados, e a concentração acompanha o tipo de cuidado, não a
   raridade da condição.</p>
 </div>
 
@@ -126,7 +126,7 @@ comAnimacao(Plot.plot({
 }), "reveal animate-bars")
 ```
 
-A faixa laranja é quase invisível — e esse é o ponto. Atravessar fronteira
+A faixa laranja é quase invisível, e esse é o ponto. Atravessar fronteira
 estadual é exceção administrativa, não o caminho usual do paciente.
 
 ## Onde a demanda se origina
@@ -146,41 +146,30 @@ const brasil = await FileAttachment("data/brasilUf.json").json();
 ```
 
 ```js
+// Nada de reconstruir feicoes: a projecao usa o objeto do IBGE como veio, e a
+// cor sai de uma consulta por codigo na hora de pintar. Menos peca, menos
+// lugar para quebrar.
 const porUfFiltrado = condicaoMapa === "Todas as condições"
   ? porUf
   : porUf.filter(d => d.diseaseName === condicaoMapa);
 
-const valorPorCodigo = new Map();
+const aihsPorUf = new Map();
 for (const d of porUfFiltrado) {
   const cod = codigoUf.get(d.uf);
   if (!cod) continue;
-  valorPorCodigo.set(cod, (valorPorCodigo.get(cod) ?? 0) + d.admissions);
+  aihsPorUf.set(cod, (aihsPorUf.get(cod) ?? 0) + d.admissions);
 }
 
-const feicoes = brasil.features.map(f => {
-  const cod = String(f.properties.codarea);
-  return {
-    ...f,
-    properties: {
-      ...f.properties,
-      codarea: cod,
-      sigla: siglaPorCodigo.get(cod) ?? cod,
-      aihs: valorPorCodigo.get(cod) ?? 0
-    }
-  };
-});
-
-const maxAihsUf = Math.max(...feicoes.map(f => f.properties.aihs), 1);
+const valorDa = f => aihsPorUf.get(String(f.properties.codarea)) ?? 0;
+const siglaDa = f => siglaPorCodigo.get(String(f.properties.codarea)) ?? "";
+const maxAihsUf = Math.max(...brasil.features.map(valorDa), 1);
 ```
 
 ```js
 comAnimacao(Plot.plot({
-  width: 720,
-  height: 640,
-  projection: {
-    type: "mercator",
-    domain: {type: "FeatureCollection", features: feicoes}
-  },
+  width: 700,
+  height: 620,
+  projection: {type: "mercator", domain: brasil},
   color: {
     type: "quantize",
     n: 5,
@@ -191,17 +180,17 @@ comAnimacao(Plot.plot({
     tickFormat: d => Math.round(d).toLocaleString("pt-BR")
   },
   marks: [
-    Plot.geo(feicoes, {
-      fill: d => d.properties.aihs,
+    Plot.geo(brasil.features, {
+      fill: valorDa,
       stroke: "white",
       strokeWidth: 0.8,
-      title: d => `${d.properties.sigla}\n${d.properties.aihs.toLocaleString("pt-BR")} AIHs`,
+      title: f => `${siglaDa(f)}\n${valorDa(f).toLocaleString("pt-BR")} AIHs`,
       tip: {format: {fill: false}}
     }),
     // A sigla no centro de cada estado: dispensa o leitor de saber geografia.
-    Plot.text(feicoes, Plot.centroid({
-      text: d => d.properties.sigla,
-      fill: d => d.properties.aihs > maxAihsUf * 0.6 ? "white" : "#333",
+    Plot.text(brasil.features, Plot.centroid({
+      text: siglaDa,
+      fill: f => valorDa(f) > maxAihsUf * 0.6 ? "white" : "#333",
       fontSize: 10,
       fontWeight: 600,
       pointerEvents: "none"
@@ -213,7 +202,7 @@ comAnimacao(Plot.plot({
 <div class="mapa-legenda">
 
 Escala linear em cinco faixas iguais, do branco ao azul. **Sem correção por
-população** — São Paulo e Minas aparecem escuros em parte por serem os estados
+população**. São Paulo e Minas aparecem escuros em parte por serem os estados
 mais populosos. A normalização por 100 mil habitantes depende da tabela do
 IBGE, ainda pendente no pipeline, e sem ela o mapa mostra volume, não risco.
 
@@ -362,14 +351,111 @@ Inputs.table(linhas, {
 
 </div>
 
+## O cuidado está na rede habilitada?
+
+```js
+const rede = await FileAttachment("data/vwNetworkCoverage.csv").csv({typed: true});
+```
+
+A Rede de Atenção Especializada em Doenças Raras existe desde 2014 e é o
+instrumento da política nacional. Se a concentração que vimos acima for
+deliberada, os centros que concentram cada condição devem ser serviços
+habilitados dessa rede.
+
+Em junho de 2024 a rede tinha **34 estabelecimentos em 13 estados**. Cruzando
+com os hospitais que de fato registram AIHs no escopo:
+
+```js
+const ordemRede = rede.slice()
+  .sort((a, b) => b.pctInNetwork - a.pctInNetwork)
+  .map(d => d.diseaseName);
+```
+
+```js
+comAnimacao(Plot.plot({
+  marginLeft: 230,
+  marginRight: 60,
+  height: 260,
+  x: {label: "% das AIHs em serviço habilitado da rede →", domain: [0, 100], grid: true},
+  y: {label: null, domain: ordemRede},
+  marks: [
+    Plot.barX(rede, {
+      x: "pctInNetwork",
+      y: "diseaseName",
+      fill: d => cores[d.diseaseName] ?? "#888",
+      rx: 2,
+      title: d => [
+        d.diseaseName,
+        `${d.pctInNetwork}% das AIHs em serviço habilitado`,
+        `${d.admissionsInNetwork.toLocaleString("pt-BR")} de ${d.admissions.toLocaleString("pt-BR")} AIHs`,
+        `${d.establishmentsInNetwork} de ${d.establishments} estabelecimentos habilitados`
+      ].join("\n"),
+      tip: {format: {x: false, y: false, fill: false}}
+    }),
+    Plot.text(rede, {
+      x: "pctInNetwork",
+      y: "diseaseName",
+      text: d => `${d.pctInNetwork.toFixed(1)}%`,
+      textAnchor: "start",
+      dx: 6,
+      fill: "currentColor",
+      fontVariant: "tabular-nums"
+    }),
+    Plot.ruleX([0])
+  ]
+}), "reveal animate-bars")
+```
+
+<div class="stat-row reveal">
+  <div class="stat">
+    <div class="stat-value">34</div>
+    <div class="stat-label">estabelecimentos habilitados na rede, em 13 estados</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value">95%</div>
+    <div class="stat-label">do atendimento de esclerose múltipla ocorre fora da rede</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value">0 de 5</div>
+    <div class="stat-label">maiores centros de esclerose múltipla têm habilitação</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value">58%</div>
+    <div class="stat-label">do atendimento de AME ocorre dentro da rede</div>
+  </div>
+</div>
+
+A rede captura o cuidado hospitalar das condições **genéticas e ultrarraras** —
+atrofia muscular espinhal e polineuropatia amiloidótica — e praticamente não
+captura as demais. A esclerose múltipla, que responde por 72% do volume do
+escopo, tem 95% do seu atendimento fora da rede habilitada, e nenhum dos seus
+cinco maiores centros é habilitado.
+
+É o mesmo corte entre condições que apareceu nos regimes de AIH, mas por um eixo
+diferente: lá era a duração do episódio, aqui é a natureza da condição.
+
 ## O que isso não prova
 
 Concentração não é, por si, um problema. Condições raras exigem volume para que
 uma equipe desenvolva e mantenha expertise, e a política nacional de doenças
-raras organiza a rede justamente assim. A pergunta que este projeto levanta não
-é por que o cuidado está concentrado, mas **se o acesso geográfico a esses
-centros é equitativo** — e se os municípios que concentram cada condição são, de
-fato, serviços habilitados da rede.
+raras organiza a rede justamente assim.
 
-Essa segunda pergunta ainda está aberta. Responder exige cruzar as habilitações
-do CNES com os estabelecimentos observados aqui — o próximo passo do projeto.
+<div class="note">
+
+**Isto não é evidência de falha da rede.** A política organiza diagnóstico e
+acompanhamento, boa parte deles ambulatoriais e fora do SIH. Um surto de
+esclerose múltipla tratado com pulsoterapia no hospital geral mais próximo pode
+ser exatamente o desenho pretendido. Além disso, a competência analisada é junho
+de 2024 — houve expansão da rede depois disso — e a habilitação é do
+estabelecimento, não do atendimento específico.
+
+</div>
+
+O cruzamento com o CNES respondeu **onde** o cuidado acontece em relação à rede
+formal. Não responde **por quê**, e não mede acesso: nada aqui informa quanto
+tempo alguém esperou, quanto se deslocou ou se chegou a ser atendido. Explicar o
+padrão exige o SIA/SUS, onde mora o cuidado ambulatorial dessas condições, e
+isso está fora deste escopo.
+
+Os dados levantam a pergunta com precisão. Respondê-la é trabalho de outra
+natureza.

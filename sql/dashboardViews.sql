@@ -152,3 +152,41 @@ SELECT
           / SUM(SUM(admissions)) OVER (PARTITION BY diseaseCode), 1) AS pct
 FROM vwFlow
 GROUP BY diseaseCode, diseaseName, travelType;
+
+-- ---------------------------------------------------------------------------
+-- CONCLUSAO - o cuidado observado esta na rede habilitada?
+--
+-- O CNES guarda o codigo do estabelecimento sem padding consistente entre as
+-- bases, entao normalizamos para 7 digitos dos dois lados antes de casar.
+-- LEFT JOIN de proposito: o que interessa e justamente o que NAO esta na rede.
+-- ---------------------------------------------------------------------------
+DROP VIEW IF EXISTS vwNetworkCoverage;
+CREATE VIEW vwNetworkCoverage AS
+WITH adm AS (
+    SELECT
+        diseaseCode, diseaseName,
+        printf('%07d', CAST(establishmentId AS INTEGER)) AS cnes,
+        SUM(admissions) AS admissions
+    FROM hospitalAdmissions
+    GROUP BY diseaseCode, diseaseName, cnes
+),
+rede AS (
+    SELECT DISTINCT printf('%07d', CAST(establishmentId AS INTEGER)) AS cnes,
+           serviceType
+    FROM rareDiseaseServices
+    WHERE specializedDiseaseService = 1
+)
+SELECT
+    a.diseaseCode,
+    a.diseaseName,
+    SUM(a.admissions)                                                  AS admissions,
+    SUM(CASE WHEN r.cnes IS NOT NULL THEN a.admissions ELSE 0 END)     AS admissionsInNetwork,
+    ROUND(100.0 * SUM(CASE WHEN r.cnes IS NOT NULL THEN a.admissions ELSE 0 END)
+          / NULLIF(SUM(a.admissions), 0), 1)                           AS pctInNetwork,
+    ROUND(100.0 - 100.0 * SUM(CASE WHEN r.cnes IS NOT NULL THEN a.admissions ELSE 0 END)
+          / NULLIF(SUM(a.admissions), 0), 1)                           AS pctOutsideNetwork,
+    COUNT(DISTINCT a.cnes)                                             AS establishments,
+    COUNT(DISTINCT r.cnes)                                             AS establishmentsInNetwork
+FROM adm a
+LEFT JOIN rede r ON r.cnes = a.cnes
+GROUP BY a.diseaseCode, a.diseaseName;
