@@ -1,0 +1,200 @@
+/* Estende o tema padrao do Framework em vez de substitui-lo. */
+@import url("observablehq:default.css");
+@import url("observablehq:theme-air.css");
+
+:root {
+  --nr-azul: #2a78d6;
+  --nr-neutro: #c9c8c0;
+}
+
+/* ---------------------------------------------------------------- hero --- */
+
+.hero h1 {
+  max-width: 34em;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  line-height: 1.1;
+  margin: 1rem 0 0.5rem;
+  letter-spacing: -0.01em;
+}
+
+.hero p {
+  max-width: 44em;
+  font-size: 1.15rem;
+  line-height: 1.5;
+  color: var(--theme-foreground-muted);
+}
+
+/* --------------------------------------------------------------- notas --- */
+
+.note {
+  max-width: 48em;
+  border-left: 3px solid var(--nr-azul);
+  padding: 0.35rem 0 0.35rem 1rem;
+  margin: 1.75rem 0;
+  color: var(--theme-foreground-muted);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.note strong {
+  color: var(--theme-foreground);
+}
+
+/* --------------------------------------------------------- estatisticas --- */
+
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.stat {
+  border-top: 2px solid var(--nr-azul);
+  padding-top: 0.6rem;
+}
+
+.stat-value {
+  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  font-weight: 600;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  color: var(--theme-foreground-muted);
+  margin-top: 0.3rem;
+  line-height: 1.35;
+}
+
+/* ------------------------------------------------------------ animacoes --- */
+
+/* Revelacao ao rolar. Discreta de proposito: movimento demais numa pagina
+   de dados compete com o dado. */
+.reveal {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+/* Barras e linhas crescem na primeira renderizacao. */
+@keyframes nr-bar-in {
+  from { transform: scaleX(0); }
+  to   { transform: scaleX(1); }
+}
+
+.animate-bars svg g[aria-label$="bar"] rect {
+  transform-origin: left center;
+  animation: nr-bar-in 0.7s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes nr-line-in {
+  from { stroke-dashoffset: 1200; }
+  to   { stroke-dashoffset: 0; }
+}
+
+.animate-lines svg g[aria-label$="line"] path {
+  stroke-dasharray: 1200;
+  animation: nr-line-in 1.4s ease-out both;
+}
+
+.animate-lines svg g[aria-label$="dot"] circle {
+  animation: nr-fade-in 0.6s ease-out both;
+  animation-delay: 1s;
+}
+
+@keyframes nr-fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Quem pediu menos movimento no sistema nao recebe nenhum. */
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  .animate-bars svg g[aria-label$="bar"] rect,
+  .animate-lines svg g[aria-label$="line"] path,
+  .animate-lines svg g[aria-label$="dot"] circle {
+    animation: none;
+    stroke-dasharray: none;
+  }
+}
+
+/* -------------------------------------------------------------- tabelas --- */
+
+/* O Inputs.table reserva uma coluna a esquerda para checkboxes quando a
+   selecao esta ligada. Desligamos com select: false nas chamadas; isto aqui
+   cuida do resto do respiro. */
+.tabela-limpa table {
+  font-variant-numeric: tabular-nums;
+}
+
+.tabela-limpa thead th {
+  border-bottom: 2px solid var(--theme-foreground-faintest);
+  font-weight: 600;
+}
+
+.tabela-limpa tbody tr:hover {
+  background: var(--theme-background-alt);
+}
+
+/* Barra proporcional dentro da celula. */
+.cell-bar {
+  display: block;
+  height: 8px;
+  border-radius: 2px;
+  background: var(--nr-azul);
+  min-width: 2px;
+}
+
+.cell-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.cell-num {
+  min-width: 3.5em;
+  text-align: right;
+}
+
+/* ---------------------------------------------------------------- mapa --- */
+
+.mapa-legenda {
+  font-size: 0.85rem;
+  color: var(--theme-foreground-muted);
+  margin-top: 0.5rem;
+}
+
+.aviso {
+  border: 1px solid var(--theme-foreground-faintest);
+  border-radius: 6px;
+  padding: 1rem;
+  color: var(--theme-foreground-muted);
+  font-size: 0.9rem;
+}
+
+/* -------------------------------------------------------------- tooltip --- */
+
+/* O tooltip padrao do Plot e pequeno demais para textos em portugues. */
+[aria-label="tip"] text,
+[aria-label="tip"] tspan {
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+/* Legenda do mapa com respiro entre os rotulos. */
+.plot-swatches-wrap,
+figure[class^="plot-"] .plot-ramp text {
+  font-size: 12px;
+}
