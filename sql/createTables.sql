@@ -15,6 +15,7 @@ CREATE TABLE hospitalAdmissions (
     diseaseCode           TEXT NOT NULL, -- G120, G122, G35, G700, E851
     diseaseName           TEXT NOT NULL,
     admissions            INTEGER NOT NULL DEFAULT 0,
+    shortStayAdmissions   INTEGER NOT NULL DEFAULT 0,  -- AIHs com <= 1 dia
     deaths                INTEGER NOT NULL DEFAULT 0,
     hospitalDays          INTEGER NOT NULL DEFAULT 0,
     approvedValue         REAL    NOT NULL DEFAULT 0

@@ -154,7 +154,83 @@ limite do SIH para condições ultrarraras.
 
 ---
 
-## 6. Geografia: residência e local de internação
+## 6. A natureza das AIHs: dois regimes distintos
+
+Uma AIH de esclerose múltipla e uma AIH de ELA **não são a mesma coisa**, e
+somá-las num total de "internações por doenças neurológicas raras" mistura
+eventos clínicos incomparáveis.
+
+### Permanência hospitalar por condição
+
+| Condição | AIHs | permanência média | mediana | % com ≤1 dia |
+|---|---:|---:|---:|---:|
+| Polineuropatia Amiloidótica Familiar | 29 | 1,2 d | 0 | 86,2% |
+| Esclerose Múltipla | 8.396 | 2,3 d | 0 | 73,4% |
+| Atrofia Muscular Espinhal | 720 | 9,5 d | 0 | 68,9% |
+| Miastenia Gravis | 1.136 | 7,9 d | 5 | 15,8% |
+| Esclerose Lateral Amiotrófica | 1.309 | 15,1 d | 9 | 9,4% |
+
+### Procedimentos predominantes
+
+**Esclerose Múltipla** — um único procedimento responde por 88% das AIHs:
+
+| Código | Procedimento | AIHs | % |
+|---|---|---:|---:|
+| `03.03.04.028-9` | Tratamento de surto de esclerose múltipla | 7.362 | 87,7% |
+
+Trata-se do **evento agudo** da doença, tipicamente pulsoterapia, resolvido em
+um ou dois dias. É demanda clínica legítima — um surto é um episódio real —,
+mas não é internação prolongada.
+
+**Atrofia Muscular Espinhal** — dividida entre dois perfis:
+
+| Código | Procedimento | AIHs | permanência | valor médio |
+|---|---|---:|---:|---:|
+| `03.03.03.004-6` | Tratamento de distúrbios metabólicos | 292 | 0,0 d | R$ 139 |
+| `03.03.04.020-3` | — | 254 | 19,8 d | R$ 6.464 |
+| `03.03.04.019-0` | — | 90 | 18,5 d | R$ 8.280 |
+
+**Polineuropatia Amiloidótica Familiar** — 28 das 29 AIHs usam o mesmo
+`03.03.03.004-6`, com permanência 1,2 dia e valor médio de R$ 393.
+
+**ELA e Miastenia Gravis** — dominadas por códigos de internação com
+permanência de 9 a 21 dias. São hospitalizações no sentido clínico.
+
+### Consequências para a análise
+
+1. **Nenhum total agregando as cinco condições é apresentado como
+   "internações".** O termo usado é "AIHs registradas", e os gráficos
+   estratificam por condição.
+
+2. **`approvedValue` não é custo do cuidado.** Para AME e PAF, as AIHs de
+   valor baixo (R$ 139, R$ 393) e dia único sugerem que a medicação de alto
+   custo é financiada fora da AIH. A métrica é rotulada como "valor aprovado
+   em AIH", nunca como custo do tratamento.
+
+3. **Permanência média e mortalidade só se comparam dentro do mesmo regime.**
+   Comparar os 15,1 dias da ELA com os 2,3 da EM não diz nada sobre gravidade
+   — diz que são tipos de episódio diferentes.
+
+4. **O deslocamento interestadual da AME precisa ser reinterpretado.** Se parte
+   das AIHs são episódios de dia único, o deslocamento pode medir viagem para
+   receber tratamento, não para ser internado. Isso não enfraquece o achado:
+   acesso a terapia especializada é precisamente o que a Rede de Doenças Raras
+   existe para organizar. Mas muda o que o indicador significa, e a página de
+   fluxo declara isso.
+
+### Em aberto
+
+A hipótese de que a medicação de alto custo da AME é financiada fora da AIH
+**não foi verificada** — exige checar as regras de financiamento no PCDT da
+condição, não os dados do SIH. Até lá, permanece como interpretação provável,
+não como fato estabelecido.
+
+Os nomes dos procedimentos `03.03.04.020-3` e `03.03.04.019-0` também seguem
+por confirmar na tabela SIGTAP.
+
+---
+
+## 7. Geografia: residência e local de internação
 
 `ufResidence` e `ufHospital` são derivadas do prefixo de dois dígitos dos
 códigos IBGE em `MUNIC_RES` e `MUNIC_MOV`.
@@ -173,31 +249,64 @@ A concordância de 100% entre `MUNIC_MOV`, `UF_ZI` e a UF do arquivo é esperada
 por construção — o arquivo RD de SP contém as AIHs geridas em SP — e não indica
 defeito.
 
-### Achado: o deslocamento depende da condição
+### Hipótese inicial e sua refutação parcial
 
-Na amostra exploratória (SP, MG, BA, DF · 1º trimestre de 2024):
+Uma amostra exploratória de 4 UFs (SP, MG, BA, DF · 1º trimestre de 2024)
+sugeriu que a AME teria **17,1%** de AIHs fora da UF de residência, contra 0,3%
+da esclerose múltipla — indicando deslocamento interestadual expressivo nas
+condições mais raras.
+
+**Com as 27 UFs e o ano completo, esse número cai para 2,8%.**
 
 | Condição | AIHs | fora da UF de residência |
 |---|---:|---:|
-| Atrofia Muscular Espinhal | 35 | **17,1%** |
-| Esclerose Múltipla | 1.065 | 0,3% |
-| Agregado | 1.300 | 0,7% |
+| Polineuropatia Amiloidótica Familiar | 29 | 17,2% (5 eventos — ruído) |
+| Atrofia Muscular Espinhal | 720 | 2,8% |
+| Miastenia Gravis | 1.136 | 1,3% |
+| Esclerose Lateral Amiotrófica | 1.309 | 0,7% |
+| Esclerose Múltipla | 8.396 | 0,6% |
+| **Agregado** | **11.590** | **0,8%** |
 
-O agregado de 0,7% é artefato de composição: a esclerose múltipla, com volume
-muito maior e deslocamento mínimo, dilui o sinal.
+A superestimativa da amostra era previsível e estava anotada: com apenas 4 UFs
+baixadas, um residente de GO internado em GO não aparecia, enquanto um
+residente de GO internado no DF aparecia. O viés inflava o percentual por um
+fator de aproximadamente seis.
 
-**Por isso o fluxo interestadual é analisado por condição, nunca no agregado.**
-Uma leitura agregada teria concluído que não há deslocamento relevante — o
-oposto do que os dados mostram para as condições mais raras.
+Os 17,2% da PAF são ruído — cinco deslocamentos em 29 AIHs.
 
-Esses percentuais vêm da amostra de 4 UFs e estão **superestimados**: um
-residente de GO internado em GO não aparecia nela, enquanto um residente de GO
-internado no DF aparecia. Os números definitivos serão recalculados sobre as 27
-UFs.
+**O que sobrevive é a ordenação, não a magnitude.** AME > Miastenia > ELA > EM
+é consistente com "condição mais rara, oferta mais concentrada, mais
+deslocamento". Mas 97 deslocamentos interestaduais em todo o país e em todo o
+ano não sustentam um diagrama de fluxo.
+
+### A escala correta é municipal
+
+O recorte por UF torna invisível, por construção, o deslocamento que de fato
+ocorre: do interior para os centros de referência dentro do próprio estado.
+
+| Condição | AIHs | em outro município | municípios de origem | municípios que atendem | razão |
+|---|---:|---:|---:|---:|---:|
+| Atrofia Muscular Espinhal | 720 | **49,7%** | 157 | 58 | 2,7× |
+| Esclerose Múltipla | 8.396 | 48,5% | 960 | 380 | 2,5× |
+| Miastenia Gravis | 1.136 | 46,1% | 451 | 261 | 1,7× |
+| Polineuropatia Amiloidótica Familiar | 29 | 44,8% | 10 | 8 | — |
+| Esclerose Lateral Amiotrófica | 1.309 | 42,7% | 504 | 262 | 1,9× |
+
+Cerca de metade das AIHs envolvem atendimento fora do município de residência,
+e a razão entre municípios de origem e municípios que atendem é maior
+justamente na AME — a condição mais rara com volume analisável.
+
+**Decisão.** A análise de fluxo é feita no nível municipal. O recorte
+interestadual permanece no projeto como resultado negativo documentado: a
+travessia de fronteira estadual é exceção administrativa, não o caminho usual
+do paciente, e a rede de referência se organiza dentro dos estados.
+
+Esta seção registra uma hipótese que a ampliação dos dados refutou em
+magnitude. O achado não foi ajustado para preservar a narrativa original.
 
 ---
 
-## 7. O que o projeto não afirma
+## 8. O que o projeto não afirma
 
 - **Não mede prevalência nem incidência.** Mede utilização hospitalar registrada.
 - **Não mede acesso.** O indicador `admissionsPerService` é exploratório: nem
@@ -210,7 +319,7 @@ UFs.
 
 ---
 
-## 8. Reprodutibilidade
+## 9. Reprodutibilidade
 
 `data/raw/` e `data/processed/` não são versionados: são alguns GB de dado
 público reconstruível. O repositório versiona a receita.

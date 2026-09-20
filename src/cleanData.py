@@ -136,14 +136,16 @@ def aggregate_admissions(scoped: pd.DataFrame) -> pd.DataFrame:
     df["DIAS_PERM"] = to_num(df["DIAS_PERM"]).fillna(0)
     df["VAL_TOT"] = to_num(df["VAL_TOT"]).fillna(0)
 
-    # TODO-1: AIHs sem ufResidence ou sem ufHospital.
-    #   Hoje elas passam direto e viram grupos com UF nula. O que fazer?
-    #   (a) manter e deixar o SQL lidar com NULL;
-    #   (b) descartar e registrar quantas foram;
-    #   (c) manter para os totais, excluir so das analises de fluxo.
-    #   Em jogo: a query 4 de demandAnalysis ja ignora nulos, mas os CARDS da
-    #   pagina 1 contariam essas AIHs. Os dois numeros precisam bater?
-    #   Decida, implemente, e deixe um comentario dizendo por que.
+    # TODO-1 (resolvido): em 2024 nao ha AIH sem UF - MUNIC_RES e MUNIC_MOV
+    # vem sempre preenchidos com codigo IBGE valido (0 de 11.590 no escopo).
+    # Opcao (a): manter as linhas, deixando o SQL lidar com NULL. Descartar
+    # falsearia o total de internacoes registradas, que deve ser fiel ao SIH.
+    # O aviso abaixo existe porque outro ano pode nao se comportar assim.
+    sem_uf = df.ufResidence.isna() | df.ufHospital.isna()
+    if sem_uf.any():
+        print(f"  aviso: {sem_uf.sum():,} AIHs ({sem_uf.mean():.2%}) sem UF de "
+              "residencia ou internacao. Mantidas nos totais; as analises de "
+              "fluxo as ignoram, entao os numeros das paginas 1 e 4 divergem.")
 
     # TODO-2: a agregacao em si.
     #   Monte `out` com groupby nas colunas do grao e:
@@ -155,7 +157,17 @@ def aggregate_admissions(scoped: pd.DataFrame) -> pd.DataFrame:
     #   que a pagina 1 mostra ("valor aprovado") e no que a pagina 2 mostra
     #   ("valor medio por internacao") - as duas saem da mesma coluna?
     #   Dica: df.groupby([...], dropna=False).agg(...).reset_index()
-    out = pd.DataFrame()  # <- substitua
+    out = (df.groupby(["year", "month",
+                       "ufResidence", "ufHospital",
+                       "MUNIC_RES", "MUNIC_MOV",
+                       "CNES",
+                       "diseaseCode", "diseaseName"], dropna=False)
+              .agg(admissions=("MORTE", "size"),
+                  shortStayAdmissions=("DIAS_PERM", lambda s: (s <= 1).sum()),
+                  deaths=("MORTE", "sum"),
+                  hospitalDays=("DIAS_PERM", "sum"),
+                  approvedValue=("VAL_TOT", "sum"))
+             .reset_index())
 
     # TODO-3: renomear para o schema.
     #   MUNIC_RES -> municipalityResidence
@@ -163,6 +175,10 @@ def aggregate_admissions(scoped: pd.DataFrame) -> pd.DataFrame:
     #   CNES      -> establishmentId
     #   Confira ao final que out.columns bate EXATAMENTE com as colunas de
     #   hospitalAdmissions em sql/createTables.sql (menos o id).
+
+    out = out.rename(columns={"MUNIC_RES": "municipalityResidence",
+                              "MUNIC_MOV": "municipalityHospital",
+                              "CNES": "establishmentId"})
 
     return out
 
