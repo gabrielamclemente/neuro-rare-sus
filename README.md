@@ -1,68 +1,118 @@
 # NeuroRare SUS
 
-**Demand, Capacity & Access** — mapeamento da demanda hospitalar e capacidade especializada do SUS para doenças neurológicas raras no Brasil.
+**Demanda, capacidade e acesso** — onde acontece o cuidado hospitalar de doenças
+neurológicas raras no Brasil, e quanto as pessoas se deslocam para alcançá-lo.
 
-> **Nota metodológica.** O SIH/SUS registra **produção aprovada** (AIHs), não pessoas únicas. Todo número aqui é "internações registradas relacionadas à condição no período", nunca "pacientes com a doença". 
+Dados abertos do SIH/SUS · 27 UFs · 2024 · Python, SQL, Tableau/Power BI
 
-## Escopo
+> **Nota metodológica.** O SIH/SUS registra produção hospitalar aprovada (AIHs),
+> não pessoas únicas. Nenhum número aqui é contagem de pacientes.
 
-| Doença | CID-10 | Código no SIH |
-|---|---|---|
-| Atrofia Muscular Espinhal | G12.0 | `G120` |
-| Esclerose Lateral Amiotrófica | G12.2 | `G122` |
-| Esclerose Múltipla | G35 | `G35` |
-| Miastenia Gravis | G70.0 | `G700` |
-| Polineuropatia Amiloidótica Familiar | E85.1 | `E851` |
+Documentação completa de proveniência, decisões e limites:
+**[docs/METHODOLOGY.md](docs/METHODOLOGY.md)** ·
+Especificação do dashboard: **[docs/DASHBOARD_SPEC.md](docs/DASHBOARD_SPEC.md)**
 
-## Perguntas
+---
 
-1. **Demanda** — como evoluiu a utilização do SUS relacionada a essas condições?
-2. **Capacidade** — onde estão os serviços habilitados em doenças raras?
-3. **Desalinhamento** — quais regiões têm mais demanda registrada por serviço disponível?
+## A pergunta
 
-## Como rodar
+Existe correspondência entre onde está a demanda por atendimento de pessoas com
+doenças neurológicas raras e onde está a capacidade especializada do SUS?
+
+Cinco condições da lista oficial do Ministério da Saúde: esclerose múltipla
+(G35), esclerose lateral amiotrófica (G12.2), miastenia gravis (G70.0), atrofia
+muscular espinhal (G12.0) e polineuropatia amiloidótica familiar (E85.1).
+
+## O que os dados mostraram
+
+**Existem dois regimes de cuidado dentro do mesmo escopo.** Episódios de
+tratamento — surto de esclerose múltipla, administração de medicação — duram um
+dia e concentram-se em poucos municípios. Internações clínicas — ELA, miastenia
+— duram de 9 a 21 dias e distribuem-se pela rede hospitalar geral.
+
+| Condição | AIHs | % com ≤1 dia | % em 5 municípios |
+|---|---:|---:|---:|
+| Esclerose Múltipla | 8.396 | 73,4% | 74,0% |
+| Esclerose Lateral Amiotrófica | 1.309 | 9,4% | 27,1% |
+| Miastenia Gravis | 1.136 | 15,8% | 26,4% |
+| Atrofia Muscular Espinhal | 720 | 68,9% | 62,2% |
+| Polineuropatia Amiloidótica Familiar | 29 | 86,2% | 89,7% |
+
+As duas últimas colunas se espelham: **a concentração geográfica acompanha o
+tipo de episódio, não a raridade da condição.**
+
+**O deslocamento é intraestadual.** Cerca de metade das AIHs ocorrem fora do
+município de residência; apenas 0,8% cruzam fronteira estadual. Recife concentra
+43% do atendimento nacional de atrofia muscular espinhal.
+
+**Uma hipótese inicial foi refutada.** Uma amostra de 4 UFs sugeria 17% de
+deslocamento interestadual na AME; com as 27 UFs, o número é 2,8%. O achado não
+foi ajustado para preservar a narrativa — a refutação está documentada na
+[metodologia](docs/METHODOLOGY.md#7-geografia-residência-e-local-de-internação).
+
+## O que o projeto não afirma
+
+Não mede prevalência, não mede acesso, não mede qualidade assistencial e não
+estabelece causalidade. Mortalidade hospitalar bruta não é indicador de
+qualidade sem ajuste por risco. A maior parte do cuidado dessas condições é
+ambulatorial (SIA/SUS) e está fora deste escopo.
+
+## Como reproduzir
 
 ```bash
 pip install -r requirements.txt
 
-# Fase 0 — viabilidade (SEMPRE antes de qualquer outra coisa)
-python src/validateData.py
+python src/validateData.py                                  # Fase 0 — viabilidade
+python src/loadData.py --all-ufs --all-months --year 2024   # extração
+python src/loadData.py --retry-missing --year 2024          # recupera lacunas
+python src/cleanData.py --year 2024                         # agrega -> SQLite
+python src/exportForBI.py                                   # CSVs p/ o dashboard
 ```
 
-A Fase 0 baixa uma amostra pequena (SP/MG/BA/DF, 1º trimestre de 2024) e responde às 7 perguntas de viabilidade. Se os itens 1–4 falharem, o projeto muda de forma antes de você investir tempo — o plano B é focar só em AME ("AME 5q: From Diagnosis to Care").
+`data/` não é versionado: são alguns GB de dado público reconstruível. O
+repositório versiona a receita.
+
+**Cobertura obtida:** 322 de 324 UF-meses (99,4%). AM e PI sem fevereiro/2024.
+A tabela `dataCoverage` registra isso por UF, e as comparações normalizam por
+meses disponíveis.
 
 ## Estrutura
 
 ```
-neuroRareSUS/
-├── data/raw/          # parquet do SIH, um arquivo por UF/mês (não versionar)
-├── data/processed/    # tabelas agregadas + saídas da Fase 0
 ├── src/
-│   ├── config.py           # CIDs, colunas do SIH, amostra, mapa IBGE→UF
-│   ├── loadData.py         # download do SIH-RD via PySUS, com cache
-│   ├── classifyDiseases.py # match de CID + derivação das UFs
-│   └── validateData.py     # FASE 0 — as 7 checagens
+│   config.py            constantes: CIDs, colunas do SIH, mapa IBGE→UF
+│   loadData.py          download do SIH-RD com cache e fontes alternativas
+│   classifyDiseases.py  match de CID-10 e derivação das UFs
+│   validateData.py      Fase 0 — as 7 checagens de viabilidade
+│   inspectPhase0.py     diagnóstico de cobertura e fluxo
+│   probeSource.py       sonda as fontes do PySUS
+│   cleanData.py         agregação e carga no SQLite
+│   exportForBI.py       exporta as views para CSV
 ├── sql/
-│   ├── createTables.sql    # modelo: hospitalAdmissions / rareDiseaseServices / population
-│   ├── demandAnalysis.sql  # demanda, evolução, per capita, fluxo interestadual
-│   └── capacityAnalysis.sql# oferta, demanda×capacidade, concentração
-└── powerBi/
+│   createTables.sql     modelo de dados
+│   dashboardViews.sql   views que alimentam o dashboard
+│   demandAnalysis.sql   demanda, evolução, per capita, fluxo
+│   capacityAnalysis.sql oferta e cruzamento demanda × capacidade
+├── docs/
+│   METHODOLOGY.md       proveniência, decisões, limites
+│   DASHBOARD_SPEC.md    especificação visual (Power BI e Tableau)
+└── powerBi/             dashboard e CSVs gerados
 ```
 
-## Dados que ainda precisam de passo manual
+## Estado atual
 
-| Base | Onde | Observação |
-|---|---|---|
-| SIH-RD | automático (PySUS) | já coberto por `loadData.py` |
-| Habilitações CNES em doenças raras | painel oficial da Rede de Doenças Raras / CNES-ST | baixar e salvar em `data/processed/rare_disease_services.csv` com colunas `establishmentId,establishmentName,uf,municipality,serviceType` |
-| População por UF | IBGE/SIDRA tabela 6579 | salvar em `data/processed/population_uf.csv` (`year,uf,population`) |
+Concluído: extração, classificação, agregação, modelo de dados, views do
+dashboard, documentação metodológica.
 
-## Roadmap
+Em andamento: construção do dashboard.
 
-- **MVP (~2 semanas):** Fase 0 → tabelas agregadas → SQLite → Power BI páginas 1–2.
-- **v2 (4–6 semanas):** fluxo residência→internação (página 4), indicador demanda/serviço (página 3), documentação metodológica.
-- **v3 (opcional):** aprofundar AME — PCDT, procedimentos, terapia gênica.
+Pendente: habilitações da Rede de Doenças Raras (CNES) e população por UF
+(IBGE) — destravam a análise de demanda × capacidade.
 
-## Limites do indicador `admissionsPerService`
+### A pergunta em aberto
 
-É um **indicador exploratório** da relação entre demanda hospitalar registrada e oferta especializada. Não mede acesso real: nem toda internação exige centro especializado, e um serviço habilitado atende residentes de várias UFs.
+Os municípios que concentram cada condição são serviços habilitados da Rede de
+Atenção Especializada em Doenças Raras? Se sim, a rede funciona como desenhada e
+a questão passa a ser a equidade do acesso geográfico a ela. Se não, o cuidado
+está se concentrando fora da rede formal — o que seria um achado de gestão com
+peso próprio.
