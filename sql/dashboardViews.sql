@@ -30,6 +30,12 @@ SELECT
     r.careRegime,
     SUM(a.admissions)                                                  AS admissions,
     SUM(a.shortStayAdmissions)                                         AS shortStayAdmissions,
+    -- Complemento e percentuais calculados aqui, nao no Tableau/Power BI:
+    -- calculo de tabela quebra em silencio quando muda filtro ou contexto.
+    SUM(a.admissions) - SUM(a.shortStayAdmissions)                     AS longStayAdmissions,
+    ROUND(100.0 * SUM(a.shortStayAdmissions) / SUM(a.admissions), 1)   AS shortStayPct,
+    ROUND(100.0 * (SUM(a.admissions) - SUM(a.shortStayAdmissions))
+          / SUM(a.admissions), 1)                                      AS longStayPct,
     SUM(a.deaths)                                                      AS deaths,
     ROUND(100.0 * SUM(a.deaths) / NULLIF(SUM(a.admissions), 0), 2)     AS inHospitalMortalityPct,
     ROUND(1.0 * SUM(a.hospitalDays) / NULLIF(SUM(a.admissions), 0), 1) AS avgLengthOfStay,
