@@ -11,7 +11,7 @@ que qualquer pessoa possa auditar ou reproduzir o trabalho.
 ## 1. A limitação que define o projeto
 
 O SIH/SUS registra **produção hospitalar aprovada**. Autorizações de Internação
-Hospitalar (AIH) —, não pessoas. Não há identificador de paciente utilizável, e
+Hospitalar (AIH), não pessoas. Não há identificador de paciente utilizável, e
 a mesma pessoa internada três vezes no ano gera três AIHs.
 
 Em consequência, **nenhum número aqui é contagem de pacientes.** Todas as
@@ -119,7 +119,7 @@ A classificação usa **somente `DIAG_PRINC`**, não `DIAG_SECUN`.
 
 Justificativa: com o diagnóstico principal, cada AIH conta uma única vez e a
 internação foi de fato motivada pela condição. Incluir o secundário misturaria
-"internada por causa da doença" com "internada tendo a doença" — uma pessoa com
+"internada por causa da doença" com "internada tendo a doença", uma pessoa com
 esclerose múltipla internada por fratura entraria na contagem de demanda por
 atenção à esclerose múltipla.
 
@@ -274,7 +274,7 @@ baixadas, um residente de GO internado em GO não aparecia, enquanto um
 residente de GO internado no DF aparecia. O viés inflava o percentual por um
 fator de aproximadamente seis.
 
-Os 17,2% da PAF são ruído — cinco deslocamentos em 29 AIHs.
+Os 17,2% da PAF são ruído, cinco deslocamentos em 29 AIHs.
 
 **O que sobrevive é a ordenação, não a magnitude.** AME > Miastenia > ELA > EM
 é consistente com "condição mais rara, oferta mais concentrada, mais
