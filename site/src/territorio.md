@@ -425,8 +425,8 @@ comAnimacao(Plot.plot({
   </div>
 </div>
 
-A rede captura o cuidado hospitalar das condições **genéticas e ultrarraras** —
-atrofia muscular espinhal e polineuropatia amiloidótica — e praticamente não
+A rede captura o cuidado hospitalar das condições **genéticas e ultrarraras**,
+atrofia muscular espinhal e polineuropatia amiloidótica, e praticamente não
 captura as demais. A esclerose múltipla, que responde por 72% do volume do
 escopo, tem 95% do seu atendimento fora da rede habilitada, e nenhum dos seus
 cinco maiores centros é habilitado.
@@ -446,7 +446,7 @@ raras organiza a rede justamente assim.
 acompanhamento, boa parte deles ambulatoriais e fora do SIH. Um surto de
 esclerose múltipla tratado com pulsoterapia no hospital geral mais próximo pode
 ser exatamente o desenho pretendido. Além disso, a competência analisada é junho
-de 2024 — houve expansão da rede depois disso — e a habilitação é do
+de 2024, houve expansão da rede depois disso, e a habilitação é do
 estabelecimento, não do atendimento específico.
 
 </div>

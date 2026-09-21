@@ -24,7 +24,7 @@ por esta, que foi validada (separação CVD ΔE 9,1; visão normal ΔE 19,6):
 | 5 | Polineuropatia Amiloidótica Familiar | `#e87ba4` | `#d55181` |
 
 **A cor segue a condição, sempre na mesma ordem, em todas as páginas.** Se um
-filtro reduz de cinco para duas condições, as duas mantêm suas cores — não
+filtro reduz de cinco para duas condições, as duas mantêm suas cores, não
 repinte as sobreviventes. No Power BI isso se faz em *Formatar → Cores dos
 dados*, fixando por valor, não por posição.
 
@@ -49,7 +49,7 @@ valor visível ou tem uma tabela equivalente na mesma página.** A cor nunca é 
 A esclerose múltipla tem 8.396 AIHs; a PAF tem 29. Num mesmo gráfico de barras,
 a PAF vira um traço invisível.
 
-**Não use escala logarítmica** — ela distorce a percepção de magnitude, que é
+**Não use escala logarítmica**, ela distorce a percepção de magnitude, que é
 justamente o que a barra deveria comunicar.
 
 Use uma destas, conforme a página:
@@ -103,7 +103,7 @@ dia e AIHs mais longas.
 Campos: eixo `diseaseName`, valores `shortStayAdmissions` e
 `admissions - shortStayAdmissions`.
 
-Aqui a cor **não** é por condição — as séries são os dois regimes. Use dois tons
+Aqui a cor **não** é por condição, as séries são os dois regimes. Use dois tons
 neutros distintos (um escuro, um claro), com 2px de respiro entre os segmentos.
 
 Título: *"Duas naturezas de AIH dentro do mesmo escopo"*.
@@ -148,7 +148,7 @@ exige.
 cinco maiores municípios. Um ponto por condição, rotulado com o nome.
 
 É o achado central do projeto num único visual: os pontos se alinham numa
-diagonal. Marcadores de pelo menos 12px, rótulo direto em todos os cinco —
+diagonal. Marcadores de pelo menos 12px, rótulo direto em todos os cinco,
 com cinco pontos, legenda separada é desnecessária.
 
 Título: *"A concentração do cuidado acompanha o tipo de episódio, não a raridade"*.

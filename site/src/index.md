@@ -217,5 +217,5 @@ cuidado.
 
 </div>
 
-A próxima página mostra onde esse cuidado acontece no território — e é lá que
+A próxima página mostra onde esse cuidado acontece no território, e é lá que
 está o achado central do projeto.

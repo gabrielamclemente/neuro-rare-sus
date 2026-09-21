@@ -10,7 +10,7 @@ que qualquer pessoa possa auditar ou reproduzir o trabalho.
 
 ## 1. A limitação que define o projeto
 
-O SIH/SUS registra **produção hospitalar aprovada** — Autorizações de Internação
+O SIH/SUS registra **produção hospitalar aprovada**. Autorizações de Internação
 Hospitalar (AIH) —, não pessoas. Não há identificador de paciente utilizável, e
 a mesma pessoa internada três vezes no ano gera três AIHs.
 
@@ -71,8 +71,8 @@ A investigação passou por duas hipóteses erradas antes da correta:
 
 **Solução adotada.** Quando o filtro por grupo devolve vazio, o código pede a
 lista de *caminhos* de arquivo (`as_dataframe=False`), seleciona o que começa
-com `RD<UF><AA><MM>` e o lê diretamente. A alternativa ingênua — omitir o
-`group` — devolve `ER`+`RJ`+`RD`+`SP` empilhados num único DataFrame, com
+com `RD<UF><AA><MM>` e o lê diretamente. A alternativa ingênua, omitir o
+`group`, devolve `ER`+`RJ`+`RD`+`SP` empilhados num único DataFrame, com
 esquemas diferentes, e é inutilizável.
 
 Essa correção recuperou 71 dos 74 arquivos.
@@ -149,7 +149,7 @@ dedicado), nunca somada às outras num único total apresentado como "doenças
 raras".
 
 **A PAF é ultrarrara mesmo em dados nacionais.** 29 AIHs no Brasil inteiro em um
-ano não sustenta análise territorial — qualquer razão por UF seria construída
+ano não sustenta análise territorial, qualquer razão por UF seria construída
 sobre uma ou duas internações. Decisão: mantida nas contagens, **excluída** dos
 indicadores territoriais e do fluxo interestadual, e usada como ilustração do
 limite do SIH para condições ultrarraras.
@@ -174,7 +174,7 @@ eventos clínicos incomparáveis.
 
 ### Procedimentos predominantes
 
-**Esclerose Múltipla** — um único procedimento responde por 88% das AIHs:
+**Esclerose Múltipla** um único procedimento responde por 88% das AIHs:
 
 | Código | Procedimento | AIHs | % |
 |---|---|---:|---:|
@@ -184,7 +184,7 @@ Trata-se do **evento agudo** da doença, tipicamente pulsoterapia, resolvido em
 um ou dois dias. É demanda clínica legítima — um surto é um episódio real —,
 mas não é internação prolongada.
 
-**Atrofia Muscular Espinhal** — dividida entre dois perfis:
+**Atrofia Muscular Espinhal** dividida entre dois perfis:
 
 | Código | Procedimento | AIHs | permanência | valor médio |
 |---|---|---:|---:|---:|
@@ -195,7 +195,7 @@ mas não é internação prolongada.
 **Polineuropatia Amiloidótica Familiar** — 28 das 29 AIHs usam o mesmo
 `03.03.03.004-6`, com permanência 1,2 dia e valor médio de R$ 393.
 
-**ELA e Miastenia Gravis** — dominadas por códigos de internação com
+**ELA e Miastenia Gravis** dominadas por códigos de internação com
 permanência de 9 a 21 dias. São hospitalizações no sentido clínico.
 
 ### Consequências para a análise
@@ -210,8 +210,8 @@ permanência de 9 a 21 dias. São hospitalizações no sentido clínico.
    em AIH", nunca como custo do tratamento.
 
 3. **Permanência média e mortalidade só se comparam dentro do mesmo regime.**
-   Comparar os 15,1 dias da ELA com os 2,3 da EM não diz nada sobre gravidade
-   — diz que são tipos de episódio diferentes.
+   Comparar os 15,1 dias da ELA com os 2,3 da EM não diz nada sobre gravidade 
+   diz que são tipos de episódio diferentes.
 
 4. **O deslocamento interestadual da AME precisa ser reinterpretado.** Se parte
    das AIHs são episódios de dia único, o deslocamento pode medir viagem para
@@ -223,7 +223,7 @@ permanência de 9 a 21 dias. São hospitalizações no sentido clínico.
 ### Em aberto
 
 A hipótese de que a medicação de alto custo da AME é financiada fora da AIH
-**não foi verificada** — exige checar as regras de financiamento no PCDT da
+**não foi verificada** exige checar as regras de financiamento no PCDT da
 condição, não os dados do SIH. Até lá, permanece como interpretação provável,
 não como fato estabelecido.
 
@@ -248,14 +248,14 @@ hospital. Dois testes resolveram:
   medisse o gestor do arquivo de origem, isso seria impossível.
 
 A concordância de 100% entre `MUNIC_MOV`, `UF_ZI` e a UF do arquivo é esperada
-por construção — o arquivo RD de SP contém as AIHs geridas em SP — e não indica
+por construção, o arquivo RD de SP contém as AIHs geridas em SP, e não indica
 defeito.
 
 ### Hipótese inicial e sua refutação parcial
 
 Uma amostra exploratória de 4 UFs (SP, MG, BA, DF · 1º trimestre de 2024)
 sugeriu que a AME teria **17,1%** de AIHs fora da UF de residência, contra 0,3%
-da esclerose múltipla — indicando deslocamento interestadual expressivo nas
+da esclerose múltipla, indicando deslocamento interestadual expressivo nas
 condições mais raras.
 
 **Com as 27 UFs e o ano completo, esse número cai para 2,8%.**
@@ -296,7 +296,7 @@ ocorre: do interior para os centros de referência dentro do próprio estado.
 
 Cerca de metade das AIHs envolvem atendimento fora do município de residência,
 e a razão entre municípios de origem e municípios que atendem é maior
-justamente na AME — a condição mais rara com volume analisável.
+justamente na AME, a condição mais rara com volume analisável.
 
 **Decisão.** A análise de fluxo é feita no nível municipal. O recorte
 interestadual permanece no projeto como resultado negativo documentado: a
@@ -322,17 +322,17 @@ volume, e cruzando com o regime de AIH da seção 6:
 **As duas últimas colunas se espelham.** A concentração geográfica do cuidado
 acompanha o regime de AIH, não a raridade da condição isoladamente.
 
-A leitura mecânica é direta: episódios de tratamento — surto de esclerose
-múltipla, administração de medicação — ocorrem em centros de referência, que
-são poucos. Internações clínicas prolongadas — complicação respiratória de ELA,
-crise miastênica — ocorrem na rede hospitalar geral, que é ampla.
+A leitura mecânica é direta: episódios de tratamento, surto de esclerose
+múltipla, administração de medicação, ocorrem em centros de referência, que
+são poucos. Internações clínicas prolongadas, complicação respiratória de ELA,
+crise miastênica, ocorrem na rede hospitalar geral, que é ampla.
 
 A esclerose múltipla ilustra o contraste de forma nítida: 380 municípios
 registram atendimento, mas 5 deles concentram 74% do volume. Capacidade
 existente e capacidade efetivamente utilizada não são a mesma coisa.
 
 **Resposta à pergunta do projeto.** "Existe correspondência entre onde está a
-demanda e onde está a capacidade especializada?" — a correspondência depende do
+demanda e onde está a capacidade especializada?", a correspondência depende do
 tipo de cuidado, não da condição. Cuidado de tratamento é concentrado e exige
 deslocamento; cuidado de internação é distribuído. Um indicador único de
 demanda por serviço, aplicado indistintamente às cinco condições, mediria uma
@@ -364,7 +364,7 @@ estabelecimentos) e dispersão (8 a 22 UFs), três códigos consecutivos do grup
 35 emergiram com a mesma cobertura dos maiores centros de AME. A confirmação do
 significado veio do instrutivo de habilitação do Ministério da Saúde.
 
-**Rede observada em junho/2024:** 34 estabelecimentos em 13 UFs — 25 de
+**Rede observada em junho/2024:** 34 estabelecimentos em 13 UFs, 25 de
 referência, 10 de atenção especializada, 13 de aconselhamento genético (um
 mesmo estabelecimento pode acumular tipos).
 
@@ -381,20 +381,20 @@ mesmo estabelecimento pode acumular tipos).
 ### Leitura
 
 A rede habilitada captura o cuidado hospitalar das condições **genéticas e
-ultrarraras** — AME e PAF — e praticamente não captura as demais. A esclerose
+ultrarraras**, AME e PAF, e praticamente não captura as demais. A esclerose
 múltipla, que responde por 72% do volume do escopo, tem 95% do seu atendimento
 fora da rede, e nenhum dos seus cinco maiores centros é habilitado.
 
 O corte separa as mesmas condições que os regimes de AIH da seção 6 separam,
 mas por um eixo diferente: ali era duração do episódio, aqui é natureza da
-condição — genética versus autoimune/degenerativa.
+condição, genética versus autoimune/degenerativa.
 
 ### O que este achado NÃO permite concluir
 
 **Não é evidência de falha da rede.** A Política Nacional de Doenças Raras
 organiza diagnóstico e acompanhamento, boa parte deles ambulatoriais e fora do
 SIH. Um surto de esclerose múltipla tratado com pulsoterapia num hospital geral
-próximo não representa, por si, cuidado inadequado — pode ser exatamente o
+próximo não representa, por si, cuidado inadequado, pode ser exatamente o
 desenho pretendido, com a rede responsável pelo diagnóstico e o
 acompanhamento, e a rede geral pelo episódio agudo.
 
@@ -408,8 +408,8 @@ um não habilitado pode prestar cuidado de excelência.
 
 ### A pergunta que o achado levanta
 
-Se a rede foi desenhada para as condições genéticas, a esclerose múltipla —
-classificada como doença rara não genética na própria política — está dentro
+Se a rede foi desenhada para as condições genéticas, a esclerose múltipla,
+classificada como doença rara não genética na própria política, está dentro
 ou fora do escopo pretendido? E se está dentro, 4,8% de captura merece
 investigação que estes dados não conseguem fazer sozinhos: exige o SIA/SUS,
 onde mora o cuidado ambulatorial.
@@ -449,6 +449,6 @@ Ambiente de referência: Python 3.13, `pysus` 2.11.2, macOS.
 
 **Ressalva de reprodutibilidade.** O comportamento do filtro `group="RD"`
 depende do catálogo do PySUS, que é mantido por terceiros e pode mudar. Uma
-execução futura pode não precisar do caminho alternativo descrito na seção 3 —
+execução futura pode não precisar do caminho alternativo descrito na seção 3,
 ou precisar dele em outras partições. O log de cada execução registra quais
 arquivos vieram por qual caminho.
