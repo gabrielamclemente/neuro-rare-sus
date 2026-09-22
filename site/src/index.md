@@ -33,7 +33,7 @@ revelar();
   <h1>Onde acontece o cuidado das doenças neurológicas raras no Brasil</h1>
   <p>Uma análise das autorizações de internação hospitalar (AIH) registradas no SUS em
   2024, em cinco condições raras, e do quanto as pessoas precisam se deslocar
-  para alcançar esse cuidado.</p>
+  para receber tratamento.</p>
 </div>
 
 <div class="stat-row reveal">
@@ -57,17 +57,14 @@ revelar();
 
 <div class="note">
 
-**O SIH/SUS registra produção hospitalar aprovada, não o número de pessoas internadas.** Cada número
-aqui é uma AIH, uma autorização de internação, nunca um paciente único. A
-mesma pessoa internada três vezes no ano gera três AIHs. AM e PI não têm
-fevereiro.
+**O índice SIH/SUS registra produção hospitalar aprovada e não o número de pessoas internadas.** Cada número
+Cada AIH corresponde a uma única autorização de internação, nunca um paciente único. Isso significa que se a mesma pessoa for internada três vezes no ano serão geradas três AIHs. O banco de dados não inclui dados do mês de fevereiro para os estados Amazonas e Piauí.
 
 </div>
 
-## O volume não é a história
+## Distribuição de AIHs Entre as 5 Condições Estudadas
 
-Cinco condições, volumes muito diferentes. A esclerose múltipla responde por
-quase três quartos das AIHs; a polineuropatia amiloidótica familiar, por 29
+As cinco condições neurolôgicas estudadas apresdentam volumes de AIHs registradas muito diferentes. Por exemplo, a esclerose múltipla responde por quase três quartos das AIHs de todo o Brasil. Já a polineuropatia amiloidótica familiar, por 29
 registros no país inteiro em um ano.
 
 ```js
@@ -104,15 +101,15 @@ comAnimacao(Plot.plot({
 }), "reveal animate-bars")
 ```
 
-Uma leitura apressada pararia aqui e concluiria que a esclerose múltipla é o
+Uma leitura apressada concluiria que a esclerose múltipla é o
 problema principal. O próximo gráfico mostra por que essa leitura estaria
 errada.
 
-## Duas naturezas de AIH dentro do mesmo escopo
+## Duas naturezas de AIH no mesmo escopo
 
-Nem toda AIH é uma internação no sentido clínico. Algumas duram um dia, e são
-episódios de tratamento, como a pulsoterapia para surto de esclerose múltipla.
-Outras duram semanas.
+Nem toda AIH é uma internação no sentido clínico. Algumas duram um dia e são
+episódios de tratamento, como a pulsoterapia para surto de esclerose múltipla,
+outras duram semanas.
 
 ```js
 const regime = overview.flatMap(d => [
@@ -149,16 +146,12 @@ comAnimacao(Plot.plot({
 }), "reveal animate-bars")
 ```
 
-O corte não acompanha a raridade da condição, acompanha o **tipo de cuidado**.
-Polineuropatia, esclerose múltipla e atrofia muscular espinhal são dominadas por
-episódios de dia único. Miastenia gravis e esclerose lateral amiotrófica são
-internações clínicas, de nove a vinte e um dias, com mortalidade hospitalar
-relevante.
+A distribuição não acompanha a raridade da condição, mas sim o **tipo de cuidado**.
+Polineuropatia, esclerose múltipla e atrofia muscular espinhal registram na maior parte dos casos episódios de dia único. Por outro lado, Miastenia gravis e esclerose lateral amiotrófica resultam em internação clínica, de nove a vinte e um dias, e apresntam um índice de mortalidade hospitalar significativo.
 
 <div class="note">
 
-Um total agregando as cinco condições como "internações" somaria coisas
-incomparáveis. É por isso que este projeto nunca apresenta esse número.
+A soma dos cinco tipos de internação resultaria em dados incomparáveis, e por isso que este projeto não apresenta esse dado. 
 
 </div>
 
@@ -211,11 +204,8 @@ Inputs.table(perfil, {
 <div class="note">
 
 **Mortalidade hospitalar bruta não é indicador de qualidade assistencial.** Não
-há ajuste por gravidade, e centros de referência tendem a receber os casos mais
-graves. A comparação entre condições só faz sentido dentro do mesmo regime de
-cuidado.
+há padronização dos cuidados de acordo com a gravidade, até porque os centros de referência tendem a receber os casos mais graves. A comparação entre condições só faz sentido em um mesmo regime de cuidado.
 
 </div>
 
-A próxima página mostra onde esse cuidado acontece no território, e é lá que
-está o achado central do projeto.
+Veja na próxima página a distribuição dos cuidados entre os diferentes estados do país.

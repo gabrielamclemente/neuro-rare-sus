@@ -37,8 +37,7 @@ revelar();
 
 <div class="hero">
   <h1>Metade das AIHs acontecem fora do município de residência</h1>
-  <p>Mas quase nenhuma cruza fronteira estadual. A rede de referência se organiza
-  dentro dos estados, e a concentração acompanha o tipo de cuidado, não a
+  <p>A rede de referência é organizada em cada estado, sendo assim por mais que metade das AIHs aconteça fora do município de residência, quase nenhuma cruza fronteira estadual. A concentração acompanha o tipo de cuidado, não a
   raridade da condição.</p>
 </div>
 
@@ -64,24 +63,21 @@ revelar();
 ## A hipótese que os dados refutaram
 
 Uma amostra exploratória de quatro estados sugeria que a atrofia muscular
-espinhal teria **17% das AIHs fora da UF de residência**, contra 0,3% da
-esclerose múltipla. Parecia deslocamento interestadual expressivo nas condições
-mais raras.
+espinhal seria responsável por **17% das AIHs fora da UF de residência**, comparados a 0,3% da esclerose múltipla. Os dados da amostra exploratória levavam a crer que havia um descolamento interestadual expressivo para tratar as condições mais raras. 
 
-Com as 27 UFs e o ano completo, esse número **cai para 2,8%**. O viés era
-previsível: com só quatro estados baixados, um residente de Goiás internado em
+Contudo, considerando as 27 UFs bem como os dados completos de AIHs no 2024, esse número **cai para 2,8%**. Esse viés era
+previsível: na amostra exploratória, um residente de Goiás internado em
 Goiás não aparecia na amostra, enquanto um residente de Goiás internado no
-Distrito Federal aparecia.
+Distrito Federal, sim, já que estávamos considerando somente quatro estados.
 
 <div class="note">
 
-No Brasil inteiro, em 2024, foram **97 deslocamentos interestaduais em 11.590
-AIHs**. Não sustentam um diagrama de fluxo. O achado foi mantido como resultado
-negativo documentado, em vez de ajustado para preservar a narrativa.
+Em 2024, foram registrados **97 deslocamentos interestaduais em 11.590 AIHs** no Brasil inteiro. O achado foi mantido como resultado
+negativo documentado em vez de ajustado para preservar a narrativa.
 
 </div>
 
-## A escala correta é municipal
+## A escala correta é a municipal
 
 ```js
 const ordemDeslocamento = ["Mesmo município", "Outro município, mesma UF", "Outra UF"];
@@ -126,13 +122,13 @@ comAnimacao(Plot.plot({
 }), "reveal animate-bars")
 ```
 
-A faixa laranja é quase invisível, e esse é o ponto. Atravessar fronteira
+A faixa laranja é quase invisível no gráfico acima, pois atravessar a fronteira
 estadual é exceção administrativa, não o caminho usual do paciente.
 
 ## Onde a demanda se origina
 
 Este mapa mostra a UF de **residência** de quem foi atendido, não onde o
-atendimento aconteceu. Demanda é de onde a pessoa é.
+atendimento aconteceu. Demanda é registrada conforme o local de residência do paciente.
 
 ```js
 const condicaoMapa = view(Inputs.select(
@@ -201,22 +197,21 @@ comAnimacao(Plot.plot({
 
 <div class="mapa-legenda">
 
-Escala linear em cinco faixas iguais, do branco ao azul. **Sem correção por
-população**. São Paulo e Minas aparecem escuros em parte por serem os estados
+Escala linear em cinco faixas iguais, do branco ao azul, **ainda sem padronização por 
+população**. São Paulo e Minas aparecem escuros por serem os estados
 mais populosos. A normalização por 100 mil habitantes depende da tabela do
-IBGE, ainda pendente no pipeline, e sem ela o mapa mostra volume, não risco.
+IBGE, ainda pendente no pipeline, e sem ela o mapa mostra volume de incidências de AIHs, e não as regiões que apresentam o maior risco de ocorrerem casos.
 
 </div>
 
-## Quanto do atendimento cabe nos primeiros municípios
+## Quão concentrados são os cuidados
 
-Cada curva mostra o percentual acumulado conforme se somam os municípios, do
-maior volume para o menor. Quanto mais rápido sobe, mais concentrado é o cuidado.
+Cada curva representa o percentual acumuladoda soma dos municípios, patrindo daquele com o maior volume de AIHs para o menor. Quanto mais rápido sobe, mais concentrado é o cuidado.
 
 ```js
 const destaque = view(Inputs.select(
   ["Todas", ...condicoes],
-  {label: "Destacar", value: "Todas"}
+  {label: " ", value: "Todas"}
 ));
 ```
 
@@ -263,9 +258,7 @@ comAnimacao(Plot.plot({
 }), "reveal animate-lines")
 ```
 
-Os nomes saíram do fim das linhas de propósito: com cinco curvas convergindo à
-direita, os rótulos se sobrepunham. A identificação fica na legenda, no seletor
-de destaque e no tooltip de cada ponto.
+As síglas dos estados não foram incluídas no gráfico de propósito já a medida que convergiam á direita os rótulos se sobrepunham. A identificação fica na legenda, no seletor de destaque e no tooltip de cada ponto.
 
 <div class="note">
 
@@ -351,19 +344,16 @@ Inputs.table(linhas, {
 
 </div>
 
-## O cuidado está na rede habilitada?
+## Afinal, Onde Está o Cuidado das 5 Doenças Estudadas?
 
 ```js
 const rede = await FileAttachment("data/vwNetworkCoverage.csv").csv({typed: true});
 ```
 
-A Rede de Atenção Especializada em Doenças Raras existe desde 2014 e é o
-instrumento da política nacional. Se a concentração que vimos acima for
-deliberada, os centros que concentram cada condição devem ser serviços
-habilitados dessa rede.
+A Rede de Atenção Especializada em Doenças Raras existe desde 2014 e é um
+instrumento da política pública. Se houver qualquer aumento na incidência de casos, serão poucos os centros especializados capazes de atender a demanda por cuidado de forma eficaz. 
 
-Em junho de 2024 a rede tinha **34 estabelecimentos em 13 estados**. Cruzando
-com os hospitais que de fato registram AIHs no escopo:
+Em junho de 2024 a rede tinha **34 estabelecimentos em 13 estados**. Fazendo uma referência cruzada com os hospitais que de fato registram AIHs no escopo:
 
 ```js
 const ordemRede = rede.slice()
@@ -425,20 +415,20 @@ comAnimacao(Plot.plot({
   </div>
 </div>
 
-A rede captura o cuidado hospitalar das condições **genéticas e ultrarraras**,
+A rede capta o cuidado hospitalar das condições **genéticas e ultrarraras**, a saber, 
 atrofia muscular espinhal e polineuropatia amiloidótica, e praticamente não
-captura as demais. A esclerose múltipla, que responde por 72% do volume do
+capta as demais. A esclerose múltipla, que responde por 72% do volume do
 escopo, tem 95% do seu atendimento fora da rede habilitada, e nenhum dos seus
-cinco maiores centros é habilitado.
+cinco maiores centros, recebendo pacientes com esclerose múltipla é habilitado.
 
-É o mesmo corte entre condições que apareceu nos regimes de AIH, mas por um eixo
+É o mesmo corte entre condições que apareceram nos regimes de AIH, mas por um eixo
 diferente: lá era a duração do episódio, aqui é a natureza da condição.
 
 ## O que isso não prova
 
-Concentração não é, por si, um problema. Condições raras exigem volume para que
-uma equipe desenvolva e mantenha expertise, e a política nacional de doenças
-raras organiza a rede justamente assim.
+Concentração não é, em si, o problema. Condições raras exigem volume para que
+uma equipe desenvolva e mantenha expertise, e uma política pública de doenças
+raras adequada para que a rede se organize justamente assim.
 
 <div class="note">
 
@@ -446,16 +436,15 @@ raras organiza a rede justamente assim.
 acompanhamento, boa parte deles ambulatoriais e fora do SIH. Um surto de
 esclerose múltipla tratado com pulsoterapia no hospital geral mais próximo pode
 ser exatamente o desenho pretendido. Além disso, a competência analisada é junho
-de 2024, houve expansão da rede depois disso, e a habilitação é do
-estabelecimento, não do atendimento específico.
+de 2024. Depois disso, houve expansão da rede e vale lembrar que a habilitação é dada ao estabelecimento, não do atendimento específico.
 
 </div>
 
-O cruzamento com o CNES respondeu **onde** o cuidado acontece em relação à rede
-formal. Não responde **por quê**, e não mede acesso: nada aqui informa quanto
-tempo alguém esperou, quanto se deslocou ou se chegou a ser atendido. Explicar o
-padrão exige o SIA/SUS, onde mora o cuidado ambulatorial dessas condições, e
-isso está fora deste escopo.
+A referência cruzada com o CNES respondeu **onde** o cuidado acontece em relação à rede
+formal. Não responde **por quê** e não mede acesso: nada aqui informa quanto
+tempo alguém esperou, quanto se deslocou, ou se chegou a ser atendido. Explicar o
+padrão exige idenficar onde mora o cuidado ambulatorial dessas condições, e
+isso está fora do escopo deste estudo.
 
 Os dados levantam a pergunta com precisão. Respondê-la é trabalho de outra
 natureza.
